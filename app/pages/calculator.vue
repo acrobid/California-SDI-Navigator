@@ -105,43 +105,6 @@ const showDetails = ref(false);
 
             <USeparator />
 
-            <!-- Employment Section -->
-            <div class="space-y-6">
-              <h3
-                class="flex items-center gap-2 text-sm font-semibold text-primary-600 dark:text-primary-400 uppercase tracking-wider"
-              >
-                <UIcon name="i-lucide-briefcase" class="w-4 h-4" />
-                Employment Details
-              </h3>
-
-              <div class="grid sm:grid-cols-2 gap-6">
-                <UFormField label="Rank">
-                  <div class="flex gap-4">
-                    <URadioGroup
-                      v-model="inputs.rank"
-                      :items="[
-                        { label: 'Captain', value: 'captain' },
-                        { label: 'First Officer', value: 'first-officer' },
-                      ]"
-                    />
-                  </div>
-                </UFormField>
-
-                <UFormField label="Years of Service">
-                  <UInput
-                    v-model.number="inputs.yearsOfService"
-                    type="number"
-                    placeholder="10"
-                    :min="0"
-                    :max="50"
-                    icon="i-lucide-award"
-                  />
-                </UFormField>
-              </div>
-            </div>
-
-            <USeparator />
-
             <!-- LTD Section -->
             <div class="space-y-6">
               <h3

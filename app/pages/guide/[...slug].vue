@@ -55,7 +55,9 @@ const isGuideMenuOpen = ref(false);
 
 const accordionItems = computed(() => {
   return sections.value.map((section) => {
-    const isCurrentSection = section.pages.some((p) => p.path === currentPath.value);
+    const isCurrentSection = section.pages.some(
+      (p) => p.path === currentPath.value,
+    );
     return {
       label: section.title,
       defaultOpen: isCurrentSection,
@@ -137,8 +139,13 @@ useSeoMeta({
             >
               <UIcon name="i-lucide-book-open" class="w-5 h-5" />
             </NuxtLink>
-            <UIcon name="i-lucide-chevron-right" class="w-4 h-4 text-gray-400 flex-shrink-0" />
-            <span class="text-sm font-medium text-gray-700 dark:text-gray-300 truncate">
+            <UIcon
+              name="i-lucide-chevron-right"
+              class="w-4 h-4 text-gray-400 flex-shrink-0"
+            />
+            <span
+              class="text-sm font-medium text-gray-700 dark:text-gray-300 truncate"
+            >
               {{ page?.title }}
             </span>
           </div>
@@ -158,8 +165,13 @@ useSeoMeta({
           <template #body>
             <div class="flex flex-col gap-8">
               <!-- Page TOC for Mobile -->
-              <div v-if="page?.body?.toc?.links?.length" class="space-y-3 pb-6 border-b border-gray-100 dark:border-gray-800">
-                <h4 class="text-[10px] font-bold text-gray-400 uppercase tracking-widest px-1">
+              <div
+                v-if="page?.body?.toc?.links?.length"
+                class="space-y-3 pb-6 border-b border-gray-100 dark:border-gray-800"
+              >
+                <h4
+                  class="text-[10px] font-bold text-gray-400 uppercase tracking-widest px-1"
+                >
                   On This Page
                 </h4>
                 <ul class="space-y-3 px-1">

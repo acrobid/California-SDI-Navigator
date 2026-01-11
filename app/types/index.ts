@@ -6,8 +6,6 @@ export interface CalculatorInputs {
   annualBaseSalary: number
   averageMonthlyIncome: number
   highestQuarterlyIncome: number
-  rank: 'captain' | 'first-officer'
-  yearsOfService: number
   expectedDisabilityWeeks: number
   hasExhaustedSickBank: boolean
   ltdPercentage: 50 | 60
