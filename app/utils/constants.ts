@@ -228,6 +228,9 @@ export const KEY_DATES = {
 // LTD Appeal Deadline
 export const LTD_APPEAL_DAYS = 180; // 6 months (CBA reference)
 
+// Legacy export for backward compatibility
+export const HARTFORD_APPEAL_DAYS = LTD_APPEAL_DAYS;
+
 // EDD Filing Deadline
 export const EDD_FILING_DEADLINE_DAYS = 49;
 

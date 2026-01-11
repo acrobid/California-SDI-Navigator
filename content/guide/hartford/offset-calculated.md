@@ -1,8 +1,8 @@
 ---
 title: "How Offset Is Calculated"
-description: "Understanding the Hartford LTD offset calculation"
+description: "Understanding the LTD offset calculation"
 icon: "i-lucide-calculator"
-order: 2
+order: 20
 lastUpdated: "2026-01-11"
 ---
 
@@ -10,12 +10,16 @@ lastUpdated: "2026-01-11"
 
 Understanding the offset calculation is crucial for knowing what you'll actually receive.
 
+::callout{type="info" title="Comprehensive Offset Guide Available"}
+For complete details on **all offset types** (CA SDI, SSDI with 70% rule, and outside income), see the [comprehensive LTD Offsets guide](/guide/hartford/offsets). This page provides a simplified overview.
+::
+
 ## The Basic Concept
 
-Hartford LTD reduces your LTD payment by the amount of "other income" you receive, including SDI.
+The LTD administrator reduces your LTD payment by the amount of "other income" you receive, including SDI.
 
 ::callout{type="warning" title="This Is The Core Problem"}
-You pay California SDI tax on your full earnings. But Hartford reduces your LTD by that same SDI amount. You're effectively paying for a benefit that doesn't increase your total income.
+You pay California SDI tax on your full earnings. But the administrator reduces your LTD by that same SDI amount. You're effectively paying for a benefit that doesn't increase your total income.
 ::
 
 ## Step-by-Step Calculation
@@ -24,25 +28,27 @@ You pay California SDI tax on your full earnings. But Hartford reduces your LTD 
 
 ```
 Pre-disability earnings: $350,000 (capped at IRS limit)
-LTD percentage: 66.67%
-Gross monthly LTD: $350,000 × 66.67% ÷ 12 = $19,446
+LTD percentage: 60% (first 24 months)
+Gross monthly LTD: $350,000 × 60% ÷ 12 = $17,500
 ```
+
+**Note:** Percentage drops to 50% after 24 months. See [Benefit Calculation](/guide/hartford/calculation) for details.
 
 ### Step 2: Determine SDI Weekly Benefit
 
 ```
 Highest quarterly earnings: $87,500
 Weekly benefit: ~60-70% of highest weekly wage
-Maximum weekly SDI: $1,620 (2026)
-Monthly SDI: $1,620 × 4.33 = ~$7,015
+Maximum weekly SDI: $1,681 (2026)
+Monthly SDI: $1,681 × 4.33 = ~$7,279
 ```
 
 ### Step 3: Apply the Offset
 
 ```
-Gross LTD benefit:       $19,446/month
-Less: SDI offset:        -$7,015/month
-Net LTD payment:         $12,431/month
+Gross LTD benefit:       $17,500/month
+Less: SDI offset:        -$7,279/month
+Net LTD payment:         $10,221/month
 ```
 
 ### Your Total Income

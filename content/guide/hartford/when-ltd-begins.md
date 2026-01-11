@@ -1,24 +1,28 @@
 ---
 title: "When LTD Begins"
-description: "Understanding when Hartford Long-Term Disability coverage starts"
+description: "Understanding when Long-Term Disability coverage starts"
 icon: "i-lucide-calendar-check"
-order: 1
+order: 10
 lastUpdated: "2026-01-11"
 ---
 
-# When Hartford LTD Begins
+# When LTD Begins
 
 Understanding when Long-Term Disability (LTD) kicks in is essential for financial planning during your disability.
+
+::callout{type="warning" title="CBA Eligibility Triggers"}
+**Important:** The FedEx LTD Plan has specific eligibility triggers beyond the 180-day elimination period. LTD benefits begin when you **exhaust sick banks** OR experience a **disability-related seat/position change**. See [LTD Eligibility Triggers](/guide/hartford/eligibility) for complete details.
+::
 
 ## The Waiting Period
 
 ### 180-Day Elimination Period
 
-Hartford LTD has a **180-day elimination period** (also called "waiting period"):
+LTD has a **180-day elimination period** (also called "waiting period"):
 
 ```
 Day 1-180:   Elimination period (no LTD payments)
-Day 181:     LTD benefits begin (if approved)
+Day 181:     LTD benefits begin (if approved and eligibility met)
 ```
 
 ::callout{type="info" title="Six Full Months"}
@@ -200,11 +204,23 @@ If approval takes too long:
 
 ### Offset Disputes
 
-If you disagree with Hartford's offset calculation:
+If you disagree with the administrator's offset calculation:
 
 - Request detailed calculation
 - Compare to policy language
+- Review [comprehensive offset rules](/guide/hartford/offsets)
 - Use [PBRB process](/guide/hartford/pbrb) if needed
+
+## Additional LTD Topics
+
+For complete CBA-based information about LTD benefits:
+
+- **[LTD Eligibility Triggers](/guide/hartford/eligibility)** - When LTD actually begins
+- **[Benefit Calculation](/guide/hartford/calculation)** - How benefits are calculated
+- **[Offset Rules](/guide/hartford/offsets)** - CA SDI, SSDI, and outside income offsets
+- **[Cooperation Requirements](/guide/hartford/cooperation)** - What's required to maintain benefits
+- **[Duration Limits](/guide/hartford/duration)** - How long benefits last by condition type
+- **[Company System Access](/guide/hartford/company-access)** - Your right to access company systems
 
 ## Next Steps
 
