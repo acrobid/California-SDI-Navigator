@@ -220,10 +220,7 @@ useSeoMeta({
                       {{ link.text }}
                     </a>
                     <ul v-if="link.children" class="ml-3 mt-1 space-y-2">
-                      <li
-                        v-for="child in link.children"
-                        :key="child.id"
-                      >
+                      <li v-for="child in link.children" :key="child.id">
                         <a
                           :href="`#${child.id}`"
                           class="text-gray-500 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"

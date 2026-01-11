@@ -1,5 +1,9 @@
 <script setup lang="ts">
-import { CA_SDI_RATES, EDD_FILING_DEADLINE_DAYS, HARTFORD_APPEAL_DAYS } from "~/utils/constants";
+import {
+  CA_SDI_RATES,
+  EDD_FILING_DEADLINE_DAYS,
+  HARTFORD_APPEAL_DAYS,
+} from "~/utils/constants";
 
 useSeoMeta({
   title: "CA SDI Navigator - FedEx Pilots",
