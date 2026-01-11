@@ -51,13 +51,18 @@ const sections = computed(() => {
     .map(([path, data]) => ({ path, ...data }));
 });
 
+const isGuideMenuOpen = ref(false);
+
 const accordionItems = computed(() => {
-  return sections.value.map((section) => ({
-    label: section.title,
-    defaultOpen: true,
-    slot: "links",
-    pages: section.pages,
-  }));
+  return sections.value.map((section) => {
+    const isCurrentSection = section.pages.some((p) => p.path === currentPath.value);
+    return {
+      label: section.title,
+      defaultOpen: isCurrentSection,
+      slot: "links",
+      pages: section.pages,
+    };
+  });
 });
 
 // Find previous and next pages
@@ -121,52 +126,90 @@ useSeoMeta({
           </nav>
         </aside>
 
-        <!-- Mobile Navigation Toggle -->
-        <div class="lg:hidden mb-6">
-          <UCollapsible>
-            <template #trigger>
-              <UButton variant="outline" class="w-full justify-between">
-                <span class="flex items-center gap-2">
-                  <UIcon name="i-lucide-menu" class="w-4 h-4" />
-                  Guide Navigation
-                </span>
-                <UIcon name="i-lucide-chevron-down" class="w-4 h-4" />
-              </UButton>
-            </template>
-
-            <div
-              class="mt-4 space-y-4 pb-4 border-b border-gray-200 dark:border-gray-800"
+        <!-- Mobile Navigation Sticky Bar -->
+        <div
+          class="lg:hidden sticky top-[65px] z-40 -mx-4 px-4 py-3 mb-6 bg-white/80 dark:bg-gray-950/80 backdrop-blur-md border-b border-gray-200 dark:border-gray-800 flex items-center justify-between"
+        >
+          <div class="flex items-center gap-2 overflow-hidden">
+            <NuxtLink
+              to="/guide"
+              class="flex-shrink-0 text-gray-500 hover:text-primary-600 dark:text-gray-400"
             >
-              <NuxtLink
-                to="/guide"
-                class="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-400"
-              >
-                <UIcon name="i-lucide-arrow-left" class="w-4 h-4" />
-                All Topics
-              </NuxtLink>
+              <UIcon name="i-lucide-book-open" class="w-5 h-5" />
+            </NuxtLink>
+            <UIcon name="i-lucide-chevron-right" class="w-4 h-4 text-gray-400 flex-shrink-0" />
+            <span class="text-sm font-medium text-gray-700 dark:text-gray-300 truncate">
+              {{ page?.title }}
+            </span>
+          </div>
 
-              <UAccordion :items="accordionItems" multiple>
-                <template #links="{ item }">
-                  <ul class="space-y-1 pb-2">
-                    <li v-for="navPage in item.pages" :key="navPage.path">
-                      <NuxtLink
-                        :to="navPage.path"
-                        class="block px-3 py-2 text-sm rounded-lg"
-                        :class="[
-                          navPage.path === currentPath
-                            ? 'bg-primary-100 dark:bg-primary-900/30 text-primary-700 dark:text-primary-300'
-                            : 'text-gray-600 dark:text-gray-400',
-                        ]"
-                      >
-                        {{ navPage.title }}
-                      </NuxtLink>
-                    </li>
-                  </ul>
-                </template>
-              </UAccordion>
-            </div>
-          </UCollapsible>
+          <UButton
+            variant="ghost"
+            color="neutral"
+            icon="i-lucide-list-tree"
+            label="In this Guide"
+            size="sm"
+            @click="isGuideMenuOpen = true"
+          />
         </div>
+
+        <!-- Mobile Navigation Slideover -->
+        <USlideover v-model:open="isGuideMenuOpen" title="Guide Navigation">
+          <template #body>
+            <div class="flex flex-col gap-8">
+              <!-- Page TOC for Mobile -->
+              <div v-if="page?.body?.toc?.links?.length" class="space-y-3 pb-6 border-b border-gray-100 dark:border-gray-800">
+                <h4 class="text-[10px] font-bold text-gray-400 uppercase tracking-widest px-1">
+                  On This Page
+                </h4>
+                <ul class="space-y-3 px-1">
+                  <li v-for="link in page.body.toc.links" :key="link.id">
+                    <a
+                      :href="`#${link.id}`"
+                      class="block text-sm text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400"
+                      @click="isGuideMenuOpen = false"
+                    >
+                      {{ link.text }}
+                    </a>
+                  </li>
+                </ul>
+              </div>
+
+              <!-- Site Navigation -->
+              <div class="space-y-4">
+                <NuxtLink
+                  to="/guide"
+                  class="flex items-center gap-2 text-sm font-semibold text-primary-600 dark:text-primary-400 px-1 mb-4"
+                  @click="isGuideMenuOpen = false"
+                >
+                  <UIcon name="i-lucide-arrow-left" class="w-4 h-4" />
+                  All Guide Topics
+                </NuxtLink>
+
+                <UAccordion :items="accordionItems" multiple>
+                  <template #links="{ item }">
+                    <ul class="space-y-1 pb-2">
+                      <li v-for="navPage in item.pages" :key="navPage.path">
+                        <NuxtLink
+                          :to="navPage.path"
+                          class="block px-3 py-2 text-sm rounded-lg transition-colors"
+                          :class="[
+                            navPage.path === currentPath
+                              ? 'bg-primary-50 dark:bg-primary-900/20 text-primary-700 dark:text-primary-300 font-semibold'
+                              : 'text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-900',
+                          ]"
+                          @click="isGuideMenuOpen = false"
+                        >
+                          {{ navPage.title }}
+                        </NuxtLink>
+                      </li>
+                    </ul>
+                  </template>
+                </UAccordion>
+              </div>
+            </div>
+          </template>
+        </USlideover>
 
         <!-- Main Content -->
         <main class="lg:col-span-9">
@@ -291,6 +334,11 @@ useSeoMeta({
 </template>
 
 <style scoped>
+/* Hide the first H1 in markdown since we render it in the template header */
+.prose :deep(h1:first-child) {
+  display: none;
+}
+
 /* Custom prose styles for callouts */
 .prose :deep(.callout) {
   margin-top: 1.5rem;

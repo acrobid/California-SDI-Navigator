@@ -56,15 +56,17 @@ const mobileMenuOpen = ref(false);
           </UButton>
         </nav>
 
-        <!-- Mobile Menu -->
-        <USlideover v-model:open="mobileMenuOpen" title="Menu">
-          <UButton
-            class="lg:hidden"
-            variant="ghost"
-            color="neutral"
-            icon="i-lucide-menu"
-          />
+        <!-- Mobile Menu Toggle -->
+        <UButton
+          class="lg:hidden"
+          variant="ghost"
+          color="neutral"
+          icon="i-lucide-menu"
+          @click="mobileMenuOpen = true"
+        />
 
+        <!-- Mobile Menu Slideover -->
+        <USlideover v-model:open="mobileMenuOpen" title="Menu">
           <template #body>
             <div class="flex flex-col gap-2">
               <UButton
