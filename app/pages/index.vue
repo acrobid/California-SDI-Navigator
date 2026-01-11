@@ -15,24 +15,24 @@ const currentYear = new Date().getFullYear();
 const currentRate = CA_SDI_RATES[currentYear] || CA_SDI_RATES[2026];
 
 const quickLinks = [
+  // why this guide exists
+  {
+    title: "Why this guide exists",
+    description:
+      "Understand the unique challenges FedEx pilots face with CA SDI",
+    icon: "lucide-info",
+    to: "/guide/overview/why-this-guide",
+  },
   {
     title: "Process Guide",
     description: "Step-by-step documentation of the CA SDI claim process",
     icon: "i-lucide-book-open",
     to: "/guide",
-    color: "blue", // Semantic mapping: guide usually informational
-  },
-  {
-    title: "Benefit Calculator",
-    description: "Estimate your CA SDI and LTD benefits",
-    icon: "i-lucide-calculator",
-    to: "/calculator",
-    color: "emerald", // Money/Success
   },
   {
     title: "Claim Checklist",
     description: "Track your progress through the process",
-    icon: "i-lucide-check-square",
+    icon: "lucide-check",
     to: "/checklist",
     color: "indigo", // Task
   },
@@ -41,7 +41,12 @@ const quickLinks = [
     description: "Visualize your claim timeline and deadlines",
     icon: "i-lucide-calendar",
     to: "/timeline",
-    color: "amber", // Time/Warning
+  },
+  {
+    title: "Benefit Calculator",
+    description: "Estimate your CA SDI and LTD benefits",
+    icon: "i-lucide-calculator",
+    to: "/calculator",
   },
 ];
 
@@ -159,12 +164,12 @@ const keyInfo = [
     <section>
       <UCard class="bg-gray-50 dark:bg-gray-900/50">
         <div
-          class="grid md:grid-cols-3 gap-8 text-center divide-y md:divide-y-0 md:divide-x divide-gray-200 dark:divide-gray-800"
+          class="grid md:grid-cols-3 text-center divide-y md:divide-y-0 md:divide-x divide-gray-200 dark:divide-gray-800"
         >
           <div
             v-for="stat in keyInfo"
             :key="stat.title"
-            class="pt-4 md:pt-0 px-4"
+            class="py-4 md:pt-0 px-4"
           >
             <div
               class="mb-2 text-gray-500 dark:text-gray-400 text-sm font-medium uppercase tracking-wider flex items-center justify-center gap-2"

@@ -99,7 +99,7 @@ const handleReset = () => {
             <span class="text-gray-500">Complete</span>
           </div>
           <UProgress
-            :value="progress.percentage"
+            :model-value="progress.percentage"
             :max="100"
             color="primary"
             size="lg"
@@ -170,7 +170,8 @@ const handleReset = () => {
                 }}
               </span>
               <UProgress
-                :value="phaseProgress[phase]?.percentage || 0"
+                :model-value="phaseProgress[phase]?.percentage || 0"
+                :max="100"
                 color="primary"
                 size="xs"
                 class="w-20 mt-1"

@@ -53,9 +53,7 @@ Compensation for meals and incidentals while traveling.
 
 Additional compensation for specific situations:
 
-- Holiday pay
 - Override pay
-- Night operations differential
 - Training pay
 - **These are taxable wages** and should be included in your calculations.
 
