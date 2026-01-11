@@ -26,11 +26,13 @@ LTD does NOT begin when just one bank is exhausted. Both your regular sick and D
 ::
 
 **How to check:**
+
 - Log into Workday
 - View your sick bank balances
 - Calculate your burn rate based on current disability
 
 **Example:**
+
 ```
 Regular sick: 120 hours (15 days)
 DSA balance:  480 hours (60 days)
@@ -44,6 +46,7 @@ If using 8 hours per day → LTD eligible after 75 days
 You become eligible if you bid down to a lower seat **because of disability**:
 
 **Examples:**
+
 - Captain → First Officer due to medical restrictions
 - Wide-body → Narrow-body due to inability to handle longer flights
 - International → Domestic due to medical limitations
@@ -53,6 +56,7 @@ The seat change must be **caused by your disability**, not by personal preferenc
 ::
 
 **Documentation needed:**
+
 - Medical documentation showing restrictions
 - Proof that restrictions prevent you from holding current seat
 - Bid award showing the seat change
@@ -62,6 +66,7 @@ The seat change must be **caused by your disability**, not by personal preferenc
 You become eligible if you move to a ground position **because of disability**:
 
 **Examples:**
+
 - Pilot → Flight operations coordinator
 - Pilot → Training department
 - Pilot → Safety department
@@ -80,12 +85,12 @@ This allows pilots who can no longer fly but can work in other capacities to rec
 
 ### Timing Can Vary Widely
 
-| Scenario | Time to LTD Eligibility |
-|----------|-------------------------|
-| Large sick banks | 6+ months |
-| Smaller sick banks | 1-3 months |
-| Immediate seat change | Potentially immediate |
-| Non-pilot position | Potentially immediate |
+| Scenario              | Time to LTD Eligibility |
+| --------------------- | ----------------------- |
+| Large sick banks      | 6+ months               |
+| Smaller sick banks    | 1-3 months              |
+| Immediate seat change | Potentially immediate   |
+| Non-pilot position    | Potentially immediate   |
 
 ### CA SDI Filing Is Independent
 
@@ -94,6 +99,7 @@ This allows pilots who can no longer fly but can work in other capacities to rec
 ::
 
 CA SDI has:
+
 - 7-day waiting period
 - 49-day filing deadline
 - 52-week maximum duration
@@ -117,6 +123,7 @@ LTD eligibility may not occur until months into your disability.
 **Partial disability:** Varies based on hours worked
 
 **Example calculation:**
+
 ```
 Regular sick: 200 hours ÷ 8 hours/day = 25 days
 DSA:          400 hours ÷ 8 hours/day = 50 days
@@ -128,10 +135,12 @@ Expected LTD start: 75 days after disability begins
 ### Step 3: Plan for Gaps
 
 **Between sick exhaustion and first LTD payment:**
+
 - Processing time: 2-4 weeks typical
 - First payment: Usually 2-4 weeks after approval
 
 **Financial bridge:**
+
 - Ensure adequate savings
 - CA SDI may help bridge the gap
 - Consider emergency funds
@@ -167,6 +176,7 @@ If you're on disability and then bid to a lower seat:
 3. Must be disability-related, not preference
 
 **Example:**
+
 ```
 Day 1:   Captain becomes disabled
 Day 30:  Still on sick banks
@@ -204,7 +214,7 @@ Keep records of:
 Once you determine your LTD eligibility date:
 
 1. **File LTD claim** 30-60 days before eligibility date
-2. **Verify administrator** - Confirm whether Aetna or Hartford (see [Contacts](/contacts))
+2. **Verify administrator** - Hartford (see [Contacts](/contacts))
 3. **Understand calculations** - Review [benefit calculations](/guide/hartford/calculation)
 4. **Learn about offsets** - Study [offset rules](/guide/hartford/offsets)
 

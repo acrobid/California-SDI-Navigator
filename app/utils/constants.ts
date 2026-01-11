@@ -84,7 +84,8 @@ export function getMaxMonthlyLTDBenefit(
 ): number {
   const limit =
     LTD_CALCULATION.irs401a17Limits[year] ||
-    LTD_CALCULATION.irs401a17Limits[2026];
+    LTD_CALCULATION.irs401a17Limits[2026] ||
+    350000; // Default to 2026 limit if year not found
   const monthlyLimit = limit / 12;
   const percentage =
     monthsOnLTD <= 24
@@ -208,10 +209,7 @@ export const DISABLED_PILOT_SYSTEM_ACCESS = [
 // ============================================
 
 export const CLAIMS_ADMINISTRATOR = {
-  // CBA references Aetna - verify this is current
-  name: "Aetna Life Insurance Company",
-  note: "CBA Section 27.J references Aetna. Verify current administrator with FedEx Benefits or ALPA.",
-  legacyName: "The Hartford", // Some documentation may reference Hartford
+  name: "The Hartford",
 };
 
 // ============================================
