@@ -195,12 +195,6 @@ useSeoMeta({
               name="i-lucide-calculator"
               class="w-8 h-8 text-primary-500"
             />
-            <div>
-              <div class="font-medium text-gray-900 dark:text-white">
-                Calculator
-              </div>
-              <div class="text-sm text-gray-500">Estimate benefits</div>
-            </div>
           </NuxtLink>
 
           <NuxtLink

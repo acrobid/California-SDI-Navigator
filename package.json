@@ -13,6 +13,7 @@
     "@nuxt/eslint": "^1.12.1",
     "@nuxt/image": "^2.0.0",
     "@nuxt/ui": "^4.3.0",
+    "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.1.18",
     "better-sqlite3": "^12.6.0",
     "eslint": "^9.39.2",
