@@ -88,8 +88,10 @@ Enter your personal details. Ensure these match your FedEx employment records an
 
 **Last Employer Section:**
 
-- Employer name: **Federal Express Corporation** (or Federal Express Corp)
-- Employer address: Use the address listed on your pay stub (usually Memphis, TN address).
+- Employer name: **Federal Express Corporation**
+- Employer address: **3620 Hacks Cross Road, Building B 3rd Floor, Memphis, TN 38125**
+- Supervisor/Verification: **Shelia Voye** (Pilot Administration Center - Fleet Operations)
+- Phone: **901-434-5000**
 - Your occupation: **Airline Pilot**
 - Last day worked: This is the **last day you physically flew or were on duty**.
 - Reason for stopping work: Illness/Injury/Disability

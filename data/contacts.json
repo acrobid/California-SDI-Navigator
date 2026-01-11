@@ -150,5 +150,31 @@
     "website": "https://mbc.ca.gov/breeze/",
     "notes": "Verify your doctor's medical license is current before filing.",
     "lastVerified": "2026-01-01"
+  },
+  {
+    "id": "fedex-pac",
+    "name": "Pilot Administration Center (PAC)",
+    "organization": "fedex",
+    "type": "office",
+    "contactPerson": "Shelia Voye",
+    "address": "3620 Hacks Cross Road, Building B 3rd Floor",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38125",
+    "phone": "901-434-5000",
+    "notes": "Use as supervisor and for employment verification on SDI forms. Contact for assistance with Pilot Benefits Administration and payroll if required.",
+    "lastVerified": "2026-01-11"
+  },
+  {
+    "id": "fedex-payroll-sdi",
+    "name": "FedEx Payroll - CA SDI Dept",
+    "organization": "fedex",
+    "type": "office",
+    "address": "30 FedEx Parkway, 2nd Floor Horizontal",
+    "city": "Collierville",
+    "state": "TN",
+    "zip": "38017",
+    "notes": "Address used by the payroll department to submit CA SDI payments.",
+    "lastVerified": "2026-01-11"
   }
 ]

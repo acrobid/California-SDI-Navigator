@@ -14,7 +14,9 @@ California State Disability Insurance (SDI) is a state-mandated program that pro
 
 ### What Is SDI?
 
-SDI is funded through mandatory payroll deductions from California workers. As a FedEx pilot based in California (OAK domicile), you are required by law to participate in this program.
+As a FedEx pilot domiciled in the state of California, you are covered by the California State Disability Insurance (SDI) program. SDI is a partial wage-replacement insurance plan that is paid for by a monthly deduction from your wages.
+
+**Note on Residency:** This deduction is a function of working in the state of California, not your state of legal residence. Even if you live in another state, if you are based in California, you pay into and are covered by SDI.
 
 **Key Points:**
 
@@ -142,6 +144,11 @@ Many pilots experience significant delays due to EDD's difficulty understanding 
 | LTD           | The Hartford (FedEx) | Long-term disability  | Years           |
 | Sick Bank     | FedEx                | Short-term absence    | Until exhausted |
 | Workers' Comp | Employer             | Work-related injury   | As needed       |
+
+## More Information
+
+More information about this program can be found on the State of California Employment Development Department (EDD) website:
+[About the State Disability Insurance (SDI) Program](https://edd.ca.gov/en/disability/About_the_State_Disability_Insurance_SDI_Program/)
 
 ## Next Steps
 
