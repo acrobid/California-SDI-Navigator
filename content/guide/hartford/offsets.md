@@ -418,7 +418,18 @@ Yes, but:
 
 ### Q: What about VA disability payments?
 
-VA disability typically has **separate** offset rules not covered by standard CBA offsets. Consult with your LTD administrator.
+**VA disability is typically NOT offset** from LTD benefits because:
+- VA benefits are compensation for service-connected disabilities
+- They are not "disability income" in the traditional sense
+- Most LTD plans exclude VA benefits from offsets
+
+**However:**
+- Verify with your specific LTD administrator
+- Review your actual plan documents
+- VA benefits may affect SSDI eligibility/amount
+- Some plans have specific VA offset provisions
+
+**Action:** Contact your LTD administrator at the start of your claim to confirm VA benefit treatment.
 
 ---
 
