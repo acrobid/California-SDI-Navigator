@@ -119,7 +119,7 @@ const contactsByOrg = computed(() => {
                 >
                   <UIcon
                     name="i-lucide-map-pin"
-                    class="w-4 h-4 mt-0.5 flex-shrink-0"
+                    class="w-4 h-4 mt-0.5 shrink-0"
                   />
                   <div>
                     <p>{{ contact.address }}</p>

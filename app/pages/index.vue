@@ -1,9 +1,5 @@
 <script setup lang="ts">
-import {
-  CA_SDI_RATES,
-  HARTFORD_APPEAL_DAYS,
-  EDD_FILING_DEADLINE_DAYS,
-} from "~/utils/constants";
+import { CA_SDI_RATES, EDD_FILING_DEADLINE_DAYS, HARTFORD_APPEAL_DAYS } from "~/utils/constants";
 
 useSeoMeta({
   title: "CA SDI Navigator - FedEx Pilots",
@@ -20,28 +16,28 @@ const quickLinks = [
     description: "Step-by-step documentation of the CA SDI claim process",
     icon: "i-lucide-book-open",
     to: "/guide",
-    color: "primary",
+    color: "blue", // Semantic mapping: guide usually informational
   },
   {
     title: "Benefit Calculator",
     description: "Estimate your CA SDI and LTD benefits",
     icon: "i-lucide-calculator",
     to: "/calculator",
-    color: "green",
+    color: "emerald", // Money/Success
   },
   {
     title: "Claim Checklist",
     description: "Track your progress through the process",
     icon: "i-lucide-check-square",
     to: "/checklist",
-    color: "blue",
+    color: "indigo", // Task
   },
   {
     title: "Timeline",
     description: "Visualize your claim timeline and deadlines",
     icon: "i-lucide-calendar",
     to: "/timeline",
-    color: "orange",
+    color: "amber", // Time/Warning
   },
 ];
 
@@ -49,175 +45,149 @@ const keyInfo = [
   {
     title: "Current SDI Rate",
     value: `${(currentRate.rate * 100).toFixed(1)}%`,
-    subtitle: `${currentYear} - No income cap`,
+    description: "of gross wages",
     icon: "i-lucide-percent",
   },
   {
     title: "Max Weekly Benefit",
-    value: `$${currentRate.maxWeeklyBenefit.toLocaleString()}`,
-    subtitle: `${currentYear} maximum`,
-    icon: "i-lucide-dollar-sign",
+    value: `$${currentRate.maxWeeklyBenefit}`,
+    description: `for ${currentYear}`,
+    icon: "i-lucide-trending-up",
   },
   {
     title: "Filing Deadline",
     value: `${EDD_FILING_DEADLINE_DAYS} Days`,
-    subtitle: "From disability start",
+    description: "from start of disability",
     icon: "i-lucide-clock",
   },
   {
-    title: "Hartford Appeal",
+    title: "Appeal Window",
     value: `${HARTFORD_APPEAL_DAYS} Days`,
-    subtitle: "6-month deadline",
-    icon: "i-lucide-alert-triangle",
+    description: "to appeal Hartford denial",
+    icon: "i-lucide-alert-circle",
   },
 ];
 </script>
 
 <template>
-  <div>
+  <div class="space-y-16 animate-in fade-in duration-700">
     <!-- Hero Section -->
-    <section
-      class="relative overflow-hidden bg-gradient-to-br from-primary-50 to-blue-50 dark:from-gray-900 dark:to-gray-800"
-    >
-      <div class="container mx-auto px-4 py-16 md:py-24">
-        <div class="max-w-3xl">
-          <h1
-            class="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-6"
+    <section class="relative py-12 sm:py-20 lg:py-24 text-center">
+      <div class="mx-auto max-w-4xl space-y-6">
+        <UBadge variant="subtle" size="md" class="rounded-full px-3 py-1 mb-4">
+          Updated for {{ currentYear }}
+        </UBadge>
+        <h1
+          class="text-4xl sm:text-6xl font-extrabold tracking-tight text-gray-900 dark:text-white"
+        >
+          Navigator for
+          <span
+            class="bg-linear-to-r from-primary-600 to-indigo-600 bg-clip-text text-transparent"
+            >CA SDI</span
           >
-            Navigate CA SDI as a FedEx Pilot
-          </h1>
-          <p class="text-lg md:text-xl text-gray-600 dark:text-gray-300 mb-8">
-            A comprehensive guide to claiming California State Disability
-            Insurance while coordinating with FedEx Long-Term Disability
-            benefits. Created by pilots, for pilots.
-          </p>
-          <div class="flex flex-wrap gap-4">
-            <UButton to="/guide" size="lg" color="primary">
-              <UIcon name="i-lucide-book-open" class="w-5 h-5 mr-2" />
-              Read the Guide
-            </UButton>
-            <UButton
-              to="/checklist"
-              size="lg"
-              variant="outline"
-              color="neutral"
-            >
-              <UIcon name="i-lucide-check-square" class="w-5 h-5 mr-2" />
-              Start Checklist
-            </UButton>
-          </div>
+        </h1>
+        <p
+          class="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto leading-relaxed"
+        >
+          A specialized resource for FedEx pilots navigating California State
+          Disability Insurance and The Hartford LTD integration.
+        </p>
+        <div class="flex flex-wrap justify-center gap-4 pt-4">
+          <UButton size="xl" to="/guide" icon="i-lucide-arrow-right" trailing
+            >Start the Guide</UButton
+          >
+          <UButton
+            size="xl"
+            variant="soft"
+            color="neutral"
+            to="/calculator"
+            icon="i-lucide-calculator"
+            >Estimate Benefits</UButton
+          >
         </div>
       </div>
     </section>
 
-    <!-- Quick Links -->
-    <section class="container mx-auto px-4 py-12">
-      <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-8">
-        Quick Access
-      </h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+    <!-- Quick Links Grid -->
+    <section>
+      <div class="grid md:grid-cols-2 gap-6">
         <NuxtLink
           v-for="link in quickLinks"
           :key="link.to"
           :to="link.to"
-          class="group block p-6 bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-primary-500 dark:hover:border-primary-500 hover:shadow-lg transition-all"
+          class="group relative"
+          prefetch-on="interaction"
         >
-          <div class="flex items-center gap-4 mb-4">
-            <div
-              class="p-3 rounded-lg bg-primary-50 dark:bg-primary-900/20 text-primary-600 dark:text-primary-400"
-            >
-              <UIcon :name="link.icon" class="w-6 h-6" />
-            </div>
-          </div>
-          <h3
-            class="text-lg font-semibold text-gray-900 dark:text-white mb-2 group-hover:text-primary-600 dark:group-hover:text-primary-400"
+          <UCard
+            class="h-full transition-all duration-300 group-hover:-translate-y-1 group-hover:shadow-lg group-hover:shadow-gray-200/50 dark:group-hover:shadow-black/50 overflow-hidden ring-1 ring-gray-200 dark:ring-gray-800"
           >
-            {{ link.title }}
-          </h3>
-          <p class="text-sm text-gray-600 dark:text-gray-400">
-            {{ link.description }}
-          </p>
+            <template #header>
+              <div class="flex items-center gap-4">
+                <div
+                  :class="`p-3 rounded-xl bg-${link.color}-50 dark:bg-${link.color}-950/30 text-${link.color}-600 dark:text-${link.color}-400 group-hover:scale-110 transition-transform duration-300`"
+                >
+                  <UIcon :name="link.icon" class="w-6 h-6" />
+                </div>
+                <h3
+                  class="text-xl font-bold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors"
+                >
+                  {{ link.title }}
+                </h3>
+              </div>
+            </template>
+            <p class="text-gray-600 dark:text-gray-400 text-base">
+              {{ link.description }}
+            </p>
+            <div
+              class="absolute bottom-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity transform translate-x-2 group-hover:translate-x-0"
+            >
+              <UIcon
+                name="i-lucide-arrow-right"
+                class="w-5 h-5 text-gray-400 group-hover:text-primary-500"
+              />
+            </div>
+          </UCard>
         </NuxtLink>
       </div>
     </section>
 
-    <!-- Key Information -->
-    <section class="bg-gray-50 dark:bg-gray-800/50 py-12">
-      <div class="container mx-auto px-4">
-        <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-8">
-          Key Information ({{ currentYear }})
-        </h2>
-        <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
+    <!-- Key Stats -->
+    <section>
+      <UCard class="bg-gray-50 dark:bg-gray-900/50">
+        <div
+          class="grid md:grid-cols-3 gap-8 text-center divide-y md:divide-y-0 md:divide-x divide-gray-200 dark:divide-gray-800"
+        >
           <div
-            v-for="info in keyInfo"
-            :key="info.title"
-            class="p-4 md:p-6 bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700"
+            v-for="stat in keyInfo"
+            :key="stat.title"
+            class="pt-4 md:pt-0 px-4"
           >
-            <div class="flex items-center gap-3 mb-3">
-              <UIcon :name="info.icon" class="w-5 h-5 text-gray-500" />
-              <span
-                class="text-sm font-medium text-gray-600 dark:text-gray-400"
-                >{{ info.title }}</span
-              >
-            </div>
-            <p
-              class="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white"
+            <div
+              class="mb-2 text-gray-500 dark:text-gray-400 text-sm font-medium uppercase tracking-wider flex items-center justify-center gap-2"
             >
-              {{ info.value }}
-            </p>
-            <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">
-              {{ info.subtitle }}
-            </p>
+              <UIcon :name="stat.icon" class="w-4 h-4" />
+              {{ stat.title }}
+            </div>
+            <div class="text-3xl font-bold text-gray-900 dark:text-white mb-1">
+              {{ stat.value }}
+            </div>
+            <div class="text-sm text-gray-500">
+              {{ stat.description }}
+            </div>
           </div>
         </div>
-      </div>
+      </UCard>
     </section>
 
-    <!-- The Problem Section -->
-    <section class="container mx-auto px-4 py-12">
-      <div class="max-w-3xl mx-auto">
-        <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">
-          Why This Guide Exists
-        </h2>
-
-        <CommonCallout variant="warning" title="The Offset Problem">
-          When you become disabled, The Hartford (FedEx's LTD provider) reduces
-          your LTD payments by the amount they expect you to receive from CA
-          SDI—<strong>even if you haven't received that payment yet</strong>.
-          This can leave you with significantly reduced income during an already
-          stressful time.
-        </CommonCallout>
-
-        <div class="prose dark:prose-invert max-w-none mt-6">
-          <p>
-            California-based FedEx pilots face a unique challenge: they pay into
-            CA SDI through mandatory payroll deductions, but navigating the
-            actual claims process is complex and poorly documented. The EDD
-            system was not designed for airline pilot pay structures, and
-            bureaucratic delays can create serious financial hardship.
-          </p>
-
-          <p>
-            This guide consolidates the hard-won knowledge of pilots who have
-            successfully navigated this process, so you don't have to figure it
-            out from scratch.
-          </p>
-        </div>
-
-        <div class="mt-8 flex flex-wrap gap-4">
-          <UButton to="/guide/overview/offset-problem" variant="outline">
-            Learn About the Offset Problem
-          </UButton>
-          <UButton to="/contacts" variant="ghost">
-            View Contact Directory
-          </UButton>
-        </div>
-      </div>
-    </section>
-
-    <!-- Disclaimer -->
-    <section class="container mx-auto px-4 pb-12">
-      <CommonDisclaimer variant="full" />
+    <!-- Important Notice -->
+    <section class="max-w-3xl mx-auto">
+      <UAlert
+        icon="i-lucide-info"
+        color="neutral"
+        variant="subtle"
+        title="Unofficial Resource"
+        description="This guide is maintained by pilots for pilots. Please verify all information with ALPA, FedEx, and California EDD official documentation."
+      />
     </section>
   </div>
 </template>

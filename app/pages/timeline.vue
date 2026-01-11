@@ -140,9 +140,7 @@ const eventTypeLabels: Record<string, string> = {
               :key="deadline.name"
             >
               <strong>{{ deadline.name }}:</strong>
-              {{ formatDateShort(deadline.date) }} ({{
-                deadline.daysFromNow
-              }}
+              {{ formatDateShort(deadline.date) }} ({{ deadline.daysFromNow }}
               days)
             </li>
           </ul>
@@ -209,7 +207,7 @@ const eventTypeLabels: Record<string, string> = {
                         {{ event.description }}
                       </p>
                     </div>
-                    <div class="text-right flex-shrink-0">
+                    <div class="text-right shrink-0">
                       <p class="font-medium text-gray-900 dark:text-white">
                         {{ formatDateShort(event.expectedDate) }}
                       </p>

@@ -6,6 +6,7 @@ export default defineNuxtConfig({
   compatibilityDate: "2024-04-03",
 
   app: {
+    viewTransition: true,
     head: {
       title: "CA SDI Navigator - FedEx Pilots",
       meta: [
@@ -18,6 +19,10 @@ export default defineNuxtConfig({
       ],
       link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
     },
+  },
+
+  experimental: {
+    typedPages: true,
   },
 
   routeRules: {

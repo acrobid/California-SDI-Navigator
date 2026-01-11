@@ -98,7 +98,12 @@ const handleReset = () => {
             >
             <span class="text-gray-500">Complete</span>
           </div>
-          <UProgress :value="progress.percentage" color="primary" size="lg" />
+          <UProgress
+            :value="progress.percentage"
+            :max="100"
+            color="primary"
+            size="lg"
+          />
           <p class="text-sm text-gray-500 mt-2">
             {{ progress.completed }} of {{ progress.total }} items completed
           </p>
@@ -198,7 +203,7 @@ const handleReset = () => {
                   >
                     {{ item.title }}
                   </button>
-                  <div class="flex items-center gap-2 flex-shrink-0">
+                  <div class="flex items-center gap-2 shrink-0">
                     <UBadge variant="subtle" color="neutral" size="xs">
                       <UIcon name="i-lucide-clock" class="w-3 h-3 mr-1" />
                       {{ formatDuration(item.estimatedMinutes) }}
@@ -232,7 +237,7 @@ const handleReset = () => {
                     >
                       <UIcon
                         name="i-lucide-alert-triangle"
-                        class="w-4 h-4 mt-0.5 flex-shrink-0"
+                        class="w-4 h-4 mt-0.5 shrink-0"
                       />
                       <span>{{ warning }}</span>
                     </div>
@@ -247,7 +252,7 @@ const handleReset = () => {
                     >
                       <UIcon
                         name="i-lucide-lightbulb"
-                        class="w-4 h-4 mt-0.5 flex-shrink-0"
+                        class="w-4 h-4 mt-0.5 shrink-0"
                       />
                       <span>{{ tip }}</span>
                     </div>

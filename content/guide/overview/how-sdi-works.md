@@ -35,6 +35,10 @@ SDI is funded through mandatory payroll deductions from California workers. As a
 Prior to 2024, SDI taxes were capped at a maximum taxable wage. Starting January 1, 2024, **there is no cap**. You pay SDI tax on 100% of your California wages, no matter how much you earn.
 ::
 
+::Callout{variant="warning" title="Disclaimer"}
+This guide provides general information for FedEx pilots but is not legal or official EDD advice. Always verify with official sources.
+::
+
 ### How Benefits Are Calculated
 
 Your weekly benefit is calculated as:

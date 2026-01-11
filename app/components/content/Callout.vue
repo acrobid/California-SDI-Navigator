@@ -36,10 +36,7 @@ const iconMap: Record<Variant, string> = {
     :class="['my-4 p-4 rounded-lg border-l-4', variantClasses[props.variant]]"
   >
     <div class="flex items-start gap-3">
-      <UIcon
-        :name="iconMap[props.variant]"
-        class="w-5 h-5 mt-0.5 flex-shrink-0"
-      />
+      <UIcon :name="iconMap[props.variant]" class="w-5 h-5 mt-0.5 shrink-0" />
       <div class="flex-1">
         <p v-if="props.title" class="font-semibold mb-1">{{ props.title }}</p>
         <div class="text-sm">

@@ -1765,7 +1765,7 @@ Use Nuxt UI's default neutral palette with these accent considerations:
 <template>
   <div :class="['my-4 p-4 rounded-lg border-l-4', variantClasses[variant]]">
     <div class="flex items-start gap-3">
-      <UIcon :name="iconMap[variant]" class="w-5 h-5 mt-0.5 flex-shrink-0" />
+      <UIcon :name="iconMap[variant]" class="w-5 h-5 mt-0.5 shrink-0" />
       <div>
         <p v-if="title" class="font-semibold mb-1">{{ title }}</p>
         <slot />

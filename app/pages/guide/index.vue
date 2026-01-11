@@ -81,7 +81,7 @@ useSeoMeta({
   <div class="min-h-screen">
     <!-- Hero Section -->
     <section
-      class="bg-gradient-to-br from-primary-600 to-primary-800 text-white py-16"
+      class="bg-linear-to-br from-primary-600 to-primary-800 text-white py-16"
     >
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-3xl">
@@ -101,7 +101,7 @@ useSeoMeta({
           <div class="flex items-start gap-4">
             <UIcon
               name="i-lucide-lightbulb"
-              class="w-6 h-6 text-primary-600 dark:text-primary-400 mt-1 flex-shrink-0"
+              class="w-6 h-6 text-primary-600 dark:text-primary-400 mt-1 shrink-0"
             />
             <div>
               <h2 class="font-semibold text-gray-900 dark:text-white mb-2">
@@ -157,7 +157,7 @@ useSeoMeta({
                 <div class="flex items-start gap-3">
                   <UIcon
                     :name="page.icon || 'i-lucide-file-text'"
-                    class="w-5 h-5 text-gray-400 group-hover:text-primary-500 flex-shrink-0 mt-0.5"
+                    class="w-5 h-5 text-gray-400 group-hover:text-primary-500 shrink-0 mt-0.5"
                   />
                   <div>
                     <h3

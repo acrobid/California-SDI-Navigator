@@ -51,6 +51,15 @@ const sections = computed(() => {
     .map(([path, data]) => ({ path, ...data }));
 });
 
+const accordionItems = computed(() => {
+  return sections.value.map((section) => ({
+    label: section.title,
+    defaultOpen: true,
+    slot: "links",
+    pages: section.pages,
+  }));
+});
+
 // Find previous and next pages
 const navigation = computed(() => {
   if (!allPages.value || !page.value) return { prev: null, next: null };
@@ -90,32 +99,25 @@ useSeoMeta({
             </NuxtLink>
 
             <!-- Section Navigation -->
-            <div
-              v-for="section in sections"
-              :key="section.path"
-              class="space-y-2"
-            >
-              <h3
-                class="font-semibold text-gray-900 dark:text-white text-sm uppercase tracking-wider"
-              >
-                {{ section.title }}
-              </h3>
-              <ul class="space-y-1">
-                <li v-for="navPage in section.pages" :key="navPage.path">
-                  <NuxtLink
-                    :to="navPage.path"
-                    class="block px-3 py-2 text-sm rounded-lg transition-colors"
-                    :class="[
-                      navPage.path === currentPath
-                        ? 'bg-primary-100 dark:bg-primary-900/30 text-primary-700 dark:text-primary-300 font-medium'
-                        : 'text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800',
-                    ]"
-                  >
-                    {{ navPage.title }}
-                  </NuxtLink>
-                </li>
-              </ul>
-            </div>
+            <UAccordion :items="accordionItems" multiple>
+              <template #links="{ item }">
+                <ul class="space-y-1 pb-2">
+                  <li v-for="navPage in item.pages" :key="navPage.path">
+                    <NuxtLink
+                      :to="navPage.path"
+                      class="block px-3 py-2 text-sm rounded-lg transition-colors"
+                      :class="[
+                        navPage.path === currentPath
+                          ? 'bg-primary-100 dark:bg-primary-900/30 text-primary-700 dark:text-primary-300 font-medium'
+                          : 'text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800',
+                      ]"
+                    >
+                      {{ navPage.title }}
+                    </NuxtLink>
+                  </li>
+                </ul>
+              </template>
+            </UAccordion>
           </nav>
         </aside>
 
@@ -143,86 +145,100 @@ useSeoMeta({
                 All Topics
               </NuxtLink>
 
-              <div
-                v-for="section in sections"
-                :key="section.path"
-                class="space-y-2"
-              >
-                <h3
-                  class="font-semibold text-gray-900 dark:text-white text-xs uppercase tracking-wider"
-                >
-                  {{ section.title }}
-                </h3>
-                <ul class="space-y-1">
-                  <li v-for="navPage in section.pages" :key="navPage.path">
-                    <NuxtLink
-                      :to="navPage.path"
-                      class="block px-3 py-2 text-sm rounded-lg"
-                      :class="[
-                        navPage.path === currentPath
-                          ? 'bg-primary-100 dark:bg-primary-900/30 text-primary-700 dark:text-primary-300'
-                          : 'text-gray-600 dark:text-gray-400',
-                      ]"
-                    >
-                      {{ navPage.title }}
-                    </NuxtLink>
-                  </li>
-                </ul>
-              </div>
+              <UAccordion :items="accordionItems" multiple>
+                <template #links="{ item }">
+                  <ul class="space-y-1 pb-2">
+                    <li v-for="navPage in item.pages" :key="navPage.path">
+                      <NuxtLink
+                        :to="navPage.path"
+                        class="block px-3 py-2 text-sm rounded-lg"
+                        :class="[
+                          navPage.path === currentPath
+                            ? 'bg-primary-100 dark:bg-primary-900/30 text-primary-700 dark:text-primary-300'
+                            : 'text-gray-600 dark:text-gray-400',
+                        ]"
+                      >
+                        {{ navPage.title }}
+                      </NuxtLink>
+                    </li>
+                  </ul>
+                </template>
+              </UAccordion>
             </div>
           </UCollapsible>
         </div>
 
         <!-- Main Content -->
         <main class="lg:col-span-9">
-          <article
-            v-if="page"
-            class="prose prose-gray dark:prose-invert max-w-none"
-          >
-            <!-- Page Header -->
-            <header class="not-prose mb-8">
-              <div v-if="page.icon" class="mb-4">
-                <UIcon :name="page.icon" class="w-10 h-10 text-primary-500" />
-              </div>
-              <h1 class="text-3xl font-bold text-gray-900 dark:text-white mb-2">
-                {{ page.title }}
-              </h1>
-              <p
-                v-if="page.description"
-                class="text-lg text-gray-600 dark:text-gray-400"
-              >
-                {{ page.description }}
-              </p>
-              <div
-                v-if="page.lastUpdated"
-                class="mt-4 text-sm text-gray-500 dark:text-gray-500"
-              >
-                Last updated: {{ page.lastUpdated }}
-              </div>
-            </header>
-
-            <!-- Content -->
-            <ContentRenderer :value="page" />
-          </article>
-
-          <!-- Not Found -->
-          <div v-else class="text-center py-12">
-            <UIcon
-              name="i-lucide-file-question"
-              class="w-16 h-16 mx-auto text-gray-400 mb-4"
-            />
-            <h2
-              class="text-xl font-semibold text-gray-900 dark:text-white mb-2"
+          <div class="xl:grid xl:grid-cols-12 xl:gap-8">
+            <article
+              v-if="page"
+              class="xl:col-span-9 prose prose-gray dark:prose-invert max-w-none"
             >
-              Page Not Found
-            </h2>
-            <p class="text-gray-600 dark:text-gray-400 mb-4">
-              This guide page doesn't exist or hasn't been created yet.
-            </p>
-            <UButton to="/guide" variant="soft"> Back to Guide Index </UButton>
+              <!-- Page Header -->
+              <header class="not-prose mb-8">
+                <div v-if="page.icon" class="mb-4">
+                  <UIcon :name="page.icon" class="w-10 h-10 text-primary-500" />
+                </div>
+                <h1
+                  class="text-3xl font-bold text-gray-900 dark:text-white mb-2"
+                >
+                  {{ page.title }}
+                </h1>
+                <p
+                  v-if="page.description"
+                  class="text-lg text-gray-600 dark:text-gray-400"
+                >
+                  {{ page.description }}
+                </p>
+                <div
+                  v-if="page.lastUpdated"
+                  class="mt-4 text-sm text-gray-500 dark:text-gray-500"
+                >
+                  Last updated: {{ page.lastUpdated }}
+                </div>
+              </header>
+
+              <!-- Content -->
+              <ContentRenderer :value="page" />
+            </article>
+
+            <!-- Table of Contents (On this page) -->
+            <aside class="hidden xl:block xl:col-span-3">
+              <div v-if="page?.body?.toc?.links?.length" class="sticky top-8">
+                <h3
+                  class="font-semibold text-gray-900 dark:text-white text-sm mb-4"
+                >
+                  On This Page
+                </h3>
+                <ul class="space-y-2 text-sm">
+                  <li v-for="link in page.body.toc.links" :key="link.id">
+                    <a
+                      :href="`#${link.id}`"
+                      class="text-gray-500 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
+                    >
+                      {{ link.text }}
+                    </a>
+                    <ul v-if="link.children" class="ml-3 mt-1 space-y-2">
+                      <li
+                        v-for="child in link.children"
+                        :key="child.id"
+                      >
+                        <a
+                          :href="`#${child.id}`"
+                          class="text-gray-500 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
+                        >
+                          {{ child.text }}
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </aside>
           </div>
 
-          <!-- Page Navigation -->
+          <!-- Page Navigation (Moved below grid) -->
           <nav
             v-if="navigation.prev || navigation.next"
             class="not-prose mt-12 pt-8 border-t border-gray-200 dark:border-gray-800"

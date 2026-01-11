@@ -1,4 +1,5 @@
 <template>
+  <NuxtLoadingIndicator color="var(--color-primary-500)" />
   <NuxtRouteAnnouncer />
   <UApp>
     <NuxtLayout>
