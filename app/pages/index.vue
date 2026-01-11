@@ -105,14 +105,6 @@ const keyInfo = [
           <UButton size="xl" to="/guide" icon="i-lucide-arrow-right" trailing
             >Start the Guide</UButton
           >
-          <UButton
-            size="xl"
-            variant="soft"
-            color="neutral"
-            to="/calculator"
-            icon="i-lucide-calculator"
-            >Estimate Benefits</UButton
-          >
         </div>
       </div>
     </section>
