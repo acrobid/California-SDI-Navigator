@@ -43,62 +43,47 @@ Check your claim status every 2-3 days during active processing. EDD sometimes u
 
 ## Status Codes Explained
 
-### Common Status Meanings
+| Status | Meaning |
+|--------|---------|
+| **Pending** | Claim received, under review |
+| **Incomplete** | Missing information required from you |
+| **Physician Certification Needed** | Doctor hasn't submitted Part B yet (CRITICAL) |
+| **Medical Review** | EDD medical staff is reviewing your doctor's certification |
+| **Additional Information Requested** | EDD needs more documentation (often pay-related) |
+| **Approved - Payment Pending** | Approved, awaiting payment processing |
+| **Paid** | Payment issued to your card or bank account |
+| **Denied** | Claim denied (Review letter for appeal details) |
+| **Suspended** | On hold for investigation or missing certification |
 
-| Status | Meaning | Action Needed |
-|--------|---------|---------------|
-| Received | Claim in queue | None - wait |
-| Pending | Under review | None - wait |
-| Incomplete | Missing info | Check mail/messages |
-| Medical Review | Doctor verification | Verify doctor received requests |
-| Approved | Claim approved | Payment coming soon |
-| Paid | Payment issued | Check bank/card |
-| Denied | Claim rejected | Review letter, consider appeal |
-| Suspended | On hold | Contact EDD immediately |
+### Status That Need Immediate Attention
 
-### Status That Need Attention
+**Physician Certification Needed:**
+If this stays for more than 48 hours after you filed Part A, your doctor likely hasn't submitted their part. Your claim is effectively frozen until this happens.
 
-**Incomplete:**
-Check for:
-- Missing information in your application
-- Requested documents
-- Online messages from EDD
+**Additional Information Requested:**
+For pilots, this often means EDD found a discrepancy between your reported wages and FedEx's reported data (which may include sick bank usage listed as regular pay). Check your messages for a request to submit pay stubs or an explanation of pay.
 
 **Suspended:**
-Usually means:
-- Potential fraud flag
-- Missing continuing certification
-- Issue requiring human review
+This usually occurs if you missed a bi-weekly certification or if there's an identity verification issue. Call the EDD main line immediately if you see this.
 
 ## Phone Tracking
 
 ### When to Call
-
-- Status hasn't updated in 3+ weeks
-- Online status unclear
-- Need information not available online
-- Received confusing correspondence
+- Status hasn't updated in 14 days.
+- You've already submitted requested info but status is still "Incomplete".
+- You need to report a return to work date that differs from your initial claim.
 
 ### How to Call EDD
+**Main SDI Line:** 1-800-480-3287
+- **Best time to call:** 8:00 AM sharp, or mid-week.
+- **Wait times:** Prepare for 45-90 minutes.
+- **Language:** If you can't get through on the English line, sometimes the Spanish or Cantonese lines have shorter waits if you are bi-lingual.
 
-**Main SDI Line:**
-1-800-480-3287
-
-**Tips for Calling:**
-- Call early morning (right when lines open)
-- Tuesdays-Thursdays often have shorter waits
-- Have SSN and claim ID ready
-- Be prepared for 30-60+ minute wait
-- Write down the name of who you speak with
-
-### What to Ask
-
-When you reach a representative:
-1. Confirm your claim was received
-2. Ask current status
-3. Ask if anything is needed from you
-4. Ask expected timeline
-5. Get direct callback number if available
+### What to Ask the Representative
+1. "Has my physician's Part B been successfully linked to my claim?"
+2. "Are there any flags for identity verification (ID.me) on my account?"
+3. "Are my highest quarterly wages appearing correctly in your system?"
+4. "Is there any additional information needed regarding my FedEx pay structure?"
 
 ## Tracking Checklist
 

@@ -8,111 +8,76 @@ lastUpdated: "2026-01-11"
 
 # Post-Filing Timeline
 
-After you file your SDI claim, here's what to expect.
+The journey from filing a claim to receiving your first payment typically takes **21 to 31 days**, provided there are no information requests or errors.
 
-## Overview Timeline
+## Overall Process Map
 
 ```
-Week 1:     Claim received, initial processing
-Week 2-3:   Doctor verification (7-10 business days)
-Week 3-4:   Determination made
-Week 4-6:   First payment issued (if approved)
+Day 0:     Last day worked / Disability begins
+           ↓
+Days 1-7:  File Part A of claim online
+           ↓
+Days 1-14: Physician certifies Part B (CRITICAL)
+           ↓
+Days 14-21: EDD reviews claim, requests info if needed
+           ↓
+Days 21-28: Eligibility determination made
+           ↓
+~Day 28+:  First payment issued (if approved)
+           ↓
+Ongoing:   Continued certification required every 2 weeks
 ```
 
 ::callout{type="info" title="Timeline Tool"}
-Use our [Timeline Generator](/timeline) to create a personalized timeline based on your filing date.
+Use our [Timeline Generator](/timeline) to create a personalized timeline based on your specific last day worked.
 ::
 
-## Detailed Timeline
+## Detailed Timeline Breakdown
 
-### Days 1-7: Initial Processing
-
-**What Happens:**
-
-- EDD receives your claim
-- Initial data entry and validation
-- Claim assigned to processing queue
-- Automated checks run
-
-**What You Should Do:**
-
-- Save your confirmation number
-- Set a calendar reminder for follow-up
-- Ensure you can receive mail/calls from EDD
-
-### Days 7-17: Doctor Verification
+### Phase 1: Filing & Certification (Days 1-14)
 
 **What Happens:**
+- You submit your part of the claim (DE 2501 Part A).
+- Your physician submits the medical certification (Part B). **EDD cannot process your claim without Part B.**
+- You receive a Claim Receipt Number.
 
-- EDD verifies your doctor's medical license
-- License checked against Medical Board of California database
-- Doctor contacted for certification (if not already received)
+**Action Required:**
+- Provide your doctor with the Claim Receipt Number immediately.
+- Verify through SDI Online that your doctor has submitted Part B.
 
-**What You Should Do:**
+### Phase 2: Review & Determination (Days 14-28)
 
-- Contact your doctor to confirm they received any EDD requests
-- Ask when they plan to complete certification
-- Remind them that delays slow your payment
+**What Happens:**
+- EDD verifies your base period wages.
+- EDD reviews the medical certification for validity.
+- You may receive a "Notice of Computation" (DE 429D) in the mail, which lists your reported wages and your potential weekly benefit amount. **This is not an approval letter.**
 
-::callout{type="warning" title="Common Delay Point"}
-Doctor verification is where many claims stall. Proactive communication with your doctor's office helps.
+**Potential Issues:**
+- EDD may flag your claim for identity verification (ID.me).
+- EDD may request more information about your pilot pay structure.
+
+### Phase 3: Payment (Days 28-35)
+
+**What Happens:**
+- If approved, your first payment is issued.
+- **Waiting Period**: You are NOT paid for the first 7 days of your disability.
+- **Retroactive Payment**: If your disability lasts more than 14 days, the 7-day waiting period is sometimes paid retroactively (depending on current policy).
+
+**Payment Method:**
+- Default: EDD Debit Card (Bank of America). This is mailed to you automatically.
+- Optional: Direct Deposit. You must enroll for this in your SDI Online account.
+
+## Long-Term Maintenance
+
+### Every 2 Weeks: Continued Certification
+You must certify every 14 days that you are still disabled and unable to work flight duty. This is done via SDI Online or by mail using Form DE 2500A.
+
+### Every 1-3 Months: Physician Re-certification
+Depending on the duration of your disability, EDD may require your doctor to provide an updated certification (Physician/Practitioner’s Supplementary Certificate - DE 2525XX).
+
+::callout{type="warning" title="Hartford LTD Trigger"}
+Remember, your Hartford LTD benefits typically begin after 180 days. You must keep your SDI claim active and documented, as Hartford will require proof of your SDI status to calculate your LTD offset.
 ::
-
-### Days 14-21: Eligibility Determination
-
-**What Happens:**
-
-- EDD reviews all documentation
-- Wage records verified
-- Eligibility determination made
-- Claim approved, denied, or held for more information
-
-**If Approved:**
-
-- Benefit amount calculated
-- Payment process initiated
-
-**If Denied:**
-
-- Denial letter sent explaining reason
-- Appeal instructions provided
-
-**If More Info Needed:**
-
-- Request letter sent
-- Processing pauses until received
-
-### Days 21-42: First Payment
-
-**What Happens (If Approved):**
-
-- Payment processed
-- Direct deposit: 1-2 business days to arrive
-- Debit card: Card mailed, then payment issued
-
-**Payment Schedule:**
-
-- First payment covers from Day 8 of disability
-- Subsequent payments every two weeks
-- Payments can be retroactive to disability start
-
-## Status Tracking
-
-### How to Check Status
-
-**Online (Recommended):**
-
-1. Log into [myedd.edd.ca.gov](https://myedd.edd.ca.gov)
-2. Navigate to Disability Insurance
-3. View claim status and history
-
-**By Phone:**
-
-- Call EDD: 1-800-480-3287
-- Have SSN and claim info ready
-- Expect long hold times (30-60+ minutes)
-
-**Status Meanings:**
 
 | Status     | What It Means                   |
 | ---------- | ------------------------------- |

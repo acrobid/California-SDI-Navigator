@@ -46,27 +46,39 @@ This is your primary compensation—pay for actual flight hours flown.
 Compensation for meals and incidentals while traveling.
 
 - Not technically "wages" in the traditional sense
-- May or may not be considered by EDD
-- Consult current guidance on whether to include
+- FedEx pay stubs show this as non-taxable income
+- Does NOT count toward SDI benefit calculations
 
-### Premium Pay / Override
+### Premium Pay / Override / Night Differential
 
 Additional compensation for specific situations:
 
 - Holiday pay
 - Override pay
-- Premium schedule pay
+- Night operations differential
 - Training pay
+- **These are taxable wages** and should be included in your calculations.
 
 ### Sick Pay
 
 ::callout{type="warning" title="The Sick Pay Problem"}
-On FedEx pay stubs, sick pay often appears identical to regular flight pay. This is a major issue when proving to EDD that you were NOT working during periods you were on sick leave.
+On FedEx pay stubs, sick pay often appears listed as "Regular Pay" on the summary line. This is a major issue when proving to EDD that you were NOT working during periods you were on sick leave.
 ::
 
 ### Vacation Pay
 
 Pay for vacation days used. Similar to sick pay in appearance.
+
+## Pilot-Specific Pay Mapping
+
+| Pilot Reality | EDD Assumption | Friction |
+|---------------|----------------|----------|
+| Semi-monthly pay | Monthly or bi-weekly | Calculation confusion |
+| Variable hours per month | Consistent schedule | "Regular" pay undefined |
+| Per diem (non-taxable) | All pay is wages | Confuses total income figures |
+| Trip pay, override, premium | Simple hourly/salary | Multiple line items confuse processors |
+| Sick pay looks like regular pay | Clear distinction | Hard to prove work stopped |
+| Schedule varies (not M-F) | Daily work expected | "Last day worked" can be ambiguous |
 
 ## Monthly Equivalent Calculation
 
@@ -86,7 +98,7 @@ Quarterly Income = Month 1 + Month 2 + Month 3
 
 SDI benefits are calculated based on your "base period"—a specific 12-month window:
 
-| If You File In | Your Base Period Is              |
+| If You File In | Your Base Period Used |
 | -------------- | -------------------------------- |
 | Jan - Mar      | Oct (2 yrs ago) - Sep (1 yr ago) |
 | Apr - Jun      | Jan - Dec (previous year)        |
@@ -96,6 +108,10 @@ SDI benefits are calculated based on your "base period"—a specific 12-month wi
 ::callout{type="tip" title="Timing Matters"}
 If you're close to a quarter boundary and can control your filing date, calculate which base period gives you a higher benefit. Even a few days difference in filing can change your base period.
 ::
+
+## Recommended Action: Pay Explanation Letter
+
+Because pilots have such complex pay, we strongly suggest submitting a **Pilot Pay Explanation Letter** (see our [Templates](/templates) section). This explains to the EDD processor exactly how to read your stubs and why your last day worked might not result in an immediate drop in "pay" (due to sick bank usage).
 
 ## What FedEx Reports to EDD
 

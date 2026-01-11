@@ -54,50 +54,49 @@ Have these ready before starting:
 3. Select "File a Disability Insurance Claim"
 4. Click "File a DI Claim Online"
 
-### Step 2: Create or Log Into Account
+### Step 2: Create or Log Into Account (myEDD)
 
-**If New User:**
+EDD uses a central portal called **myEDD**.
 
-1. Click "Register"
-2. Provide email address
-3. Create password (save this!)
-4. Complete identity verification
+1. **Register/Log In**: Click "Register" or "Log In" to access myEDD.
+2. **Identity Verification (ID.me)**: 
+   - myEDD requires identity verification through **ID.me**.
+   - You will need a government-issued photo ID (Driver's License, Passport, etc.).
+   - This process can take 5-15 minutes but may be delayed if your ID documents don't match your account information Exactly.
+3. **Connect to SDI Online**: Once your myEDD account is set up, select "SDI Online" to enter the disability claim portal.
 
-**If Existing User:**
-
-1. Log in with email and password
-2. Complete any security verification
+::callout{type="warning" title="ID.me Warning"}
+Do not wait until the day you are disabled to set up your account. We recommend setting up your myEDD account and completing ID.me verification while you are healthy.
+::
 
 ### Step 3: Start New Claim
 
-1. Select "File New Claim"
-2. Select "Disability Insurance" (not Paid Family Leave)
-3. Confirm you meet eligibility requirements
+1. Select "File a New Disability Insurance Claim"
+2. Confirm you meet eligibility requirements
+3. **Medical Certification**: You will be asked how your physician will certify. Select "Online" if your doctor uses SDI Online (recommended).
 
 ### Step 4: Personal Information
 
-Enter your:
+Enter your personal details. Ensure these match your FedEx employment records and tax documents exactly.
 
-- Full legal name (as on Social Security card)
 - Social Security Number
 - Date of birth
-- Current mailing address
-- Contact phone number
-- Email address
-
-::callout{type="tip" title="Address for Overseas Pilots"}
-If you live overseas, you'll still need a California mailing address for correspondence. Consider using a family member's address or a mail service.
-::
+- Driver's license number
+- Current mailing address (This is where your debit card will be sent)
 
 ### Step 5: Employment Information
 
 **Last Employer Section:**
 
-- Employer name: Federal Express Corporation (or as shown on W-2)
-- Employer address: Use the address on your pay stub
-- Your occupation: Airline Pilot
-- Last day worked: [Your actual last day worked]
+- Employer name: **Federal Express Corporation** (or Federal Express Corp)
+- Employer address: Use the address listed on your pay stub (usually Memphis, TN address).
+- Your occupation: **Airline Pilot**
+- Last day worked: This is the **last day you physically flew or were on duty**.
 - Reason for stopping work: Illness/Injury/Disability
+
+::callout{type="tip" title="Date Ambiguity"}
+If your last flight was August 28 and you didn't fly at all in September before becoming disabled on Oct 1, your "last day worked" remains August 28. However, your disability beginning date is the date the doctor certifies you were unable to work.
+::
 
 **Wage Information:**
 

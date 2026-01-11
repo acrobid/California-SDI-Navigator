@@ -61,11 +61,11 @@ The "base period" is a 12-month period determined by when you file your claim:
 
 To be eligible for CA SDI, you must:
 
-1. Be unable to do your regular work for at least 8 consecutive days
-2. Have lost wages due to your disability
-3. Have earned at least $300 during your base period
-4. Be under the care of a licensed physician
-5. File a claim within 49 days of becoming disabled
+1. **Employment Status**: Be employed or actively looking for work at the time your disability began.
+2. **Medical Certification**: Be unable to do your regular or customary work for at least 8 consecutive days.
+3. **Earnings**: Have earned at least $300 during your base period (from which SDI deductions were withheld).
+4. **Under Care**: Be under the care and treatment of a licensed physician/practitioner during the first 8 days of disability.
+5. **Filing Deadline**: File your claim within **49 days** of the date your disability began.
 
 ::callout{type="tip" title="For Pilots"}
 As an airline pilot, you cannot perform "modified duty." If you have ANY restriction that prevents you from flying, you are fully disabled for SDI purposes. There is no partial disability in our profession.
@@ -95,9 +95,28 @@ This mismatch creates confusion and delays when processing pilot claims.
 
 Typical timeline for SDI claims:
 
-| Phase | Duration |
-|-------|----------|
-| Initial processing | 14-21 days |
+Day 0: Last day worked / Disability begins
+Days 1-7: File claim (ideally within first week)
+Days 1-14: Physician certifies claim (critical step)
+Days 14-21: EDD reviews claim, may request additional info
+Days 21-28: Eligibility determination
+~Day 28+: First payment issued (if approved)
+Every 2 weeks: Continued claim certification required
+
+### Eligibility Base Period Definition
+
+The base period is a specific 12-month period that determines both eligibility and benefit amount. EDD looks at wages reported during those quarters.
+
+| Claim Filed | Base Period Used |
+|-------------|------------------|
+| January - March | October through September (15-18 months prior) |
+| April - June | January through December (previous calendar year) |
+| July - September | April through March (4-15 months prior) |
+| October - December | July through June (4-15 months prior) |
+
+**Example for a pilot filing in January 2026:**
+- Base period = October 1, 2024 - September 30, 2025
+- EDD calculates benefit based on the highest-earning quarter in this window.
 | Doctor license verification | 7-10 business days |
 | Additional document requests | Variable |
 | First payment | 2-6 weeks from filing (if no issues) |

@@ -10,109 +10,84 @@ lastUpdated: "2026-01-11"
 
 A complete, accurate claim with proper documentation processes faster. Here's everything you need.
 
-## Core Required Documents
+## Core Required Information
 
-### 1. Medical Certification
+Have this information ready before you start your online application:
 
-The most important document is your doctor's certification of your disability.
+### 1. Personal Details
+- Full Name (as it appears on your SSN card)
+- Social Security Number
+- Date of Birth
+- Driver's License or ID card number
+- Email address & Phone number
+- Mailing Address (Crucial for receiving your benefit debit card)
 
-**Must Include:**
+### 2. Employment Information
+- **Last Employer**: Federal Express Corporation
+- **Employer Address**: 3610 Hacks Cross Road, Memphis, TN 38125
+- **Last Day Worked**: The date of your last flight or duty period
+- **Employment Status**: Still employed (if on leave)
+- **Reason for Not Working**: Medical/Disability
+- **Compensation**: Be prepared to report any sick pay, vacation pay, or other income received after your last day worked.
 
-- Diagnosis or nature of disability
-- Date disability began
-- Expected duration
-- Your ability (or inability) to work
-- Doctor's signature and date
-- Doctor's medical license number
+### 3. Medical Information
+- Treating Physician's Name
+- Physician's Mailing Address
+- Physician's Phone & Fax number
+- **Physician's Medical License Number**
+- Date the disability began
+- General nature of your disability
 
-::callout{type="warning" title="Doctor License Verification"}
-EDD verifies every doctor's license with the Medical Board of California. This takes 7-10 business days. Ensure your doctor's license is current and information is accurate.
+## The Physician Certification (Critical Step)
+
+The most common cause of claim delays is the lack of medical certification (Part B). Your claim is **not complete** until your doctor submits this.
+
+### How to Ensure it Happens:
+1. **Online (Preferred)**: After you file Part A, you will receive a **Claim Receipt Number**. Provide this number to your doctor. They use it to link their certification to your claim in the SDI Online portal.
+2. **Paper (Slow)**: If using mail, you must mail the Form DE 2501 Part B to your doctor to complete and mail in.
+
+::callout{type="warning" title="Deadline for Certification"}
+Both you and your doctor must submit your respective parts within **49 days** of your disability beginning.
 ::
 
-**How Doctor Certifies:**
+## Supporting Documentation
 
-- Online through EDD system (fastest)
-- Paper form DE 2501 physician section
-- Separate letter on office letterhead (sometimes acceptable)
-
-### 2. Identification
-
-**Primary ID:**
-
-- California driver's license, OR
-- California state ID, OR
-- Other valid government-issued ID
-
-**Social Security:**
-
-- Full 9-digit Social Security Number
-- Not the card itself, just the number
-
-### 3. Employment Information
-
-**From Your Records:**
-
-- Employee ID number
-- Employer name and address (as on pay stub)
-- Last day worked date
-- Job title: "Airline Pilot"
-
-## Supporting Documents
-
-These aren't always required but can help your claim:
+These items help EDD verify your wages and pilot pay structure:
 
 ### Wage Documentation
+- Your last 4 pay stubs (to prove CA SDI was withheld)
+- Your most recent W-2
 
-**If EDD Doesn't Have Accurate Wage Records:**
+### Pilot Pay Explanation Cover Letter
+Because airline pilot pay (trips, per diem, offsets) is unusual, we recommend submitting a cover letter explaining your pay structure. 
 
-- Last 3-4 pay stubs
-- W-2 forms from past 2 years
-- Letter from employer verifying wages
+**What to include:**
+- Semi-monthly pay frequency
+- Explanation of Trip Pay vs. Per Diem
+- Clarification that Sick Pay may be listed as "Regular Pay"
+- Note that light duty is not available for pilots
 
-::callout{type="tip" title="Pilot Pay Explanation"}
-Consider including a brief explanation of pilot pay structure. EDD representatives may not understand flight pay, per diem, etc.
+::callout{type="tip" title="Use the Template"}
+Go to the **[Templates](/templates)** page to download a pre-written cover letter for FedEx pilots.
 ::
 
-### Medical Records
+## Who Can Certify Your Disability?
 
-**If Claim Is Complex:**
+EDD accepts certifications from the following licensed practitioners:
+- Medical Doctors (MD)
+- Doctors of Osteopathy (DO)
+- Nurse Practitioners (NP)
+- Physician Assistants (PA)
+- Chiropractors (for musculoskeletal only)
+- Psychologists (for mental health)
+- Dentists (for dental)
+- Optometrists (for eye conditions)
+- Podiatrists (for foot)
+- Nurse Midwives (for pregnancy)
 
-- Hospital discharge summaries
-- Specialist reports
-- Test results
-- Surgery notes
-
-Only provide medical records if specifically requested or if they help clarify your situation.
-
-## Pilot-Specific Documentation
-
-### Pay Structure Explanation
-
-Consider including a one-page explanation:
-
-```
-AIRLINE PILOT PAY STRUCTURE - FOR EDD REFERENCE
-
-I am an airline pilot. My pay differs from traditional employees:
-
-1. FLIGHT PAY: Primary compensation, paid per flight hour
-   - Hours vary month to month based on schedule
-   - Not a fixed hourly wage
-
-2. PER DIEM: Meal/expense allowance while traveling
-   - Paid for duty periods away from base
-   - Calculated based on hours away from base
-
-3. FULL DISABILITY: As a pilot, I cannot perform
-   modified or light duty. Any restriction that
-   prevents me from flying makes me fully disabled
-   for my occupation.
-
-4. PAY PERIODS: FedEx pays semi-monthly (twice/month)
-
-If you have questions about my pay records,
-please contact me at [phone number].
-```
+::callout{type="info" title="OAK Domicile Pilots"}
+Many OAK domicile pilots use specialists in the Bay Area. Ensure your specialist is familiar with SDI Online, as it significantly speeds up processing.
+::
 
 ### Work History Clarification
 

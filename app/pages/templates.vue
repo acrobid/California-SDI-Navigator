@@ -98,38 +98,57 @@ Claim Effective Date: [Date]
 Dear EDD Representative,
 
 I am submitting the following documents in support of my State Disability Insurance claim:
+- [List documents, e.g., Physician Certification Part B, Pay Stubs, etc.]
 
-DOCUMENTS ENCLOSED:
-1. [Document name and description]
-2. [Document name and description]
-3. [Document name and description]
+Please process these documents and update my claim status. If you have any questions, I can be reached at [Phone] or [Email].
 
-IMPORTANT INFORMATION ABOUT MY EMPLOYMENT:
+Thank you,
 
-I am an airline pilot employed by FedEx, based at the Oakland International Airport (OAK). My pay structure differs from traditional employment in the following ways:
+[Your Name]
+[Your Signature]`,
+  },
+  {
+    id: "pilot-pay-explanation",
+    title: "Pilot Pay Structure Explanation",
+    description:
+      "Cover letter explaining FedEx pilot pay structure to EDD processors",
+    category: "edd",
+    icon: "i-lucide-plane",
+    content: `To: California EDD Claims Processor
+From: [Your Name]
+SSN: XXX-XX-[Last 4]
+Date: [Date]
 
-• I am paid per flight hour, not hourly wages
-• I receive per diem for meals while traveling
-• My schedule and pay vary month to month
-• A typical full month of work is approximately 75-85 flight hours
+RE: Explanation of Airline Pilot Pay Structure for FedEx Express
 
-The enclosed pay documentation reflects this structure. If you have questions about interpreting my pay records, please contact me at the number below.
+Dear Claims Processor,
 
-CONTACT INFORMATION:
-Phone: [Your Phone Number]
-Email: [Your Email]
-Best time to reach me: [Time and timezone]
+I am a commercial airline pilot employed by Federal Express (FedEx Express). I am filing a claim for State Disability Insurance (SDI), and I am providing this letter to assist you in accurately calculating my benefit amount, as our pay structure differs from typical hourly or salaried employees.
 
-Please add these documents to my claim file. If you require any additional information, please contact me.
+1. PAY FREQUENCY:
+I am paid semi-monthly (twice per month). My pay periods are generally the 1st-15th and 16th-31st.
 
-Thank you for your assistance.
+2. PAY COMPONENTS (As reflected on attached pay stubs):
+- Flight Pay: Compensation for block hours flown.
+- Per Diem: Non-taxable meal and incidental allowance (not to be included in wage calculations).
+- Premium/Override Pay: Additional compensation for specific duties or night operations.
+- Sick/Vacation: Paid time off. Please note that FedEx payroll systems often list sick pay as "Regular Pay" on the summary line, which can be confusing.
+
+3. WORK SCHEDULE:
+My work schedule does not follow a standard 40-hour work week. I typically work 12-18 days per month. A full month of work is generally considered 75-85 flight hours.
+
+4. LAST DAY WORKED:
+My last day of physical work (flying or on-duty) was [DATE].
+
+5. HIGHEST QUARTER EARNINGS:
+Based on my records and the attached stubs, my highest earning quarter in the base period was Q[X] 20[XX], with total taxable wages of $[Amount].
+
+Please feel free to contact me at [Phone Number] or [Email] if you require any further clarification regarding my employment or pay documents.
 
 Sincerely,
 
-[Your Signature]
-[Your Printed Name]
-
-Enclosures: [Number] documents`,
+[Your Name]
+[Your Employee ID]`,
   },
   {
     id: "doctor-request",
@@ -388,12 +407,7 @@ const copyToClipboard = async (text: string) => {
               />
             </div>
             <UBadge
-              :color="
-                categoryLabels[template.category].color as
-                  | 'info'
-                  | 'primary'
-                  | 'neutral'
-              "
+              :color="categoryLabels[template.category].color"
               variant="subtle"
               size="xs"
             >
