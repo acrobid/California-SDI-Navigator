@@ -97,11 +97,12 @@ Even if you're perfectly healthy now:
 To be clear about the limits:
 
 ::callout{type="warning" title="Important Limitations"}
+
 - **Not legal advice:** Consult an attorney for legal questions
 - **Not medical advice:** Follow your doctor's guidance
 - **Not union representation:** Contact ALPA for official union matters
 - **Not guaranteed:** Every situation is different
-::
+  ::
 
 ## The Community Aspect
 

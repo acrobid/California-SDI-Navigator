@@ -28,12 +28,14 @@ Use our [Timeline Generator](/timeline) to create a personalized timeline based 
 ### Days 1-7: Initial Processing
 
 **What Happens:**
+
 - EDD receives your claim
 - Initial data entry and validation
 - Claim assigned to processing queue
 - Automated checks run
 
 **What You Should Do:**
+
 - Save your confirmation number
 - Set a calendar reminder for follow-up
 - Ensure you can receive mail/calls from EDD
@@ -41,11 +43,13 @@ Use our [Timeline Generator](/timeline) to create a personalized timeline based 
 ### Days 7-17: Doctor Verification
 
 **What Happens:**
+
 - EDD verifies your doctor's medical license
 - License checked against Medical Board of California database
 - Doctor contacted for certification (if not already received)
 
 **What You Should Do:**
+
 - Contact your doctor to confirm they received any EDD requests
 - Ask when they plan to complete certification
 - Remind them that delays slow your payment
@@ -57,31 +61,37 @@ Doctor verification is where many claims stall. Proactive communication with you
 ### Days 14-21: Eligibility Determination
 
 **What Happens:**
+
 - EDD reviews all documentation
 - Wage records verified
 - Eligibility determination made
 - Claim approved, denied, or held for more information
 
 **If Approved:**
+
 - Benefit amount calculated
 - Payment process initiated
 
 **If Denied:**
+
 - Denial letter sent explaining reason
 - Appeal instructions provided
 
 **If More Info Needed:**
+
 - Request letter sent
 - Processing pauses until received
 
 ### Days 21-42: First Payment
 
 **What Happens (If Approved):**
+
 - Payment processed
 - Direct deposit: 1-2 business days to arrive
 - Debit card: Card mailed, then payment issued
 
 **Payment Schedule:**
+
 - First payment covers from Day 8 of disability
 - Subsequent payments every two weeks
 - Payments can be retroactive to disability start
@@ -91,31 +101,34 @@ Doctor verification is where many claims stall. Proactive communication with you
 ### How to Check Status
 
 **Online (Recommended):**
+
 1. Log into [myedd.edd.ca.gov](https://myedd.edd.ca.gov)
 2. Navigate to Disability Insurance
 3. View claim status and history
 
 **By Phone:**
+
 - Call EDD: 1-800-480-3287
 - Have SSN and claim info ready
 - Expect long hold times (30-60+ minutes)
 
 **Status Meanings:**
 
-| Status | What It Means |
-|--------|--------------|
-| Pending | Still being processed |
-| Incomplete | Missing information needed |
-| Approved | Claim approved, payment pending |
-| Paid | Payment issued |
-| Denied | Claim denied (see letter) |
-| Suspended | Claim on hold (contact EDD) |
+| Status     | What It Means                   |
+| ---------- | ------------------------------- |
+| Pending    | Still being processed           |
+| Incomplete | Missing information needed      |
+| Approved   | Claim approved, payment pending |
+| Paid       | Payment issued                  |
+| Denied     | Claim denied (see letter)       |
+| Suspended  | Claim on hold (contact EDD)     |
 
 ## If Things Take Longer
 
 ### Normal Delays
 
 Some delays are expected:
+
 - High claim volume periods
 - Quarter-end processing backlogs
 - Holiday periods
@@ -123,6 +136,7 @@ Some delays are expected:
 ### Signs of a Problem
 
 Contact EDD if:
+
 - No status change after 3 weeks
 - You haven't received any correspondence
 - Status shows "Incomplete" without explanation
@@ -140,6 +154,7 @@ Contact EDD if:
 For ongoing disabilities, you must continue to certify:
 
 **Every Two Weeks:**
+
 - Confirm you're still disabled
 - Report any changes
 - Complete online or by mail
@@ -155,6 +170,7 @@ Missing continuing certifications can stop your benefits even if you're approved
 **Meaning:** Waiting for doctor verification or certification
 
 **Solution:**
+
 1. Contact your doctor's office
 2. Ask if they've completed certification
 3. Provide their fax number to EDD if needed
@@ -164,6 +180,7 @@ Missing continuing certifications can stop your benefits even if you're approved
 **Meaning:** EDD needs more documentation from you
 
 **Solution:**
+
 1. Check mail and EDD online messages
 2. Respond promptly
 3. Send exactly what's requested
@@ -174,6 +191,7 @@ Missing continuing certifications can stop your benefits even if you're approved
 **Meaning:** Claim may be in queue, or there's an issue
 
 **Solution:**
+
 1. Wait until at least 14 days after filing
 2. Call EDD for status update
 3. Consider in-person visit if no response
@@ -183,6 +201,7 @@ Missing continuing certifications can stop your benefits even if you're approved
 ### Payment Amounts
 
 Your weekly benefit amount:
+
 - Calculated from highest-earning quarter
 - Approximately 60-70% of gross weekly pay
 - Maximum weekly benefit: $1,620 (2026)
@@ -192,11 +211,13 @@ Use our [Calculator](/calculator) to estimate your benefit.
 ### Payment Methods
 
 **Direct Deposit:**
+
 - Fastest method
 - 1-2 business days once processed
 - Must set up during claim filing
 
 **Debit Card:**
+
 - Bank of America EDD Debit Card
 - Card mailed to you (takes time)
 - Payments deposited to card

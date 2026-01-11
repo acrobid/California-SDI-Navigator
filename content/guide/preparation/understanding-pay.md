@@ -15,6 +15,7 @@ One of the biggest challenges in filing a CA SDI claim as a FedEx pilot is that 
 ### What EDD Expects
 
 EDD's systems are designed for employees with:
+
 - Fixed monthly or bi-weekly salaries
 - Consistent hours each pay period
 - Simple pay categories (regular pay, overtime, bonus)
@@ -23,6 +24,7 @@ EDD's systems are designed for employees with:
 ### What Pilots Have
 
 FedEx pilots have:
+
 - Variable monthly income based on flying
 - Multiple pay components each pay period
 - Per diem that isn't really "income"
@@ -50,6 +52,7 @@ Compensation for meals and incidentals while traveling.
 ### Premium Pay / Override
 
 Additional compensation for specific situations:
+
 - Holiday pay
 - Override pay
 - Premium schedule pay
@@ -74,6 +77,7 @@ Monthly Income = (Semi-Monthly Pay Period 1) + (Semi-Monthly Pay Period 2)
 ```
 
 For the "highest quarter" calculation:
+
 ```
 Quarterly Income = Month 1 + Month 2 + Month 3
 ```
@@ -82,12 +86,12 @@ Quarterly Income = Month 1 + Month 2 + Month 3
 
 SDI benefits are calculated based on your "base period"—a specific 12-month window:
 
-| If You File In | Your Base Period Is |
-|----------------|---------------------|
-| Jan - Mar | Oct (2 yrs ago) - Sep (1 yr ago) |
-| Apr - Jun | Jan - Dec (previous year) |
-| Jul - Sep | Apr (last yr) - Mar (this yr) |
-| Oct - Dec | Jul (last yr) - Jun (this yr) |
+| If You File In | Your Base Period Is              |
+| -------------- | -------------------------------- |
+| Jan - Mar      | Oct (2 yrs ago) - Sep (1 yr ago) |
+| Apr - Jun      | Jan - Dec (previous year)        |
+| Jul - Sep      | Apr (last yr) - Mar (this yr)    |
+| Oct - Dec      | Jul (last yr) - Jun (this yr)    |
 
 ::callout{type="tip" title="Timing Matters"}
 If you're close to a quarter boundary and can control your filing date, calculate which base period gives you a higher benefit. Even a few days difference in filing can change your base period.
@@ -105,6 +109,7 @@ FedEx payroll reports wage data to EDD, but:
 ### Verify Your Records
 
 Before filing, consider:
+
 1. Reviewing what data EDD already has about you
 2. Gathering your own pay stubs as backup
 3. Being prepared to explain pilot compensation
@@ -114,6 +119,7 @@ Before filing, consider:
 ### Use the Calculator
 
 Our [Benefit Calculator](/calculator) helps you:
+
 - Input your quarterly income
 - See your estimated SDI benefit
 - Understand how income translates to benefits
@@ -121,6 +127,7 @@ Our [Benefit Calculator](/calculator) helps you:
 ### Gather Documentation
 
 For the [preparation checklist](/checklist):
+
 - Save at least 18 months of pay stubs
 - Calculate your highest quarter
 - Document which pay represents actual work vs. sick time
@@ -130,6 +137,7 @@ For the [preparation checklist](/checklist):
 If you need to explain your pay to an EDD representative:
 
 **Key Points:**
+
 1. "I am an airline pilot paid per flight hour, not hourly wages"
 2. "My schedule and pay vary month to month"
 3. "A full month of work is typically 75-85 flight hours"

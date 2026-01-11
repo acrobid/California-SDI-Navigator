@@ -15,6 +15,7 @@ A denial is frustrating but not the end. Many denials are overturned on appeal.
 ### Denial Letter
 
 You'll receive a denial letter explaining:
+
 - The reason for denial
 - Your appeal rights
 - Deadline to appeal
@@ -26,13 +27,13 @@ The denial reason determines your best appeal strategy. Read the entire letter c
 
 ### Common Denial Reasons
 
-| Reason | Meaning | Appeal Strength |
-|--------|---------|-----------------|
-| Not disabled | EDD doesn't believe you can't work | Strong if you have medical support |
-| Base period wages | Not enough earnings in base period | Check if correct base period was used |
-| Medical certification | Doctor didn't certify properly | Strong if doctor will re-certify |
-| Filing deadline | Filed after 49 days | Depends on circumstances |
-| Not covered | Job not covered by SDI | Rare for CA employees |
+| Reason                | Meaning                            | Appeal Strength                       |
+| --------------------- | ---------------------------------- | ------------------------------------- |
+| Not disabled          | EDD doesn't believe you can't work | Strong if you have medical support    |
+| Base period wages     | Not enough earnings in base period | Check if correct base period was used |
+| Medical certification | Doctor didn't certify properly     | Strong if doctor will re-certify      |
+| Filing deadline       | Filed after 49 days                | Depends on circumstances              |
+| Not covered           | Job not covered by SDI             | Rare for CA employees                 |
 
 ## Your Appeal Options
 
@@ -41,6 +42,7 @@ The denial reason determines your best appeal strategy. Read the entire letter c
 First level of appeal. Must be filed within **30 days** of denial.
 
 **How to Appeal:**
+
 1. Read denial letter for instructions
 2. Complete appeal form (included or online)
 3. Explain why you disagree
@@ -50,6 +52,7 @@ First level of appeal. Must be filed within **30 days** of denial.
 ### Hearing
 
 If administrative appeal denied, request a hearing:
+
 - Formal hearing before Administrative Law Judge
 - You can present evidence and testimony
 - Can bring representative (attorney or other)
@@ -57,6 +60,7 @@ If administrative appeal denied, request a hearing:
 ### Court Appeal
 
 If hearing decision is unfavorable:
+
 - Can appeal to Superior Court
 - Consider legal representation
 - More formal process
@@ -95,7 +99,7 @@ SSN: [Last 4 digits only]
 
 Dear EDD Appeals:
 
-I am writing to appeal the denial of my State Disability 
+I am writing to appeal the denial of my State Disability
 Insurance claim dated [date of denial letter].
 
 DENIAL REASON STATED:
@@ -107,12 +111,12 @@ MY DISAGREEMENT:
 SUPPORTING EVIDENCE:
 [List documents you're including]
 
-I am an airline pilot for Federal Express. [Brief 
-explanation of your situation and why you meet SDI 
+I am an airline pilot for Federal Express. [Brief
+explanation of your situation and why you meet SDI
 requirements]
 
-Please reconsider my claim based on this additional 
-information. I can be reached at [phone] or [email] 
+Please reconsider my claim based on this additional
+information. I can be reached at [phone] or [email]
 if you need additional information.
 
 Sincerely,
@@ -131,6 +135,7 @@ Attachments:
 EDD doesn't believe you're unable to work.
 
 **How to Appeal:**
+
 1. Get detailed letter from doctor explaining:
    - Your diagnosis
    - Why you cannot work
@@ -143,6 +148,7 @@ EDD doesn't believe you're unable to work.
    - FAA medical requirements
 
 **Include:**
+
 - Detailed medical records
 - Doctor's explicit statement
 - FAA medical status if relevant
@@ -153,11 +159,13 @@ EDD doesn't believe you're unable to work.
 EDD doesn't see enough wages in your base period.
 
 **How to Appeal:**
+
 1. Verify which base period they used
 2. Calculate if you should qualify
 3. Provide wage documentation proving earnings
 
 **Include:**
+
 - Pay stubs for base period
 - W-2 forms
 - Calculation showing you qualify
@@ -168,12 +176,14 @@ EDD doesn't see enough wages in your base period.
 EDD didn't receive or couldn't verify doctor's certification.
 
 **How to Appeal:**
+
 1. Contact your doctor immediately
 2. Have them re-submit certification
 3. Verify they're using correct license number
 4. Ask doctor to call EDD directly if needed
 
 **Include:**
+
 - New, complete certification
 - Doctor's written statement
 - Proof of previous attempts if applicable
@@ -184,11 +194,13 @@ EDD didn't receive or couldn't verify doctor's certification.
 EDD believes you filed too late.
 
 **How to Appeal (if applicable):**
+
 1. Prove you filed on time (if you did)
 2. Show "good cause" for late filing if late
 3. Document any EDD delays that contributed
 
 **Good Cause Examples:**
+
 - Hospitalized and unable to file
 - Incorrect information from EDD
 - System technical failures
@@ -198,20 +210,24 @@ EDD believes you filed too late.
 ### Free Help
 
 **EDD Ombudsman:**
+
 - Can help with complex issues
 - Limited resources but worth trying
 
 **Legal Aid:**
+
 - Free legal services for qualifying individuals
 - Can help with appeals
 
 **ALPA:**
+
 - Union may provide guidance
 - Connect with other pilots who've navigated this
 
 ### Paid Help
 
 **Attorney:**
+
 - Can represent you at hearing
 - May work on contingency
 - Helpful for complex cases
@@ -256,6 +272,7 @@ You have 30 days from denial to appeal. Mark this deadline on your calendar imme
 ### If Re-filing
 
 Learn from the denial:
+
 - Address the issue that caused denial
 - Include comprehensive documentation upfront
 - Follow up on doctor certification

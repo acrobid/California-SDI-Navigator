@@ -15,6 +15,7 @@ A successful in-person visit requires thorough preparation. Here's everything yo
 ### Identification
 
 **Must Have:**
+
 - [ ] Valid government-issued photo ID
   - California driver's license, OR
   - California state ID, OR
@@ -78,14 +79,14 @@ AIRLINE PILOT PAY STRUCTURE - FOR EDD REFERENCE
 ================================================
 
 I am an airline pilot employed by Federal Express (FedEx).
-My pay structure differs from traditional hourly or salaried 
+My pay structure differs from traditional hourly or salaried
 employees:
 
 PAY COMPONENTS:
 1. FLIGHT PAY - Primary compensation based on hours flown
    - Varies monthly based on schedule
    - Not a fixed hourly wage
-   
+
 2. PER DIEM - Meal/expense allowance for travel
    - Paid for time away from base
    - Calculated hourly when on duty away from home
@@ -101,7 +102,7 @@ IMPORTANT NOTES FOR EDD:
 RECENT MONTHLY EARNINGS:
 [List your last 3-4 months of gross earnings]
 
-If you have questions about my pay records, 
+If you have questions about my pay records,
 please contact me at [your phone number].
 
 Name: _______________
@@ -132,6 +133,7 @@ You'll likely wait 4-6+ hours. Bring:
 ### On Your Phone
 
 Have these ready to show or reference:
+
 - [ ] Photos of key documents
 - [ ] EDD online portal login
 - [ ] Important phone numbers
@@ -190,6 +192,7 @@ Have these ready to show or reference:
 ### Highlight Key Information
 
 On pay stubs and complex documents:
+
 - Highlight your gross earnings
 - Mark dates clearly
 - Note any items you need to explain

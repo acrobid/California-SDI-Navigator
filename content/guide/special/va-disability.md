@@ -19,10 +19,12 @@ California SDI does **not** reduce or offset for VA disability compensation. You
 ::
 
 **You receive:**
+
 - Full VA disability compensation, AND
 - Full SDI benefits (if otherwise eligible)
 
 **No coordination required:**
+
 - Don't need to report VA disability to EDD
 - VA compensation doesn't affect SDI eligibility
 - SDI amount is not reduced by VA payments
@@ -34,6 +36,7 @@ California SDI does **not** reduce or offset for VA disability compensation. You
 Hartford's LTD policy may or may not offset for VA disability. Check your specific policy.
 
 **Typically:**
+
 - Service-connected VA disability: Usually **NOT offset**
 - VA pension (non-service connected): May be offset
 - Other VA benefits: Varies by policy
@@ -54,11 +57,13 @@ Hartford policies vary. Request and review your specific LTD policy to understan
 ### If You Have a VA Rating
 
 **For SDI:**
+
 - VA rating doesn't prevent SDI eligibility
 - SDI is based on work inability, not VA rating
 - Can have 100% VA rating and still qualify for SDI (different criteria)
 
 **For Hartford:**
+
 - "Disabled" for VA is different from "disabled" for LTD
 - Hartford uses policy definition, not VA definition
 - VA rating is evidence but not determinative
@@ -76,15 +81,16 @@ If you're filing a new VA claim while on SDI/LTD:
 
 Don't confuse VA disability with Social Security Disability:
 
-| Benefit | Offset SDI? | Offset LTD? |
-|---------|-------------|-------------|
-| VA Disability (service-connected) | No | Usually No |
-| Social Security Disability (SSDI) | No | Yes |
-| VA Pension (non-service) | No | Possibly |
+| Benefit                           | Offset SDI? | Offset LTD? |
+| --------------------------------- | ----------- | ----------- |
+| VA Disability (service-connected) | No          | Usually No  |
+| Social Security Disability (SSDI) | No          | Yes         |
+| VA Pension (non-service)          | No          | Possibly    |
 
 ### If Filing for SSDI
 
 Many long-term disabilities lead to SSDI applications:
+
 - SSDI **is** offset by Hartford LTD
 - Consider timing of SSDI application
 - Consult with disability attorney if considering SSDI
@@ -94,11 +100,13 @@ Many long-term disabilities lead to SSDI applications:
 ### Maximizing Benefits
 
 **Legal and Appropriate:**
+
 1. Receive full VA disability compensation (always)
 2. Apply for and receive full SDI (if eligible)
 3. Receive LTD (offset by SDI, but not VA)
 
 **Your Total:**
+
 - VA Disability: Full amount
 - SDI: Full amount
 - LTD: Reduced by SDI (but not VA)
@@ -106,11 +114,13 @@ Many long-term disabilities lead to SSDI applications:
 ### Example Calculation
 
 **Assumptions:**
+
 - VA disability: $2,000/month
 - SDI: $7,000/month
 - LTD (gross): $19,446/month
 
 **Without LTD Offset for VA:**
+
 ```
 VA:  $2,000/month (unchanged)
 SDI: $7,000/month (unchanged)
@@ -149,6 +159,7 @@ Generally no, unless you're receiving need-based VA benefits (rare for pilots wi
 ### "Can I Work Part-Time with Both?"
 
 Complex question. Working may affect:
+
 - SDI (you must be "unable to do your regular work")
 - LTD (definition of "disabled" in policy)
 - VA usually not affected by earnings unless pension-based
@@ -156,6 +167,7 @@ Complex question. Working may affect:
 ### "What if I Return to Flying?"
 
 If you return to flying:
+
 - SDI and LTD would stop (no longer disabled)
 - VA disability continues (if condition persists)
 - VA rating may be reviewed at scheduled intervals
@@ -171,6 +183,7 @@ If you return to flying:
 ### For Complex Situations
 
 Consider consulting:
+
 - VA-experienced attorney
 - Disability benefits specialist
 - ALPA (for pilot-specific guidance)

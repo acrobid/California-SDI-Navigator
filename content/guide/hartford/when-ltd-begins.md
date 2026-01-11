@@ -35,10 +35,12 @@ Day 181:     LTD benefits begin (if approved)
 ### Counting the Days
 
 **Day 1 starts:**
+
 - The first day you cannot work due to disability
 - Usually the day after your last day worked
 
 **Days continue if:**
+
 - You remain disabled
 - You don't return to work
 - Your doctor continues to certify disability
@@ -47,11 +49,11 @@ Day 181:     LTD benefits begin (if approved)
 
 ### Overlap and Coordination
 
-| Period | SDI Status | LTD Status |
-|--------|-----------|------------|
-| Days 1-7 | Waiting period | Elimination period |
-| Days 8-180 | Paying | Elimination period |
-| Days 181+ | May continue | Now paying |
+| Period     | SDI Status     | LTD Status         |
+| ---------- | -------------- | ------------------ |
+| Days 1-7   | Waiting period | Elimination period |
+| Days 8-180 | Paying         | Elimination period |
+| Days 181+  | May continue   | Now paying         |
 
 ### How They Work Together
 
@@ -88,6 +90,7 @@ You might qualify during the "own occupation" period but not the "any occupation
 ### When to Apply
 
 **Apply early:** Don't wait until day 180
+
 - Apply around day 90-120
 - Processing takes time
 - Ensures payments start promptly at day 181
@@ -104,12 +107,14 @@ You might qualify during the "own occupation" period but not the "any occupation
 ### Required Information
 
 **Personal:**
+
 - Full name and address
 - Social Security Number
 - Date of birth
 - Contact information
 
 **Employment:**
+
 - Employee ID
 - Hire date
 - Job title and description
@@ -117,6 +122,7 @@ You might qualify during the "own occupation" period but not the "any occupation
 - Current salary information
 
 **Medical:**
+
 - Treating physician information
 - Diagnosis and prognosis
 - Treatment plan
@@ -127,11 +133,13 @@ You might qualify during the "own occupation" period but not the "any occupation
 ### Benefit Amount
 
 Hartford LTD pays:
+
 - **66.67%** of your pre-disability earnings
 - Subject to IRS 401(a)(17) limit ($350,000 for 2026)
 - Reduced by other income (SDI, other disability payments)
 
 **Maximum Monthly Benefit Calculation:**
+
 ```
 $350,000 × 66.67% ÷ 12 = $19,446/month (before offsets)
 ```
@@ -139,6 +147,7 @@ $350,000 × 66.67% ÷ 12 = $19,446/month (before offsets)
 ### Taxability
 
 Hartford premiums are employer-paid, so:
+
 - LTD benefits are taxable income
 - Federal income tax applies
 - State income tax may apply
@@ -161,6 +170,7 @@ Month 7+:    LTD + possibly SDI
 ### Documenting for Hartford
 
 Keep records of:
+
 - All SDI payments received
 - Sick bank usage
 - Any other disability income
@@ -173,6 +183,7 @@ Hartford will ask for this information and verify it.
 ### Claim Denied
 
 If Hartford denies your LTD claim:
+
 - Review denial reason carefully
 - You have **180 days** to appeal
 - Gather additional medical evidence
@@ -181,6 +192,7 @@ If Hartford denies your LTD claim:
 ### Delayed Approval
 
 If approval takes too long:
+
 - Follow up regularly
 - Document all contacts
 - Escalate if necessary
@@ -189,6 +201,7 @@ If approval takes too long:
 ### Offset Disputes
 
 If you disagree with Hartford's offset calculation:
+
 - Request detailed calculation
 - Compare to policy language
 - Use [PBRB process](/guide/hartford/pbrb) if needed

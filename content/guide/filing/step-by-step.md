@@ -17,6 +17,7 @@ This guide walks you through the SDI claim filing process step by step.
 Have these ready before starting:
 
 **Personal Information:**
+
 - Social Security Number (full 9 digits)
 - Date of birth
 - Driver's license or state ID number
@@ -24,12 +25,14 @@ Have these ready before starting:
 - Phone number and email
 
 **Employment Information:**
+
 - FedEx's name and address
 - Your employee ID
 - Last day worked
 - Usual occupation: "Airline Pilot"
 
 **Medical Information:**
+
 - Treating physician's name
 - Doctor's phone number
 - Doctor's address
@@ -38,6 +41,7 @@ Have these ready before starting:
 - Date disability began
 
 **Financial Information:**
+
 - Bank routing number (for direct deposit)
 - Bank account number (for direct deposit)
 
@@ -53,12 +57,14 @@ Have these ready before starting:
 ### Step 2: Create or Log Into Account
 
 **If New User:**
+
 1. Click "Register"
 2. Provide email address
 3. Create password (save this!)
 4. Complete identity verification
 
 **If Existing User:**
+
 1. Log in with email and password
 2. Complete any security verification
 
@@ -71,6 +77,7 @@ Have these ready before starting:
 ### Step 4: Personal Information
 
 Enter your:
+
 - Full legal name (as on Social Security card)
 - Social Security Number
 - Date of birth
@@ -85,6 +92,7 @@ If you live overseas, you'll still need a California mailing address for corresp
 ### Step 5: Employment Information
 
 **Last Employer Section:**
+
 - Employer name: Federal Express Corporation (or as shown on W-2)
 - Employer address: Use the address on your pay stub
 - Your occupation: Airline Pilot
@@ -92,6 +100,7 @@ If you live overseas, you'll still need a California mailing address for corresp
 - Reason for stopping work: Illness/Injury/Disability
 
 **Wage Information:**
+
 - The system may pre-populate from state records
 - Verify it looks reasonable
 - Note any discrepancies
@@ -99,14 +108,17 @@ If you live overseas, you'll still need a California mailing address for corresp
 ### Step 6: Disability Information
 
 **Disability Start Date:**
+
 - Enter the first day you were unable to work
 - This is typically the day after your last worked day
 
 **Type of Disability:**
+
 - Select the category that best fits
 - Provide brief description (e.g., "Surgery recovery" or "Medical condition")
 
 **Are You in a Hospital?**
+
 - Answer current status
 
 ### Step 7: Medical Provider Information
@@ -116,6 +128,7 @@ Errors in doctor information cause significant delays. Verify everything is accu
 ::
 
 **Doctor Information:**
+
 - Full legal name of treating physician
 - Medical license number (verify at mbc.ca.gov)
 - Complete address
@@ -123,12 +136,14 @@ Errors in doctor information cause significant delays. Verify everything is accu
 - Fax number (helpful for EDD to contact them)
 
 **Treatment Information:**
+
 - First date of treatment for this condition
 - Last date of treatment (or ongoing)
 
 ### Step 8: Other Benefits
 
 **Are you receiving or entitled to receive:**
+
 - Workers' Compensation? (Usually No for illness)
 - Other state disability? (No)
 - Employer-paid sick leave? (May be Yes—answer honestly)
@@ -140,11 +155,13 @@ If you're currently using sick leave, answer Yes. This doesn't disqualify you—
 ### Step 9: Payment Method
 
 **Direct Deposit (Recommended):**
+
 - Bank routing number (9 digits)
 - Account number
 - Account type (checking or savings)
 
 **Debit Card:**
+
 - EDD can issue a Bank of America debit card
 - May take longer to receive
 
@@ -178,6 +195,7 @@ Your doctor must complete their certification:
 2. You may need to facilitate this
 
 Ask your doctor:
+
 - Can they complete online via EDD?
 - Do they need a paper form?
 - How long will it take them?

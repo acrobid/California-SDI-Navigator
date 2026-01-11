@@ -1,25 +1,26 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Document Templates - CA SDI Navigator',
-  description: 'Downloadable templates for CA SDI claims and Hartford LTD coordination',
-})
+  title: "Document Templates - CA SDI Navigator",
+  description:
+    "Downloadable templates for CA SDI claims and Hartford LTD coordination",
+});
 
 interface Template {
-  id: string
-  title: string
-  description: string
-  category: 'edd' | 'hartford' | 'general'
-  icon: string
-  content: string
+  id: string;
+  title: string;
+  description: string;
+  category: "edd" | "hartford" | "general";
+  icon: string;
+  content: string;
 }
 
 const templates: Template[] = [
   {
-    id: 'hartford-appeal',
-    title: 'Hartford Offset Appeal Letter',
-    description: 'Template for appealing Hartford\'s SDI offset decision',
-    category: 'hartford',
-    icon: 'i-lucide-file-signature',
+    id: "hartford-appeal",
+    title: "Hartford Offset Appeal Letter",
+    description: "Template for appealing Hartford's SDI offset decision",
+    category: "hartford",
+    icon: "i-lucide-file-signature",
     content: `[Your Name]
 [Your Address]
 [City, State ZIP]
@@ -75,11 +76,11 @@ cc: ALPA Retirement & Insurance Committee
     [Your personal records]`,
   },
   {
-    id: 'edd-cover-letter',
-    title: 'EDD Document Submission Cover Letter',
-    description: 'Cover letter template for submitting documents to EDD',
-    category: 'edd',
-    icon: 'i-lucide-file-text',
+    id: "edd-cover-letter",
+    title: "EDD Document Submission Cover Letter",
+    description: "Cover letter template for submitting documents to EDD",
+    category: "edd",
+    icon: "i-lucide-file-text",
     content: `[Your Name]
 [Your Address]
 [City, State ZIP]
@@ -131,11 +132,11 @@ Sincerely,
 Enclosures: [Number] documents`,
   },
   {
-    id: 'doctor-request',
-    title: 'Doctor Certification Request',
-    description: 'Instructions for your doctor completing EDD certification',
-    category: 'general',
-    icon: 'i-lucide-stethoscope',
+    id: "doctor-request",
+    title: "Doctor Certification Request",
+    description: "Instructions for your doctor completing EDD certification",
+    category: "general",
+    icon: "i-lucide-stethoscope",
     content: `INFORMATION FOR PHYSICIAN
 Completing California EDD Disability Insurance Medical Certification
 
@@ -183,11 +184,11 @@ Thank you for your assistance.
 [Your Email]`,
   },
   {
-    id: 'edd-inquiry',
-    title: 'EDD Missing Payment Inquiry',
-    description: 'Template for inquiring about delayed or missing SDI payments',
-    category: 'edd',
-    icon: 'i-lucide-search',
+    id: "edd-inquiry",
+    title: "EDD Missing Payment Inquiry",
+    description: "Template for inquiring about delayed or missing SDI payments",
+    category: "edd",
+    icon: "i-lucide-search",
     content: `[Your Name]
 [Your Address]
 [City, State ZIP]
@@ -247,11 +248,11 @@ Sincerely,
 Enclosures: [Copies of previous correspondence, if any]`,
   },
   {
-    id: 'pbrb-request',
-    title: 'PBRB Request Template',
-    description: 'Template for requesting Pilot Benefit Review Board review',
-    category: 'hartford',
-    icon: 'i-lucide-scale',
+    id: "pbrb-request",
+    title: "PBRB Request Template",
+    description: "Template for requesting Pilot Benefit Review Board review",
+    category: "hartford",
+    icon: "i-lucide-scale",
     content: `[Your Name]
 [Your Address]
 [City, State ZIP]
@@ -314,35 +315,43 @@ Sincerely,
 
 Enclosures: [List]`,
   },
-]
+];
 
 const categoryLabels = {
-  edd: { title: 'EDD Documents', color: 'info' },
-  hartford: { title: 'Hartford / LTD', color: 'primary' },
-  general: { title: 'General', color: 'neutral' },
-}
+  edd: { title: "EDD Documents", color: "info" },
+  hartford: { title: "Hartford / LTD", color: "primary" },
+  general: { title: "General", color: "neutral" },
+};
 
-const selectedTemplate = ref<Template | null>(null)
+const selectedTemplate = ref<Template | null>(null);
 
 const copyToClipboard = async (text: string) => {
-  await navigator.clipboard.writeText(text)
-}
+  await navigator.clipboard.writeText(text);
+};
 </script>
 
 <template>
   <div class="container mx-auto px-4 py-8">
     <!-- Header -->
     <div class="mb-8">
-      <h1 class="text-3xl font-bold text-gray-900 dark:text-white mb-2">Document Templates</h1>
+      <h1 class="text-3xl font-bold text-gray-900 dark:text-white mb-2">
+        Document Templates
+      </h1>
       <p class="text-gray-600 dark:text-gray-400">
-        Ready-to-use letter templates for common situations in the SDI and LTD process.
+        Ready-to-use letter templates for common situations in the SDI and LTD
+        process.
       </p>
     </div>
 
-    <CommonCallout variant="info" title="How to Use These Templates" class="mb-8">
+    <CommonCallout
+      variant="info"
+      title="How to Use These Templates"
+      class="mb-8"
+    >
       <p>
-        Click on a template to view it, then copy and customize with your specific information.
-        Replace all bracketed [placeholders] with your actual information before sending.
+        Click on a template to view it, then copy and customize with your
+        specific information. Replace all bracketed [placeholders] with your
+        actual information before sending.
       </p>
     </CommonCallout>
 
@@ -360,7 +369,8 @@ const copyToClipboard = async (text: string) => {
               class="p-2 rounded-lg"
               :class="{
                 'bg-blue-50 dark:bg-blue-900/20': template.category === 'edd',
-                'bg-purple-50 dark:bg-purple-900/20': template.category === 'hartford',
+                'bg-purple-50 dark:bg-purple-900/20':
+                  template.category === 'hartford',
                 'bg-gray-50 dark:bg-gray-800': template.category === 'general',
               }"
             >
@@ -368,14 +378,22 @@ const copyToClipboard = async (text: string) => {
                 :name="template.icon"
                 class="w-5 h-5"
                 :class="{
-                  'text-blue-600 dark:text-blue-400': template.category === 'edd',
-                  'text-purple-600 dark:text-purple-400': template.category === 'hartford',
-                  'text-gray-600 dark:text-gray-400': template.category === 'general',
+                  'text-blue-600 dark:text-blue-400':
+                    template.category === 'edd',
+                  'text-purple-600 dark:text-purple-400':
+                    template.category === 'hartford',
+                  'text-gray-600 dark:text-gray-400':
+                    template.category === 'general',
                 }"
               />
             </div>
             <UBadge
-              :color="(categoryLabels[template.category].color as 'info' | 'primary' | 'neutral')"
+              :color="
+                categoryLabels[template.category].color as
+                  | 'info'
+                  | 'primary'
+                  | 'neutral'
+              "
               variant="subtle"
               size="xs"
             >
@@ -383,8 +401,12 @@ const copyToClipboard = async (text: string) => {
             </UBadge>
           </div>
 
-          <h3 class="font-semibold text-gray-900 dark:text-white">{{ template.title }}</h3>
-          <p class="text-sm text-gray-600 dark:text-gray-400">{{ template.description }}</p>
+          <h3 class="font-semibold text-gray-900 dark:text-white">
+            {{ template.title }}
+          </h3>
+          <p class="text-sm text-gray-600 dark:text-gray-400">
+            {{ template.description }}
+          </p>
 
           <UButton variant="ghost" size="sm" class="mt-2">
             <UIcon name="i-lucide-eye" class="w-4 h-4 mr-2" />
@@ -402,31 +424,43 @@ const copyToClipboard = async (text: string) => {
             <div class="flex items-center justify-between">
               <div class="flex items-center gap-3">
                 <UIcon :name="selectedTemplate.icon" class="w-5 h-5" />
-                <h2 class="text-lg font-semibold">{{ selectedTemplate.title }}</h2>
+                <h2 class="text-lg font-semibold">
+                  {{ selectedTemplate.title }}
+                </h2>
               </div>
-              <UButton variant="ghost" color="neutral" icon="i-lucide-x" @click="selectedTemplate = null" />
+              <UButton
+                variant="ghost"
+                color="neutral"
+                icon="i-lucide-x"
+                @click="selectedTemplate = null"
+              />
             </div>
           </template>
 
           <div class="space-y-4">
             <CommonCallout variant="warning">
-              Replace all [bracketed placeholders] with your actual information before using this template.
+              Replace all [bracketed placeholders] with your actual information
+              before using this template.
             </CommonCallout>
 
             <div class="relative">
-              <pre class="p-4 bg-gray-50 dark:bg-gray-800 rounded-lg text-sm overflow-x-auto whitespace-pre-wrap font-mono">{{ selectedTemplate.content }}</pre>
+              <pre
+                class="p-4 bg-gray-50 dark:bg-gray-800 rounded-lg text-sm overflow-x-auto whitespace-pre-wrap font-mono"
+                >{{ selectedTemplate.content }}</pre
+              >
             </div>
           </div>
 
           <template #footer>
             <div class="flex justify-end gap-3">
-              <UButton variant="outline" @click="copyToClipboard(selectedTemplate!.content)">
+              <UButton
+                variant="outline"
+                @click="copyToClipboard(selectedTemplate!.content)"
+              >
                 <UIcon name="i-lucide-copy" class="w-4 h-4 mr-2" />
                 Copy to Clipboard
               </UButton>
-              <UButton @click="selectedTemplate = null">
-                Close
-              </UButton>
+              <UButton @click="selectedTemplate = null"> Close </UButton>
             </div>
           </template>
         </UCard>
@@ -436,9 +470,10 @@ const copyToClipboard = async (text: string) => {
     <!-- Disclaimer -->
     <div class="mt-8">
       <CommonCallout variant="warning" title="Legal Disclaimer">
-        These templates are provided for informational purposes only and do not constitute legal advice.
-        Review all documents carefully before submitting. Consider consulting with a legal professional
-        for complex situations or if you are unsure about any aspect of your claim.
+        These templates are provided for informational purposes only and do not
+        constitute legal advice. Review all documents carefully before
+        submitting. Consider consulting with a legal professional for complex
+        situations or if you are unsure about any aspect of your claim.
       </CommonCallout>
     </div>
   </div>

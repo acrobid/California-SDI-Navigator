@@ -1,78 +1,101 @@
 <script setup lang="ts">
-import { formatDuration } from '~/utils/formatters'
-import type { ChecklistPhase } from '~/types'
+import { formatDuration } from "~/utils/formatters";
+import type { ChecklistPhase } from "~/types";
 
 useSeoMeta({
-  title: 'Claim Checklist - CA SDI Navigator',
-  description: 'Track your progress through the CA SDI claim process',
-})
+  title: "Claim Checklist - CA SDI Navigator",
+  description: "Track your progress through the CA SDI claim process",
+});
 
-const { toggleItem, isComplete, progress, itemsByPhase, phaseProgress, resetChecklist } = useChecklist()
+const {
+  toggleItem,
+  isComplete,
+  progress,
+  itemsByPhase,
+  phaseProgress,
+  resetChecklist,
+} = useChecklist();
 
-const phaseLabels: Record<ChecklistPhase, { title: string; icon: string; description: string }> = {
+const phaseLabels: Record<
+  ChecklistPhase,
+  { title: string; icon: string; description: string }
+> = {
   preparation: {
-    title: 'Preparation',
-    icon: 'i-lucide-clipboard-list',
-    description: 'Get organized before you need to file',
+    title: "Preparation",
+    icon: "i-lucide-clipboard-list",
+    description: "Get organized before you need to file",
   },
   filing: {
-    title: 'Filing Your Claim',
-    icon: 'i-lucide-file-text',
-    description: 'Submit your SDI claim to EDD',
+    title: "Filing Your Claim",
+    icon: "i-lucide-file-text",
+    description: "Submit your SDI claim to EDD",
   },
-  'post-filing': {
-    title: 'After Filing',
-    icon: 'i-lucide-clock',
-    description: 'Track and follow up on your claim',
+  "post-filing": {
+    title: "After Filing",
+    icon: "i-lucide-clock",
+    description: "Track and follow up on your claim",
   },
   hartford: {
-    title: 'Hartford LTD',
-    icon: 'i-lucide-building',
-    description: 'Coordinate with The Hartford for LTD',
+    title: "Hartford LTD",
+    icon: "i-lucide-building",
+    description: "Coordinate with The Hartford for LTD",
   },
-  'in-person': {
-    title: 'EDD Office Visits',
-    icon: 'i-lucide-map-pin',
-    description: 'If you need to visit in person',
+  "in-person": {
+    title: "EDD Office Visits",
+    icon: "i-lucide-map-pin",
+    description: "If you need to visit in person",
   },
-}
+};
 
-const phases: ChecklistPhase[] = ['preparation', 'filing', 'post-filing', 'hartford', 'in-person']
+const phases: ChecklistPhase[] = [
+  "preparation",
+  "filing",
+  "post-filing",
+  "hartford",
+  "in-person",
+];
 
-const expandedItems = ref<Set<string>>(new Set())
+const expandedItems = ref<Set<string>>(new Set());
 
 const toggleExpanded = (id: string) => {
   if (expandedItems.value.has(id)) {
-    expandedItems.value.delete(id)
+    expandedItems.value.delete(id);
   } else {
-    expandedItems.value.add(id)
+    expandedItems.value.add(id);
   }
-}
+};
 
-const showResetConfirm = ref(false)
+const showResetConfirm = ref(false);
 
 const handleReset = () => {
-  resetChecklist()
-  showResetConfirm.value = false
-}
+  resetChecklist();
+  showResetConfirm.value = false;
+};
 </script>
 
 <template>
   <div class="container mx-auto px-4 py-8">
     <!-- Header -->
     <div class="mb-8">
-      <h1 class="text-3xl font-bold text-gray-900 dark:text-white mb-2">Your SDI Claim Checklist</h1>
+      <h1 class="text-3xl font-bold text-gray-900 dark:text-white mb-2">
+        Your SDI Claim Checklist
+      </h1>
       <p class="text-gray-600 dark:text-gray-400">
-        Track your progress through the CA SDI claim process. Your progress is saved locally in your browser.
+        Track your progress through the CA SDI claim process. Your progress is
+        saved locally in your browser.
       </p>
     </div>
 
     <!-- Progress Overview -->
     <UCard class="mb-8">
-      <div class="flex flex-col md:flex-row md:items-center justify-between gap-4">
+      <div
+        class="flex flex-col md:flex-row md:items-center justify-between gap-4"
+      >
         <div class="flex-1">
           <div class="flex items-center gap-4 mb-2">
-            <span class="text-2xl font-bold text-gray-900 dark:text-white">{{ progress.percentage }}%</span>
+            <span class="text-2xl font-bold text-gray-900 dark:text-white"
+              >{{ progress.percentage }}%</span
+            >
             <span class="text-gray-500">Complete</span>
           </div>
           <UProgress :value="progress.percentage" color="primary" size="lg" />
@@ -104,7 +127,9 @@ const handleReset = () => {
 
           <template #footer>
             <div class="flex justify-end gap-3">
-              <UButton variant="ghost" @click="showResetConfirm = false">Cancel</UButton>
+              <UButton variant="ghost" @click="showResetConfirm = false"
+                >Cancel</UButton
+              >
               <UButton color="red" @click="handleReset">Reset</UButton>
             </div>
           </template>
@@ -119,16 +144,25 @@ const handleReset = () => {
           <div class="flex items-center justify-between">
             <div class="flex items-center gap-3">
               <div class="p-2 rounded-lg bg-primary-50 dark:bg-primary-900/20">
-                <UIcon :name="phaseLabels[phase].icon" class="w-5 h-5 text-primary-600 dark:text-primary-400" />
+                <UIcon
+                  :name="phaseLabels[phase].icon"
+                  class="w-5 h-5 text-primary-600 dark:text-primary-400"
+                />
               </div>
               <div>
-                <h2 class="font-semibold text-gray-900 dark:text-white">{{ phaseLabels[phase].title }}</h2>
-                <p class="text-sm text-gray-500">{{ phaseLabels[phase].description }}</p>
+                <h2 class="font-semibold text-gray-900 dark:text-white">
+                  {{ phaseLabels[phase].title }}
+                </h2>
+                <p class="text-sm text-gray-500">
+                  {{ phaseLabels[phase].description }}
+                </p>
               </div>
             </div>
             <div class="text-right">
               <span class="text-sm font-medium text-gray-900 dark:text-white">
-                {{ phaseProgress[phase]?.completed }}/{{ phaseProgress[phase]?.total }}
+                {{ phaseProgress[phase]?.completed }}/{{
+                  phaseProgress[phase]?.total
+                }}
               </span>
               <UProgress
                 :value="phaseProgress[phase]?.percentage || 0"
@@ -156,7 +190,10 @@ const handleReset = () => {
                 <div class="flex items-center justify-between gap-2">
                   <button
                     class="text-left font-medium text-gray-900 dark:text-white hover:text-primary-600 dark:hover:text-primary-400"
-                    :class="{ 'line-through text-gray-400 dark:text-gray-500': isComplete(item.id) }"
+                    :class="{
+                      'line-through text-gray-400 dark:text-gray-500':
+                        isComplete(item.id),
+                    }"
                     @click="toggleExpanded(item.id)"
                   >
                     {{ item.title }}
@@ -170,7 +207,11 @@ const handleReset = () => {
                       variant="ghost"
                       color="neutral"
                       size="xs"
-                      :icon="expandedItems.has(item.id) ? 'i-lucide-chevron-up' : 'i-lucide-chevron-down'"
+                      :icon="
+                        expandedItems.has(item.id)
+                          ? 'i-lucide-chevron-up'
+                          : 'i-lucide-chevron-down'
+                      "
                       @click="toggleExpanded(item.id)"
                     />
                   </div>
@@ -189,7 +230,10 @@ const handleReset = () => {
                       :key="warning"
                       class="flex items-start gap-2 p-2 bg-amber-50 dark:bg-amber-900/20 rounded text-sm text-amber-800 dark:text-amber-200"
                     >
-                      <UIcon name="i-lucide-alert-triangle" class="w-4 h-4 mt-0.5 flex-shrink-0" />
+                      <UIcon
+                        name="i-lucide-alert-triangle"
+                        class="w-4 h-4 mt-0.5 flex-shrink-0"
+                      />
                       <span>{{ warning }}</span>
                     </div>
                   </div>
@@ -201,7 +245,10 @@ const handleReset = () => {
                       :key="tip"
                       class="flex items-start gap-2 p-2 bg-green-50 dark:bg-green-900/20 rounded text-sm text-green-800 dark:text-green-200"
                     >
-                      <UIcon name="i-lucide-lightbulb" class="w-4 h-4 mt-0.5 flex-shrink-0" />
+                      <UIcon
+                        name="i-lucide-lightbulb"
+                        class="w-4 h-4 mt-0.5 flex-shrink-0"
+                      />
                       <span>{{ tip }}</span>
                     </div>
                   </div>

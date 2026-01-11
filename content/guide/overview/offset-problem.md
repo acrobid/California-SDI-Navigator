@@ -43,12 +43,12 @@ In reality, here's what often happens:
 
 ### Example Scenario
 
-| Without Delay | With 2-Month EDD Delay |
-|--------------|------------------------|
-| LTD: $17,000/mo | LTD: $17,000/mo |
-| Offset: -$7,000 | Offset: -$7,000 |
-| SDI: +$7,000 | SDI: $0 (delayed) |
-| **Net: $17,000/mo** | **Net: $10,000/mo** |
+| Without Delay       | With 2-Month EDD Delay |
+| ------------------- | ---------------------- |
+| LTD: $17,000/mo     | LTD: $17,000/mo        |
+| Offset: -$7,000     | Offset: -$7,000        |
+| SDI: +$7,000        | SDI: $0 (delayed)      |
+| **Net: $17,000/mo** | **Net: $10,000/mo**    |
 
 In this example, you're effectively losing $7,000/month during the EDD processing delay—potentially $14,000-21,000 or more over a typical 2-3 month delay.
 
@@ -61,6 +61,7 @@ Hartford's plan documents likely specify that benefits are offset by amounts the
 ### Their Perspective
 
 From Hartford's perspective:
+
 - California requires SDI coverage, so you should be filing for it
 - The SDI amount is calculable based on your wages
 - They want to avoid paying twice for the same disability period
@@ -68,19 +69,20 @@ From Hartford's perspective:
 ### The Unfairness
 
 From your perspective:
+
 - You're paying SDI taxes (1.3% of ALL income, uncapped since 2024)
 - You're doing the bureaucratic work of filing a claim
 - But if there are delays, YOU bear the financial burden, not Hartford
 
 ## Comparison: California vs. Other Bases
 
-| Situation | CA-Based Pilot | Memphis-Based Pilot |
-|-----------|----------------|---------------------|
-| SDI Taxes Paid | ~$5,000-8,000/year | $0 |
-| LTD Offset | Yes (for SDI) | No SDI offset |
-| Bureaucratic Burden | High | Low |
-| Net Benefit | Same (if no delays) | Same |
-| Risk if Delays | Significant income reduction | No SDI-related risk |
+| Situation           | CA-Based Pilot               | Memphis-Based Pilot |
+| ------------------- | ---------------------------- | ------------------- |
+| SDI Taxes Paid      | ~$5,000-8,000/year           | $0                  |
+| LTD Offset          | Yes (for SDI)                | No SDI offset       |
+| Bureaucratic Burden | High                         | Low                 |
+| Net Benefit         | Same (if no delays)          | Same                |
+| Risk if Delays      | Significant income reduction | No SDI-related risk |
 
 ::callout{type="info" title="The Inequity"}
 California-based pilots pay thousands in additional taxes for a benefit that, when functioning properly, provides zero additional net income. And when there are delays, CA pilots suffer reduced income that pilots at other bases never experience.
@@ -121,6 +123,7 @@ The best strategy is to minimize EDD processing delays:
 ### Use This Guide
 
 Follow the guidance in this resource:
+
 - [Preparation](/guide/preparation/understanding-pay) - Get ready before you need to file
 - [Filing](/guide/filing/when-to-file) - Submit your claim correctly
 - [Checklist](/checklist) - Track your progress
@@ -129,6 +132,7 @@ Follow the guidance in this resource:
 ### Consider Appealing
 
 If Hartford's offset seems incorrect or excessive:
+
 - Review their calculation methodology
 - Check if they're offsetting correctly
 - Consider appealing through ALPA's PBRB process
@@ -144,6 +148,7 @@ Some pilots have successfully argued for changes to how offsets are applied or f
 
 ::callout{type="tip" title="Document Now"}
 Even if you're not currently disabled, start documenting now:
+
 - Save pay stubs
 - Understand your sick bank
 - Know your contacts

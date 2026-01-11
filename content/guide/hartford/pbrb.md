@@ -13,6 +13,7 @@ The Pilot Benefit Review Board (PBRB) is a dispute resolution option available t
 ## What Is PBRB?
 
 The PBRB is:
+
 - A joint committee of pilots and management
 - Established through the collective bargaining agreement
 - An alternative to litigation for benefit disputes
@@ -27,6 +28,7 @@ PBRB procedures may change with contract negotiations. Verify current procedures
 ### Appropriate Issues
 
 PBRB may be used for:
+
 - Disputes over benefit calculations
 - Interpretation of benefit plan language
 - Disagreements with Hartford on offset calculations
@@ -41,23 +43,25 @@ PBRB may be used for:
 
 ## PBRB vs. Other Options
 
-| Option | Best For | Timeline |
-|--------|----------|----------|
-| Hartford Appeal | Initial denials | 180 days to file |
-| PBRB | Calculation/interpretation disputes | Varies |
-| ERISA Lawsuit | Final resort after appeals | 2-3 years |
+| Option          | Best For                            | Timeline         |
+| --------------- | ----------------------------------- | ---------------- |
+| Hartford Appeal | Initial denials                     | 180 days to file |
+| PBRB            | Calculation/interpretation disputes | Varies           |
+| ERISA Lawsuit   | Final resort after appeals          | 2-3 years        |
 
 ## How PBRB Works
 
 ### Step 1: Exhaust Other Remedies
 
 Before PBRB:
+
 - Complete Hartford's internal appeal process
 - Document all previous attempts to resolve
 
 ### Step 2: Request PBRB Review
 
 Contact ALPA or the Master Executive Council to:
+
 - Confirm PBRB is appropriate for your issue
 - Obtain current procedures
 - Get the required forms
@@ -65,6 +69,7 @@ Contact ALPA or the Master Executive Council to:
 ### Step 3: Submit Your Case
 
 Prepare and submit:
+
 - Detailed statement of the issue
 - All relevant documentation
 - Previous appeal decisions
@@ -73,6 +78,7 @@ Prepare and submit:
 ### Step 4: PBRB Review
 
 The board:
+
 - Reviews your submission
 - May request additional information
 - Discusses with relevant parties
@@ -81,6 +87,7 @@ The board:
 ### Step 5: Decision
 
 PBRB issues:
+
 - Written decision
 - Explanation of reasoning
 - Direction for resolution (if in your favor)
@@ -112,6 +119,7 @@ PBRB issues:
 ### Writing Your Statement
 
 **Structure:**
+
 1. Summary of the issue (1 paragraph)
 2. Background facts (chronological)
 3. Hartford's position
@@ -119,6 +127,7 @@ PBRB issues:
 5. Requested remedy
 
 **Tips:**
+
 - Be factual, not emotional
 - Quote specific policy language
 - Show your math if calculation dispute
@@ -131,6 +140,7 @@ PBRB issues:
 **Issue:** Hartford using incorrect SDI amount in offset
 
 **Argument:**
+
 - Actual SDI received: $X/month
 - Hartford offsetting: $Y/month
 - Difference: $Z/month
@@ -141,6 +151,7 @@ PBRB issues:
 **Issue:** Definition of "pre-disability earnings"
 
 **Argument:**
+
 - Policy says [quote]
 - Hartford interprets as [their interpretation]
 - Correct interpretation is [your interpretation]
@@ -197,11 +208,13 @@ PBRB issues:
 ### When to Use PBRB
 
 Consider PBRB when:
+
 - Issue is clearly about interpretation/calculation
 - You have strong documentary support
 - Issue is likely to recur (sets precedent)
 
 Consider litigation when:
+
 - Issue requires extensive factual development
 - Stakes are very high
 - Legal complexity requires court review

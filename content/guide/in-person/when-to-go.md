@@ -15,11 +15,13 @@ In-person visits to EDD can be extremely helpful—but also time-consuming. Here
 ### Your Claim Is Stuck
 
 **Signs your claim is stuck:**
+
 - No status change for 3+ weeks
 - Online status says "Pending" for too long
 - You've called multiple times without resolution
 
 **Why in-person helps:**
+
 - Direct access to a representative
 - Can review your file on the spot
 - Often resolves issues that phone cannot
@@ -27,12 +29,14 @@ In-person visits to EDD can be extremely helpful—but also time-consuming. Here
 ### Your Situation Is Complex
 
 **Complex situations include:**
+
 - Unusual pay structure (pilots qualify!)
 - Multiple employers during base period
 - Previous denied claim
 - Conflicting information in system
 
 **Why in-person helps:**
+
 - Can explain details directly
 - Provide documentation immediately
 - Representative can notate file
@@ -40,11 +44,13 @@ In-person visits to EDD can be extremely helpful—but also time-consuming. Here
 ### You Need Immediate Resolution
 
 **Time-sensitive situations:**
+
 - Approaching 49-day deadline
 - Urgent financial need
 - Document requests with short deadlines
 
 **Why in-person helps:**
+
 - Same-day processing possible
 - Can submit documents directly
 - Get answers immediately
@@ -52,11 +58,13 @@ In-person visits to EDD can be extremely helpful—but also time-consuming. Here
 ### Phone Isn't Working
 
 **When phone fails:**
+
 - Can't get through (perpetual hold)
 - Keep getting transferred/disconnected
 - Phone reps can't help with your issue
 
 **Why in-person helps:**
+
 - Guaranteed to speak to someone
 - Higher-level issues can be escalated
 - More thorough review possible
@@ -90,6 +98,7 @@ EDD offices typically have 4-6+ hour wait times. Some pilots report full-day wai
 ::
 
 **How the system works:**
+
 1. Arrive before office opens
 2. Get a numbered ticket when doors open
 3. Wait to be called
@@ -98,6 +107,7 @@ EDD offices typically have 4-6+ hour wait times. Some pilots report full-day wai
 ### The Experience
 
 **Typical visit:**
+
 - Arrive 30-60 minutes before opening
 - Line forms outside before doors open
 - Limited tickets issued each day
@@ -107,6 +117,7 @@ EDD offices typically have 4-6+ hour wait times. Some pilots report full-day wai
 ### What Happens at Your Turn
 
 A representative will:
+
 1. Review your claim on their system
 2. Ask clarifying questions
 3. Accept any documents you have
@@ -150,11 +161,13 @@ A representative will:
 ### Assembly Member Option
 
 Your state Assembly member has an EDD liaison who can:
+
 - Contact EDD on your behalf
 - Escalate stuck claims
 - Get faster responses
 
 **How to use:**
+
 1. Find your Assembly member at [findyourrep.legislature.ca.gov](https://findyourrep.legislature.ca.gov)
 2. Contact their district office
 3. Explain you need help with EDD

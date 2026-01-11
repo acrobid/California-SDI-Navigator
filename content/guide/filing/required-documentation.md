@@ -17,6 +17,7 @@ A complete, accurate claim with proper documentation processes faster. Here's ev
 The most important document is your doctor's certification of your disability.
 
 **Must Include:**
+
 - Diagnosis or nature of disability
 - Date disability began
 - Expected duration
@@ -29,6 +30,7 @@ EDD verifies every doctor's license with the Medical Board of California. This t
 ::
 
 **How Doctor Certifies:**
+
 - Online through EDD system (fastest)
 - Paper form DE 2501 physician section
 - Separate letter on office letterhead (sometimes acceptable)
@@ -36,17 +38,20 @@ EDD verifies every doctor's license with the Medical Board of California. This t
 ### 2. Identification
 
 **Primary ID:**
+
 - California driver's license, OR
 - California state ID, OR
 - Other valid government-issued ID
 
 **Social Security:**
+
 - Full 9-digit Social Security Number
 - Not the card itself, just the number
 
 ### 3. Employment Information
 
 **From Your Records:**
+
 - Employee ID number
 - Employer name and address (as on pay stub)
 - Last day worked date
@@ -59,6 +64,7 @@ These aren't always required but can help your claim:
 ### Wage Documentation
 
 **If EDD Doesn't Have Accurate Wage Records:**
+
 - Last 3-4 pay stubs
 - W-2 forms from past 2 years
 - Letter from employer verifying wages
@@ -70,6 +76,7 @@ Consider including a brief explanation of pilot pay structure. EDD representativ
 ### Medical Records
 
 **If Claim Is Complex:**
+
 - Hospital discharge summaries
 - Specialist reports
 - Test results
@@ -117,7 +124,7 @@ WORK HISTORY CLARIFICATION
 Month       | Status          | Type of Pay
 ------------|-----------------|------------------
 January     | Working         | Flight Pay
-February    | Working         | Flight Pay  
+February    | Working         | Flight Pay
 March       | Partial Sick    | Mixed
 April       | Full Sick Leave | Sick Pay Only
 May         | Disabled        | No Pay
@@ -128,11 +135,13 @@ May         | Disabled        | No Pay
 If filing in person, bring:
 
 **Required:**
+
 - [ ] Photo ID (driver's license or state ID)
 - [ ] Social Security number (memorized is fine)
 - [ ] Doctor's information (printed)
 
 **Helpful:**
+
 - [ ] Last 3 pay stubs
 - [ ] Most recent W-2
 - [ ] Written explanation of pilot pay
@@ -153,12 +162,14 @@ More documents ≠ faster processing. Include what's needed and relevant.
 ## Keeping Copies
 
 **Always Keep Copies Of:**
+
 - Every document you submit
 - Every form you complete
 - All correspondence from EDD
 - Your confirmation number and dates
 
 **Organize By:**
+
 - Date submitted
 - Type of document
 - Whether it was for EDD or Hartford
@@ -182,6 +193,7 @@ EDD sometimes requests documents you've already sent. When responding, note "Pre
 Use this checklist before filing:
 
 **Core Requirements:**
+
 - [ ] Doctor's name, phone, address, license number verified
 - [ ] Social Security Number ready
 - [ ] Photo ID information ready
@@ -189,11 +201,13 @@ Use this checklist before filing:
 - [ ] Bank account info for direct deposit
 
 **Supporting Documents Ready:**
+
 - [ ] Recent pay stubs (if needed)
 - [ ] W-2 forms (if needed)
 - [ ] Pilot pay explanation (if including)
 
 **Organized and Accessible:**
+
 - [ ] All documents saved digitally
 - [ ] Printed copies if filing in person
 - [ ] Contact info if EDD needs to reach you

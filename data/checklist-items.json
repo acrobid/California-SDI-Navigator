@@ -7,8 +7,13 @@
     "estimatedMinutes": 30,
     "guideLink": "/guide/preparation/documenting-income",
     "dependencies": [],
-    "warnings": ["FedEx pay stubs don't clearly distinguish sick pay from regular pay"],
-    "tips": ["Download from Workday before your access changes", "Save as PDF with dates in filename"]
+    "warnings": [
+      "FedEx pay stubs don't clearly distinguish sick pay from regular pay"
+    ],
+    "tips": [
+      "Download from Workday before your access changes",
+      "Save as PDF with dates in filename"
+    ]
   },
   {
     "id": "prep-02",
@@ -62,7 +67,10 @@
     "estimatedMinutes": 10,
     "guideLink": "/guide/filing/when-to-file",
     "dependencies": [],
-    "warnings": ["EDD uses calendar months; FedEx uses last day worked", "If you didn't fly in a month, EDD may consider disability starting on the 1st"],
+    "warnings": [
+      "EDD uses calendar months; FedEx uses last day worked",
+      "If you didn't fly in a month, EDD may consider disability starting on the 1st"
+    ],
     "tips": []
   },
   {
@@ -73,8 +81,14 @@
     "estimatedMinutes": 15,
     "guideLink": "/guide/filing/online-vs-paper",
     "dependencies": [],
-    "warnings": ["Mail can add weeks to processing time", "In-person requires arriving very early"],
-    "tips": ["Online is fastest if you can navigate the portal", "In-person gives immediate confirmation"]
+    "warnings": [
+      "Mail can add weeks to processing time",
+      "In-person requires arriving very early"
+    ],
+    "tips": [
+      "Online is fastest if you can navigate the portal",
+      "In-person gives immediate confirmation"
+    ]
   },
   {
     "id": "filing-03",
@@ -85,7 +99,10 @@
     "guideLink": "/guide/filing/step-by-step",
     "dependencies": ["filing-01", "filing-02"],
     "warnings": ["Form must be submitted within 49 days of disability start"],
-    "tips": ["Have all documents ready before starting", "Save progress if filing online"]
+    "tips": [
+      "Have all documents ready before starting",
+      "Save progress if filing online"
+    ]
   },
   {
     "id": "filing-04",
@@ -129,7 +146,10 @@
     "guideLink": "/guide/post-filing/tracking",
     "dependencies": [],
     "warnings": [],
-    "tips": ["Use a reliable email address", "Save your login credentials securely"]
+    "tips": [
+      "Use a reliable email address",
+      "Save your login credentials securely"
+    ]
   },
   {
     "id": "post-03",
@@ -139,7 +159,10 @@
     "estimatedMinutes": 10,
     "guideLink": "/guide/post-filing/document-requests",
     "dependencies": ["filing-05"],
-    "warnings": ["EDD often requests documents already submitted", "Requests have short deadlines"],
+    "warnings": [
+      "EDD often requests documents already submitted",
+      "Requests have short deadlines"
+    ],
     "tips": ["Keep copies of everything you've already sent"]
   },
   {
@@ -184,7 +207,10 @@
     "guideLink": "/guide/hartford/appeal-deadline",
     "dependencies": ["hartford-02"],
     "warnings": ["Missing this deadline forfeits your appeal rights"],
-    "tips": ["Set multiple calendar reminders", "Deadline is 180 days from decision"]
+    "tips": [
+      "Set multiple calendar reminders",
+      "Deadline is 180 days from decision"
+    ]
   },
   {
     "id": "hartford-04",

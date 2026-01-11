@@ -17,11 +17,13 @@ Many FedEx pilots are based in California but live elsewhere. Here's how SDI wor
 California SDI is funded by employee payroll deductions. If you pay CA SDI tax, you're potentially eligible for CA SDI benefits.
 
 **You likely pay CA SDI tax if:**
+
 - Your pilot base is in California
 - Your work is localized in California
 - FedEx withholds CA SDI from your pay
 
 **Check your pay stub for:**
+
 - CA SDI deduction line item
 - State tax withholding for California
 
@@ -36,6 +38,7 @@ You do NOT need to live in California to receive CA SDI benefits. Eligibility is
 ### Online Filing (Recommended)
 
 File online from anywhere:
+
 1. Go to [edd.ca.gov](https://edd.ca.gov)
 2. File your claim as normal
 3. Use your home address for correspondence
@@ -44,11 +47,13 @@ File online from anywhere:
 ### Mailing Address Considerations
 
 **For Correspondence:**
+
 - Use your actual home address
 - EDD will mail correspondence there
 - Ensure you check mail regularly
 
 **For Residency Questions:**
+
 - Your address doesn't affect eligibility
 - Base determines taxing jurisdiction
 - Be prepared to explain if asked
@@ -56,6 +61,7 @@ File online from anywhere:
 ### Phone Options
 
 Same as California residents:
+
 - Call EDD at normal numbers
 - May have long hold times
 - No difference for out-of-state callers
@@ -67,11 +73,13 @@ Same as California residents:
 Your treating doctor does NOT need to be in California.
 
 **Acceptable:**
+
 - Any licensed physician
 - License verified through state medical board
 - Out-of-state doctors are fine
 
 **What EDD Verifies:**
+
 - Doctor has valid medical license
 - License is in good standing
 - Doctor is qualified to certify disability
@@ -81,11 +89,13 @@ Your treating doctor does NOT need to be in California.
 If in-person visits are needed:
 
 **Options:**
+
 - Plan around trips to California
 - Visit when you're in town for work
 - Use phone/online when possible
 
 **If You Must Go:**
+
 - See [Which Office to Visit](/guide/in-person/which-office)
 - Oakland and LAX-area offices are common for pilots
 - Combine with planned California travel if possible
@@ -93,11 +103,13 @@ If in-person visits are needed:
 ### Banking and Payments
 
 **Direct Deposit:**
+
 - Works to any US bank account
 - No California bank required
 - Set up during claim filing
 
 **EDD Debit Card:**
+
 - Mailed to your address
 - Works nationwide
 - Can withdraw from any ATM
@@ -107,6 +119,7 @@ If in-person visits are needed:
 ### SDI Benefits
 
 SDI benefits are:
+
 - **Not taxable** by California
 - **Partially taxable** by federal government in some cases
 - Subject to your home state's rules
@@ -114,6 +127,7 @@ SDI benefits are:
 ### Your Home State
 
 Check with your home state regarding:
+
 - Whether they tax SDI benefits
 - Any credits for taxes paid to California
 - Reporting requirements
@@ -127,6 +141,7 @@ This is general information, not tax advice. Consult a tax professional familiar
 ### Address Questions
 
 **If EDD Questions Your Address:**
+
 - Explain you're a pilot based in California
 - Show California SDI tax withholding
 - Provide employer location confirmation
@@ -134,6 +149,7 @@ This is general information, not tax advice. Consult a tax professional familiar
 ### Phone Number Issues
 
 **If Your Phone Area Code Isn't California:**
+
 - Not a problem
 - EDD can call any US number
 - Ensure voicemail is set up for calls
@@ -141,6 +157,7 @@ This is general information, not tax advice. Consult a tax professional familiar
 ### Documentation
 
 **Keep These Accessible:**
+
 - Pay stubs showing CA SDI deduction
 - W-2 showing California employment
 - FedEx employment verification
@@ -150,11 +167,13 @@ This is general information, not tax advice. Consult a tax professional familiar
 ### If You Changed Bases
 
 **Recently Moved FROM California:**
+
 - You may still qualify based on base period earnings
 - Check when your CA taxed earnings occurred
 - File if you had CA SDI withheld during base period
 
 **Recently Moved TO California:**
+
 - Need CA SDI withholding during base period
 - Previous state's disability program may apply
 - Check both states' rules
@@ -162,6 +181,7 @@ This is general information, not tax advice. Consult a tax professional familiar
 ### Working Multiple States
 
 **If You Flew from Multiple Bases:**
+
 - SDI eligibility based on primary base
 - Where taxes were withheld matters
 - Complex situations may need EDD clarification
@@ -184,6 +204,7 @@ This is general information, not tax advice. Consult a tax professional familiar
 ### Emergency Contacts
 
 If you can't access mail:
+
 - Set up mail forwarding
 - Authorize someone to receive mail
 - Check EDD portal for electronic notices
