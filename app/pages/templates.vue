@@ -452,51 +452,53 @@ const copyToClipboard = async (text: string) => {
 
     <!-- Template Modal -->
     <UModal v-model:open="isModalOpen">
-      <UCard v-if="selectedTemplate">
-        <template #header>
-          <div class="flex items-center justify-between">
-            <div class="flex items-center gap-3">
-              <UIcon :name="selectedTemplate.icon" class="w-5 h-5" />
-              <h2 class="text-lg font-semibold">
-                {{ selectedTemplate.title }}
-              </h2>
+      <template #content>
+        <UCard v-if="selectedTemplate">
+          <template #header>
+            <div class="flex items-center justify-between">
+              <div class="flex items-center gap-3">
+                <UIcon :name="selectedTemplate.icon" class="w-5 h-5" />
+                <h2 class="text-lg font-semibold">
+                  {{ selectedTemplate.title }}
+                </h2>
+              </div>
+              <UButton
+                variant="ghost"
+                color="neutral"
+                icon="i-lucide-x"
+                @click="closeModal"
+              />
             </div>
-            <UButton
-              variant="ghost"
-              color="neutral"
-              icon="i-lucide-x"
-              @click="closeModal"
-            />
-          </div>
-        </template>
+          </template>
 
-        <div class="space-y-4 max-h-[60vh] overflow-y-auto">
-          <CommonCallout variant="warning">
-            Replace all [bracketed placeholders] with your actual information
-            before using this template.
-          </CommonCallout>
+          <div class="space-y-4 max-h-[60vh] overflow-y-auto">
+            <CommonCallout variant="warning">
+              Replace all [bracketed placeholders] with your actual information
+              before using this template.
+            </CommonCallout>
 
-          <div class="relative">
-            <pre
-              class="p-4 bg-gray-50 dark:bg-gray-800 rounded-lg text-sm overflow-x-auto whitespace-pre-wrap font-mono"
-              >{{ selectedTemplate.content }}</pre
-            >
+            <div class="relative">
+              <pre
+                class="p-4 bg-gray-50 dark:bg-gray-800 rounded-lg text-sm overflow-x-auto whitespace-pre-wrap font-mono"
+                >{{ selectedTemplate.content }}</pre
+              >
+            </div>
           </div>
-        </div>
 
-        <template #footer>
-          <div class="flex justify-end gap-3">
-            <UButton
-              variant="outline"
-              @click="copyToClipboard(selectedTemplate!.content)"
-            >
-              <UIcon name="i-lucide-copy" class="w-4 h-4 mr-2" />
-              Copy to Clipboard
-            </UButton>
-            <UButton @click="closeModal"> Close </UButton>
-          </div>
-        </template>
-      </UCard>
+          <template #footer>
+            <div class="flex justify-end gap-3">
+              <UButton
+                variant="outline"
+                @click="copyToClipboard(selectedTemplate!.content)"
+              >
+                <UIcon name="i-lucide-copy" class="w-4 h-4 mr-2" />
+                Copy to Clipboard
+              </UButton>
+              <UButton @click="closeModal"> Close </UButton>
+            </div>
+          </template>
+        </UCard>
+      </template>
     </UModal>
 
     <!-- Disclaimer -->
