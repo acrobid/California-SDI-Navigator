@@ -343,9 +343,29 @@ const categoryLabels = {
 };
 
 const selectedTemplate = ref<Template | null>(null);
+const isModalOpen = ref(false);
+const toast = useToast();
+
+const openTemplate = (template: Template) => {
+  selectedTemplate.value = template;
+  isModalOpen.value = true;
+};
+
+const closeModal = () => {
+  isModalOpen.value = false;
+  selectedTemplate.value = null;
+};
+
+const { copy, copied } = useClipboard();
 
 const copyToClipboard = async (text: string) => {
-  await navigator.clipboard.writeText(text);
+  await copy(text);
+  toast.add({
+    title: "Copied to clipboard",
+    description: "Template copied successfully",
+    icon: "i-lucide-check",
+    color: "success",
+  });
 };
 </script>
 
@@ -380,7 +400,7 @@ const copyToClipboard = async (text: string) => {
         v-for="template in templates"
         :key="template.id"
         class="cursor-pointer hover:border-primary-500 transition-colors"
-        @click="selectedTemplate = template"
+        @click="openTemplate(template)"
       >
         <div class="space-y-3">
           <div class="flex items-center gap-3">
@@ -431,54 +451,52 @@ const copyToClipboard = async (text: string) => {
     </div>
 
     <!-- Template Modal -->
-    <UModal v-model:open="selectedTemplate" :ui="{ width: 'max-w-4xl' }">
-      <template v-if="selectedTemplate" #content>
-        <UCard>
-          <template #header>
-            <div class="flex items-center justify-between">
-              <div class="flex items-center gap-3">
-                <UIcon :name="selectedTemplate.icon" class="w-5 h-5" />
-                <h2 class="text-lg font-semibold">
-                  {{ selectedTemplate.title }}
-                </h2>
-              </div>
-              <UButton
-                variant="ghost"
-                color="neutral"
-                icon="i-lucide-x"
-                @click="selectedTemplate = null"
-              />
+    <UModal v-model:open="isModalOpen">
+      <UCard v-if="selectedTemplate">
+        <template #header>
+          <div class="flex items-center justify-between">
+            <div class="flex items-center gap-3">
+              <UIcon :name="selectedTemplate.icon" class="w-5 h-5" />
+              <h2 class="text-lg font-semibold">
+                {{ selectedTemplate.title }}
+              </h2>
             </div>
-          </template>
-
-          <div class="space-y-4">
-            <CommonCallout variant="warning">
-              Replace all [bracketed placeholders] with your actual information
-              before using this template.
-            </CommonCallout>
-
-            <div class="relative">
-              <pre
-                class="p-4 bg-gray-50 dark:bg-gray-800 rounded-lg text-sm overflow-x-auto whitespace-pre-wrap font-mono"
-                >{{ selectedTemplate.content }}</pre
-              >
-            </div>
+            <UButton
+              variant="ghost"
+              color="neutral"
+              icon="i-lucide-x"
+              @click="closeModal"
+            />
           </div>
+        </template>
 
-          <template #footer>
-            <div class="flex justify-end gap-3">
-              <UButton
-                variant="outline"
-                @click="copyToClipboard(selectedTemplate!.content)"
-              >
-                <UIcon name="i-lucide-copy" class="w-4 h-4 mr-2" />
-                Copy to Clipboard
-              </UButton>
-              <UButton @click="selectedTemplate = null"> Close </UButton>
-            </div>
-          </template>
-        </UCard>
-      </template>
+        <div class="space-y-4 max-h-[60vh] overflow-y-auto">
+          <CommonCallout variant="warning">
+            Replace all [bracketed placeholders] with your actual information
+            before using this template.
+          </CommonCallout>
+
+          <div class="relative">
+            <pre
+              class="p-4 bg-gray-50 dark:bg-gray-800 rounded-lg text-sm overflow-x-auto whitespace-pre-wrap font-mono"
+              >{{ selectedTemplate.content }}</pre
+            >
+          </div>
+        </div>
+
+        <template #footer>
+          <div class="flex justify-end gap-3">
+            <UButton
+              variant="outline"
+              @click="copyToClipboard(selectedTemplate!.content)"
+            >
+              <UIcon name="i-lucide-copy" class="w-4 h-4 mr-2" />
+              Copy to Clipboard
+            </UButton>
+            <UButton @click="closeModal"> Close </UButton>
+          </div>
+        </template>
+      </UCard>
     </UModal>
 
     <!-- Disclaimer -->
