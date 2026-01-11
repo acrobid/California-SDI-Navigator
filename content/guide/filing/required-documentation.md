@@ -15,6 +15,7 @@ A complete, accurate claim with proper documentation processes faster. Here's ev
 Have this information ready before you start your online application:
 
 ### 1. Personal Details
+
 - Full Name (as it appears on your SSN card)
 - Social Security Number
 - Date of Birth
@@ -23,6 +24,7 @@ Have this information ready before you start your online application:
 - Mailing Address (Crucial for receiving your benefit debit card)
 
 ### 2. Employment Information
+
 - **Last Employer**: Federal Express Corporation
 - **Employer Address**: 3610 Hacks Cross Road, Memphis, TN 38125
 - **Last Day Worked**: The date of your last flight or duty period
@@ -31,6 +33,7 @@ Have this information ready before you start your online application:
 - **Compensation**: Be prepared to report any sick pay, vacation pay, or other income received after your last day worked.
 
 ### 3. Medical Information
+
 - Treating Physician's Name
 - Physician's Mailing Address
 - Physician's Phone & Fax number
@@ -43,6 +46,7 @@ Have this information ready before you start your online application:
 The most common cause of claim delays is the lack of medical certification (Part B). Your claim is **not complete** until your doctor submits this.
 
 ### How to Ensure it Happens:
+
 1. **Online (Preferred)**: After you file Part A, you will receive a **Claim Receipt Number**. Provide this number to your doctor. They use it to link their certification to your claim in the SDI Online portal.
 2. **Paper (Slow)**: If using mail, you must mail the Form DE 2501 Part B to your doctor to complete and mail in.
 
@@ -55,13 +59,16 @@ Both you and your doctor must submit your respective parts within **49 days** of
 These items help EDD verify your wages and pilot pay structure:
 
 ### Wage Documentation
+
 - Your last 4 pay stubs (to prove CA SDI was withheld)
 - Your most recent W-2
 
 ### Pilot Pay Explanation Cover Letter
-Because airline pilot pay (trips, per diem, offsets) is unusual, we recommend submitting a cover letter explaining your pay structure. 
+
+Because airline pilot pay (trips, per diem, offsets) is unusual, we recommend submitting a cover letter explaining your pay structure.
 
 **What to include:**
+
 - Semi-monthly pay frequency
 - Explanation of Trip Pay vs. Per Diem
 - Clarification that Sick Pay may be listed as "Regular Pay"
@@ -74,6 +81,7 @@ Go to the **[Templates](/templates)** page to download a pre-written cover lette
 ## Who Can Certify Your Disability?
 
 EDD accepts certifications from the following licensed practitioners:
+
 - Medical Doctors (MD)
 - Doctors of Osteopathy (DO)
 - Nurse Practitioners (NP)

@@ -17,18 +17,19 @@ California State Disability Insurance (SDI) is a state-mandated program that pro
 SDI is funded through mandatory payroll deductions from California workers. As a FedEx pilot based in California (OAK domicile), you are required by law to participate in this program.
 
 **Key Points:**
+
 - SDI provides approximately 60-70% of your wages (with caps)
 - Benefits can last up to 52 weeks depending on your condition
 - It covers non-work-related disabilities only (work injuries go through Workers' Comp)
 
 ### 2026 SDI Rates
 
-| Item | 2026 Value |
-|------|------------|
-| SDI Tax Rate | 1.3% of ALL wages |
-| Maximum Weekly Benefit | $1,681 |
-| Maximum Duration | Up to 52 weeks |
-| Tax Cap | **None** (uncapped since 2024) |
+| Item                   | 2026 Value                     |
+| ---------------------- | ------------------------------ |
+| SDI Tax Rate           | 1.3% of ALL wages              |
+| Maximum Weekly Benefit | $1,681                         |
+| Maximum Duration       | Up to 52 weeks                 |
+| Tax Cap                | **None** (uncapped since 2024) |
 
 ::callout{type="warning" title="Important Change in 2024"}
 Prior to 2024, SDI taxes were capped at a maximum taxable wage. Starting January 1, 2024, **there is no cap**. You pay SDI tax on 100% of your California wages, no matter how much you earn.
@@ -44,14 +45,15 @@ Weekly Benefit = (Highest Quarter Wages in Base Period ÷ 13) × 70%
 
 The "base period" is a 12-month period determined by when you file your claim:
 
-| Claim Filed | Base Period |
-|-------------|-------------|
-| January - March | Oct (2 years prior) through Sep (1 year prior) |
-| April - June | Jan through Dec (1 year prior) |
-| July - September | Apr (1 year prior) through Mar (current year) |
-| October - December | Jul (1 year prior) through Jun (current year) |
+| Claim Filed        | Base Period                                    |
+| ------------------ | ---------------------------------------------- |
+| January - March    | Oct (2 years prior) through Sep (1 year prior) |
+| April - June       | Jan through Dec (1 year prior)                 |
+| July - September   | Apr (1 year prior) through Mar (current year)  |
+| October - December | Jul (1 year prior) through Jun (current year)  |
 
 **Example:**
+
 - Filing claim in February 2026
 - Base period: October 2023 through September 2024
 - Highest quarter: $95,000
@@ -80,11 +82,13 @@ The Employment Development Department (EDD) is the California state agency that 
 ### The Challenge for Pilots
 
 The EDD system was designed for traditional employees with:
+
 - Regular monthly paychecks
 - Consistent work schedules
 - Simple pay structures
 
 Airline pilots have:
+
 - Variable schedules month to month
 - Complex pay (flight pay, per diem, premium pay, etc.)
 - Sick pay that looks identical to regular pay on statements
@@ -107,19 +111,20 @@ Every 2 weeks: Continued claim certification required
 
 The base period is a specific 12-month period that determines both eligibility and benefit amount. EDD looks at wages reported during those quarters.
 
-| Claim Filed | Base Period Used |
-|-------------|------------------|
-| January - March | October through September (15-18 months prior) |
-| April - June | January through December (previous calendar year) |
-| July - September | April through March (4-15 months prior) |
-| October - December | July through June (4-15 months prior) |
+| Claim Filed        | Base Period Used                                  |
+| ------------------ | ------------------------------------------------- |
+| January - March    | October through September (15-18 months prior)    |
+| April - June       | January through December (previous calendar year) |
+| July - September   | April through March (4-15 months prior)           |
+| October - December | July through June (4-15 months prior)             |
 
 **Example for a pilot filing in January 2026:**
+
 - Base period = October 1, 2024 - September 30, 2025
 - EDD calculates benefit based on the highest-earning quarter in this window.
-| Doctor license verification | 7-10 business days |
-| Additional document requests | Variable |
-| First payment | 2-6 weeks from filing (if no issues) |
+  | Doctor license verification | 7-10 business days |
+  | Additional document requests | Variable |
+  | First payment | 2-6 weeks from filing (if no issues) |
 
 ::callout{type="warning" title="Delays Are Common"}
 Many pilots experience significant delays due to EDD's difficulty understanding pilot pay structures. Plan accordingly and file as early as possible.
@@ -127,12 +132,12 @@ Many pilots experience significant delays due to EDD's difficulty understanding 
 
 ## SDI vs. Other Benefits
 
-| Benefit | Source | Purpose | Duration |
-|---------|--------|---------|----------|
-| SDI | California | Short-term disability | Up to 52 weeks |
-| LTD | The Hartford (FedEx) | Long-term disability | Years |
-| Sick Bank | FedEx | Short-term absence | Until exhausted |
-| Workers' Comp | Employer | Work-related injury | As needed |
+| Benefit       | Source               | Purpose               | Duration        |
+| ------------- | -------------------- | --------------------- | --------------- |
+| SDI           | California           | Short-term disability | Up to 52 weeks  |
+| LTD           | The Hartford (FedEx) | Long-term disability  | Years           |
+| Sick Bank     | FedEx                | Short-term absence    | Until exhausted |
+| Workers' Comp | Employer             | Work-related injury   | As needed       |
 
 ## Next Steps
 

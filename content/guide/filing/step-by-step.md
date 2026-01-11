@@ -59,7 +59,7 @@ Have these ready before starting:
 EDD uses a central portal called **myEDD**.
 
 1. **Register/Log In**: Click "Register" or "Log In" to access myEDD.
-2. **Identity Verification (ID.me)**: 
+2. **Identity Verification (ID.me)**:
    - myEDD requires identity verification through **ID.me**.
    - You will need a government-issued photo ID (Driver's License, Passport, etc.).
    - This process can take 5-15 minutes but may be delayed if your ID documents don't match your account information Exactly.

@@ -26,34 +26,37 @@ Check your claim status every 2-3 days during active processing. EDD sometimes u
 ### What You'll See Online
 
 **Claim Information:**
+
 - Claim ID
 - Disability begin date
 - Current status
 - Payment history
 
 **Messages/Correspondence:**
+
 - Any requests from EDD
 - Determination letters
 - Important notices
 
 **Payment History:**
+
 - Dates of payments
 - Amounts paid
 - Payment method used
 
 ## Status Codes Explained
 
-| Status | Meaning |
-|--------|---------|
-| **Pending** | Claim received, under review |
-| **Incomplete** | Missing information required from you |
-| **Physician Certification Needed** | Doctor hasn't submitted Part B yet (CRITICAL) |
-| **Medical Review** | EDD medical staff is reviewing your doctor's certification |
-| **Additional Information Requested** | EDD needs more documentation (often pay-related) |
-| **Approved - Payment Pending** | Approved, awaiting payment processing |
-| **Paid** | Payment issued to your card or bank account |
-| **Denied** | Claim denied (Review letter for appeal details) |
-| **Suspended** | On hold for investigation or missing certification |
+| Status                               | Meaning                                                    |
+| ------------------------------------ | ---------------------------------------------------------- |
+| **Pending**                          | Claim received, under review                               |
+| **Incomplete**                       | Missing information required from you                      |
+| **Physician Certification Needed**   | Doctor hasn't submitted Part B yet (CRITICAL)              |
+| **Medical Review**                   | EDD medical staff is reviewing your doctor's certification |
+| **Additional Information Requested** | EDD needs more documentation (often pay-related)           |
+| **Approved - Payment Pending**       | Approved, awaiting payment processing                      |
+| **Paid**                             | Payment issued to your card or bank account                |
+| **Denied**                           | Claim denied (Review letter for appeal details)            |
+| **Suspended**                        | On hold for investigation or missing certification         |
 
 ### Status That Need Immediate Attention
 
@@ -69,17 +72,21 @@ This usually occurs if you missed a bi-weekly certification or if there's an ide
 ## Phone Tracking
 
 ### When to Call
+
 - Status hasn't updated in 14 days.
 - You've already submitted requested info but status is still "Incomplete".
 - You need to report a return to work date that differs from your initial claim.
 
 ### How to Call EDD
+
 **Main SDI Line:** 1-800-480-3287
+
 - **Best time to call:** 8:00 AM sharp, or mid-week.
 - **Wait times:** Prepare for 45-90 minutes.
 - **Language:** If you can't get through on the English line, sometimes the Spanish or Cantonese lines have shorter waits if you are bi-lingual.
 
 ### What to Ask the Representative
+
 1. "Has my physician's Part B been successfully linked to my claim?"
 2. "Are there any flags for identity verification (ID.me) on my account?"
 3. "Are my highest quarterly wages appearing correctly in your system?"
@@ -115,15 +122,15 @@ This usually occurs if you missed a bi-weekly certification or if there's an ide
 
 ### Key Dates to Track
 
-| Date | Event |
-|------|-------|
-| [Date] | Last day worked |
-| [Date] | Disability began |
-| [Date] | Claim filed |
-| [Date] | 49-day deadline (for reference) |
+| Date   | Event                                 |
+| ------ | ------------------------------------- |
+| [Date] | Last day worked                       |
+| [Date] | Disability began                      |
+| [Date] | Claim filed                           |
+| [Date] | 49-day deadline (for reference)       |
 | [Date] | Expected doctor verification complete |
-| [Date] | Expected determination |
-| [Date] | Expected first payment |
+| [Date] | Expected determination                |
+| [Date] | Expected first payment                |
 
 Use our [Timeline Generator](/timeline) to calculate these dates.
 
@@ -132,11 +139,13 @@ Use our [Timeline Generator](/timeline) to calculate these dates.
 ### Status Never Changes
 
 **Possible Causes:**
+
 - Claim stuck in queue (high volume)
 - Missing information
 - Issue with doctor verification
 
 **Solutions:**
+
 1. Check online messages thoroughly
 2. Call EDD for status update
 3. Visit in person if phone is unhelpful
@@ -144,11 +153,13 @@ Use our [Timeline Generator](/timeline) to calculate these dates.
 ### Can't Access Online Account
 
 **Possible Causes:**
+
 - Incorrect login credentials
 - Account locked
 - System issues
 
 **Solutions:**
+
 1. Reset password
 2. Try different browser
 3. Call EDD tech support
@@ -157,11 +168,13 @@ Use our [Timeline Generator](/timeline) to calculate these dates.
 ### Conflicting Information
 
 **Possible Causes:**
+
 - System delays in updating
 - Human error
 - Different parts of claim updating separately
 
 **Solutions:**
+
 1. Wait 24-48 hours and recheck
 2. Call EDD for clarification
 3. Ask representative to note your file

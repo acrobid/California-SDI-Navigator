@@ -37,42 +37,50 @@ Use our [Timeline Generator](/timeline) to create a personalized timeline based 
 ### Phase 1: Filing & Certification (Days 1-14)
 
 **What Happens:**
+
 - You submit your part of the claim (DE 2501 Part A).
 - Your physician submits the medical certification (Part B). **EDD cannot process your claim without Part B.**
 - You receive a Claim Receipt Number.
 
 **Action Required:**
+
 - Provide your doctor with the Claim Receipt Number immediately.
 - Verify through SDI Online that your doctor has submitted Part B.
 
 ### Phase 2: Review & Determination (Days 14-28)
 
 **What Happens:**
+
 - EDD verifies your base period wages.
 - EDD reviews the medical certification for validity.
 - You may receive a "Notice of Computation" (DE 429D) in the mail, which lists your reported wages and your potential weekly benefit amount. **This is not an approval letter.**
 
 **Potential Issues:**
+
 - EDD may flag your claim for identity verification (ID.me).
 - EDD may request more information about your pilot pay structure.
 
 ### Phase 3: Payment (Days 28-35)
 
 **What Happens:**
+
 - If approved, your first payment is issued.
 - **Waiting Period**: You are NOT paid for the first 7 days of your disability.
 - **Retroactive Payment**: If your disability lasts more than 14 days, the 7-day waiting period is sometimes paid retroactively (depending on current policy).
 
 **Payment Method:**
+
 - Default: EDD Debit Card (Bank of America). This is mailed to you automatically.
 - Optional: Direct Deposit. You must enroll for this in your SDI Online account.
 
 ## Long-Term Maintenance
 
 ### Every 2 Weeks: Continued Certification
+
 You must certify every 14 days that you are still disabled and unable to work flight duty. This is done via SDI Online or by mail using Form DE 2500A.
 
 ### Every 1-3 Months: Physician Re-certification
+
 Depending on the duration of your disability, EDD may require your doctor to provide an updated certification (Physician/Practitioner’s Supplementary Certificate - DE 2525XX).
 
 ::callout{type="warning" title="Hartford LTD Trigger"}

@@ -71,14 +71,14 @@ Pay for vacation days used. Similar to sick pay in appearance.
 
 ## Pilot-Specific Pay Mapping
 
-| Pilot Reality | EDD Assumption | Friction |
-|---------------|----------------|----------|
-| Semi-monthly pay | Monthly or bi-weekly | Calculation confusion |
-| Variable hours per month | Consistent schedule | "Regular" pay undefined |
-| Per diem (non-taxable) | All pay is wages | Confuses total income figures |
-| Trip pay, override, premium | Simple hourly/salary | Multiple line items confuse processors |
-| Sick pay looks like regular pay | Clear distinction | Hard to prove work stopped |
-| Schedule varies (not M-F) | Daily work expected | "Last day worked" can be ambiguous |
+| Pilot Reality                   | EDD Assumption       | Friction                               |
+| ------------------------------- | -------------------- | -------------------------------------- |
+| Semi-monthly pay                | Monthly or bi-weekly | Calculation confusion                  |
+| Variable hours per month        | Consistent schedule  | "Regular" pay undefined                |
+| Per diem (non-taxable)          | All pay is wages     | Confuses total income figures          |
+| Trip pay, override, premium     | Simple hourly/salary | Multiple line items confuse processors |
+| Sick pay looks like regular pay | Clear distinction    | Hard to prove work stopped             |
+| Schedule varies (not M-F)       | Daily work expected  | "Last day worked" can be ambiguous     |
 
 ## Monthly Equivalent Calculation
 
@@ -98,7 +98,7 @@ Quarterly Income = Month 1 + Month 2 + Month 3
 
 SDI benefits are calculated based on your "base period"—a specific 12-month window:
 
-| If You File In | Your Base Period Used |
+| If You File In | Your Base Period Used            |
 | -------------- | -------------------------------- |
 | Jan - Mar      | Oct (2 yrs ago) - Sep (1 yr ago) |
 | Apr - Jun      | Jan - Dec (previous year)        |
