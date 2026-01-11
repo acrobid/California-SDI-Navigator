@@ -452,7 +452,8 @@ const copyToClipboard = async (text: string) => {
 
     <!-- Template Modal -->
     <UModal v-model:open="isModalOpen">
-      <UCard v-if="selectedTemplate">
+      <template #content>
+        <UCard v-if="selectedTemplate">
         <template #header>
           <div class="flex items-center justify-between">
             <div class="flex items-center gap-3">
@@ -497,6 +498,7 @@ const copyToClipboard = async (text: string) => {
           </div>
         </template>
       </UCard>
+      </template>
     </UModal>
 
     <!-- Disclaimer -->
