@@ -55,6 +55,27 @@
     "lastVerified": "2026-01-01"
   },
   {
+    "id": "ltd-administrator",
+    "name": "LTD Claims Administrator",
+    "organization": "hartford",
+    "type": "phone",
+    "phone": "VERIFY WITH FEDEX BENEFITS",
+    "hours": "Varies by administrator",
+    "notes": "⚠️ CBA Section 27.J references Aetna Life Insurance Company as administrator. However, some documentation references The Hartford. Contact FedEx Benefits Service Center (1-855-545-4748) or ALPA to verify the current LTD claims administrator before filing.",
+    "lastVerified": "2026-01-11"
+  },
+  {
+    "id": "aetna-claims",
+    "name": "Aetna Life Insurance Company - Group Disability",
+    "organization": "hartford",
+    "type": "phone",
+    "phone": "1-888-772-8682",
+    "hours": "8:00 AM - 6:00 PM ET, Monday - Friday",
+    "bestTimeToCall": "Early morning",
+    "notes": "If Aetna is the current LTD administrator per CBA. Have your FedEx employee ID and claim number ready.",
+    "lastVerified": "2026-01-11"
+  },
+  {
     "id": "hartford-claims",
     "name": "The Hartford - Group Benefits Claims",
     "organization": "hartford",
@@ -62,8 +83,8 @@
     "phone": "1-800-549-6514",
     "hours": "8:00 AM - 8:00 PM ET, Monday - Friday",
     "bestTimeToCall": "Early morning or late afternoon",
-    "notes": "Have your FedEx employee ID and claim number ready.",
-    "lastVerified": "2026-01-01"
+    "notes": "Alternative LTD administrator contact. Verify current administrator with FedEx Benefits before calling. Have your FedEx employee ID and claim number ready.",
+    "lastVerified": "2026-01-11"
   },
   {
     "id": "hartford-online",
@@ -71,8 +92,17 @@
     "organization": "hartford",
     "type": "website",
     "website": "https://www.thehartford.com/employee-benefits/claims",
-    "notes": "Register to track claim status and submit documents online.",
-    "lastVerified": "2026-01-01"
+    "notes": "If Hartford is the administrator. Register to track claim status and submit documents online.",
+    "lastVerified": "2026-01-11"
+  },
+  {
+    "id": "aetna-online",
+    "name": "Aetna - Online Claims Portal",
+    "organization": "hartford",
+    "type": "website",
+    "website": "https://www.aetna.com/individuals-families/member-rights-resources/claims.html",
+    "notes": "If Aetna is the administrator. Register to track claim status and submit documents online.",
+    "lastVerified": "2026-01-11"
   },
   {
     "id": "alpa-ri",

@@ -177,51 +177,113 @@
     "tips": ["Call early in the morning", "Have your claim number ready"]
   },
   {
+    "id": "hartford-00",
+    "phase": "hartford",
+    "title": "Determine your LTD eligibility date",
+    "description": "LTD begins when you exhaust sick banks OR experience a disability-related seat/position change. Calculate when this will occur.",
+    "estimatedMinutes": 30,
+    "guideLink": "/guide/hartford/eligibility",
+    "dependencies": [],
+    "warnings": [
+      "LTD does not begin on a fixed date—it depends on your sick bank balance",
+      "CA SDI should be filed early in disability, regardless of LTD timing"
+    ],
+    "tips": [
+      "Check your sick bank and DSA balances in Workday",
+      "LTD eligibility is NOT based on a 180-day elimination period alone"
+    ]
+  },
+  {
     "id": "hartford-01",
     "phase": "hartford",
-    "title": "File initial LTD claim with The Hartford",
-    "description": "If your disability extends beyond sick bank, file for Long-Term Disability.",
+    "title": "File initial LTD claim with claims administrator",
+    "description": "If your disability extends beyond sick bank, file for Long-Term Disability. CBA references Aetna; verify current administrator with FedEx Benefits.",
     "estimatedMinutes": 60,
     "guideLink": "/guide/hartford/when-ltd-begins",
-    "dependencies": [],
-    "warnings": ["Hartford will ask about CA SDI status"],
-    "tips": ["Have your FedEx employee ID ready"]
+    "dependencies": ["hartford-00"],
+    "warnings": [
+      "Claims administrator will ask about CA SDI status",
+      "Verify whether Aetna or Hartford is current administrator"
+    ],
+    "tips": [
+      "Have your FedEx employee ID ready",
+      "Contact FedEx Benefits Service Center to confirm administrator"
+    ]
   },
   {
     "id": "hartford-02",
     "phase": "hartford",
     "title": "Understand the offset calculation",
-    "description": "Learn how Hartford calculates and applies the CA SDI offset to your LTD payments.",
-    "estimatedMinutes": 20,
-    "guideLink": "/guide/hartford/offset-calculated",
+    "description": "Learn how the LTD administrator calculates and applies offsets (CA SDI, SSDI, outside income) to your LTD payments.",
+    "estimatedMinutes": 30,
+    "guideLink": "/guide/hartford/offsets",
     "dependencies": ["hartford-01"],
-    "warnings": ["Offset applies whether or not you've received SDI payment"],
-    "tips": ["Document all communication with Hartford"]
+    "warnings": [
+      "CA SDI offset applies whether or not you've received payment",
+      "Only 70% of SSDI is offset (not 100%)",
+      "Outside income has special threshold rules"
+    ],
+    "tips": [
+      "Document all communication with claims administrator",
+      "Family SSDI benefits are NOT offset"
+    ]
   },
   {
     "id": "hartford-03",
     "phase": "hartford",
-    "title": "Track your Hartford appeal deadline",
-    "description": "Mark the 6-month deadline from offset decision for potential appeal.",
+    "title": "Track your LTD appeal deadline",
+    "description": "Mark the 6-month (180-day) deadline from any adverse decision for potential appeal.",
     "estimatedMinutes": 5,
-    "guideLink": "/guide/hartford/appeal-deadline",
+    "guideLink": "/guide/hartford/appealing",
     "dependencies": ["hartford-02"],
     "warnings": ["Missing this deadline forfeits your appeal rights"],
     "tips": [
       "Set multiple calendar reminders",
-      "Deadline is 180 days from decision"
+      "Deadline is 180 days from decision date"
     ]
   },
   {
     "id": "hartford-04",
     "phase": "hartford",
     "title": "Consider PBRB process through ALPA",
-    "description": "If disputing Hartford's decision, consider the Pilot Benefit Review Board process.",
+    "description": "If disputing the administrator's decision, consider the Pilot Benefit Review Board process.",
     "estimatedMinutes": 30,
-    "guideLink": "/guide/hartford/pbrb-process",
+    "guideLink": "/guide/hartford/pbrb",
     "dependencies": ["hartford-02"],
     "warnings": [],
     "tips": ["Contact ALPA R&I committee for guidance"]
+  },
+  {
+    "id": "hartford-05",
+    "phase": "hartford",
+    "title": "Understand cooperation requirements",
+    "description": "Your LTD benefits require ongoing cooperation with the claims administrator and efforts to restore your medical certificate.",
+    "estimatedMinutes": 15,
+    "guideLink": "/guide/hartford/cooperation",
+    "dependencies": ["hartford-01"],
+    "warnings": [
+      "Failure to cooperate can result in loss of benefits",
+      "You must actively work toward medical recertification when possible"
+    ],
+    "tips": [
+      "Respond promptly to all requests from the claims administrator",
+      "Document your efforts to restore your medical certificate",
+      "Work with the Aeromedical Advisor as directed"
+    ]
+  },
+  {
+    "id": "hartford-06",
+    "phase": "hartford",
+    "title": "Understand duration limits for your condition",
+    "description": "LTD benefit duration varies by condition type. Mental health and substance abuse have specific time limits.",
+    "estimatedMinutes": 10,
+    "guideLink": "/guide/hartford/duration",
+    "dependencies": ["hartford-01"],
+    "warnings": [
+      "Mental health conditions: 60-month maximum",
+      "Substance abuse: 18-month maximum (12 + 6 if seeking recertification)"
+    ],
+    "tips": ["Most physical disabilities continue until recovery or age 65"]
   },
   {
     "id": "inperson-01",
