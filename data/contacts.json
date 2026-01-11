@@ -1,0 +1,124 @@
+[
+  {
+    "id": "edd-sdi-main",
+    "name": "CA EDD - SDI Main Line",
+    "organization": "edd",
+    "type": "phone",
+    "phone": "1-800-480-3287",
+    "hours": "8:00 AM - 5:00 PM, Monday - Friday",
+    "bestTimeToCall": "8:00 AM - 8:30 AM, Tuesday - Thursday",
+    "notes": "Automated system available 24/7 for claim status. Long hold times expected.",
+    "lastVerified": "2026-01-01"
+  },
+  {
+    "id": "edd-oakland",
+    "name": "Oakland EDD Office",
+    "organization": "edd",
+    "type": "office",
+    "address": "7677 Oakport Street, Suite 325",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94621",
+    "phone": "1-866-333-4606",
+    "hours": "8:00 AM - 5:00 PM, Monday - Friday",
+    "googleMapsUrl": "https://maps.google.com/?q=7677+Oakport+Street+Oakland+CA",
+    "nearestAirport": "OAK (Oakland International)",
+    "parkingInfo": "Street parking available. Arrive early for spots.",
+    "waitTimeEstimate": "4-6 hours on average",
+    "notes": "Closest office to OAK base. Ticket system - arrive before 9 AM.",
+    "lastVerified": "2026-01-01"
+  },
+  {
+    "id": "edd-hayward",
+    "name": "Hayward EDD Office",
+    "organization": "edd",
+    "type": "office",
+    "address": "24100 Amador Street",
+    "city": "Hayward",
+    "state": "CA",
+    "zip": "94544",
+    "phone": "1-866-333-4606",
+    "hours": "8:00 AM - 5:00 PM, Monday - Friday",
+    "googleMapsUrl": "https://maps.google.com/?q=24100+Amador+Street+Hayward+CA",
+    "parkingInfo": "Parking lot available",
+    "waitTimeEstimate": "3-5 hours on average",
+    "notes": "Alternative to Oakland office. May have shorter wait times.",
+    "lastVerified": "2026-01-01"
+  },
+  {
+    "id": "edd-online",
+    "name": "EDD Online Services",
+    "organization": "edd",
+    "type": "website",
+    "website": "https://edd.ca.gov/en/disability/",
+    "notes": "File claims, check status, upload documents, and manage your account online.",
+    "lastVerified": "2026-01-01"
+  },
+  {
+    "id": "hartford-claims",
+    "name": "The Hartford - Group Benefits Claims",
+    "organization": "hartford",
+    "type": "phone",
+    "phone": "1-800-549-6514",
+    "hours": "8:00 AM - 8:00 PM ET, Monday - Friday",
+    "bestTimeToCall": "Early morning or late afternoon",
+    "notes": "Have your FedEx employee ID and claim number ready.",
+    "lastVerified": "2026-01-01"
+  },
+  {
+    "id": "hartford-online",
+    "name": "The Hartford - Online Claims Portal",
+    "organization": "hartford",
+    "type": "website",
+    "website": "https://www.thehartford.com/employee-benefits/claims",
+    "notes": "Register to track claim status and submit documents online.",
+    "lastVerified": "2026-01-01"
+  },
+  {
+    "id": "alpa-ri",
+    "name": "ALPA Retirement & Insurance Committee",
+    "organization": "alpa",
+    "type": "phone",
+    "phone": "[PLACEHOLDER - Contact ALPA for current number]",
+    "email": "ri@alpa.org",
+    "notes": "Contact for questions about benefit disputes and PBRB process.",
+    "lastVerified": "2026-01-01"
+  },
+  {
+    "id": "alpa-main",
+    "name": "ALPA - Air Line Pilots Association",
+    "organization": "alpa",
+    "type": "website",
+    "website": "https://www.alpa.org/",
+    "notes": "Main union website for resources and contacts.",
+    "lastVerified": "2026-01-01"
+  },
+  {
+    "id": "fedex-benefits",
+    "name": "FedEx Benefits Service Center",
+    "organization": "fedex",
+    "type": "phone",
+    "phone": "1-855-545-4748",
+    "hours": "8:00 AM - 8:00 PM ET, Monday - Friday",
+    "notes": "For questions about FedEx benefits, sick bank, and leave policies.",
+    "lastVerified": "2026-01-01"
+  },
+  {
+    "id": "fedex-workday",
+    "name": "FedEx Workday",
+    "organization": "fedex",
+    "type": "website",
+    "website": "https://wd5.myworkday.com/fedex",
+    "notes": "Access pay stubs, tax documents, and HR information.",
+    "lastVerified": "2026-01-01"
+  },
+  {
+    "id": "ca-medical-board",
+    "name": "Medical Board of California - License Lookup",
+    "organization": "other",
+    "type": "website",
+    "website": "https://mbc.ca.gov/breeze/",
+    "notes": "Verify your doctor's medical license is current before filing.",
+    "lastVerified": "2026-01-01"
+  }
+]

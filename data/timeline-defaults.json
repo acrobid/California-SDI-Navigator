@@ -1,0 +1,92 @@
+[
+  {
+    "id": "last-day-worked",
+    "name": "Last Day Worked",
+    "startOffset": 0,
+    "durationDays": 0,
+    "varianceDays": 0,
+    "type": "personal",
+    "isCritical": true,
+    "description": "Your disability start date for most purposes"
+  },
+  {
+    "id": "file-claim",
+    "name": "File CA SDI Claim",
+    "startOffset": 1,
+    "durationDays": 1,
+    "varianceDays": 7,
+    "type": "edd",
+    "isCritical": false,
+    "description": "Should file within 49 days of disability start"
+  },
+  {
+    "id": "edd-processing",
+    "name": "EDD Initial Processing",
+    "startOffset": 8,
+    "durationDays": 14,
+    "varianceDays": 21,
+    "type": "edd",
+    "isCritical": false,
+    "description": "EDD reviews claim and may request documents"
+  },
+  {
+    "id": "doctor-verification",
+    "name": "Doctor License Verification",
+    "startOffset": 22,
+    "durationDays": 10,
+    "varianceDays": 5,
+    "type": "edd",
+    "isCritical": false,
+    "description": "EDD verifies your doctor's medical license"
+  },
+  {
+    "id": "first-edd-payment",
+    "name": "First EDD Payment",
+    "startOffset": 32,
+    "durationDays": 0,
+    "varianceDays": 30,
+    "type": "edd",
+    "isCritical": true,
+    "description": "Expected date of first CA SDI payment"
+  },
+  {
+    "id": "sick-bank-exhausted",
+    "name": "Sick Bank Exhausted (Typical)",
+    "startOffset": 45,
+    "durationDays": 0,
+    "varianceDays": 30,
+    "type": "personal",
+    "isCritical": false,
+    "description": "When most pilots exhaust sick and DSA banks"
+  },
+  {
+    "id": "hartford-offset",
+    "name": "Hartford Offset Applied",
+    "startOffset": 45,
+    "durationDays": 0,
+    "varianceDays": 15,
+    "type": "hartford",
+    "isCritical": true,
+    "description": "Hartford begins reducing LTD by expected SDI amount"
+  },
+  {
+    "id": "edd-filing-deadline",
+    "name": "EDD Filing Deadline",
+    "startOffset": 49,
+    "durationDays": 0,
+    "varianceDays": 0,
+    "type": "deadline",
+    "isCritical": true,
+    "description": "Must file SDI claim within 49 days of disability start"
+  },
+  {
+    "id": "hartford-appeal-deadline",
+    "name": "Hartford Appeal Deadline",
+    "startOffset": 180,
+    "durationDays": 0,
+    "varianceDays": 0,
+    "type": "deadline",
+    "isCritical": true,
+    "description": "6 months to appeal Hartford offset decision"
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "prep-01",
+    "phase": "preparation",
+    "title": "Gather last 18 months of pay stubs",
+    "description": "You'll need these to document your income history for both EDD and Hartford. Digital copies are fine.",
+    "estimatedMinutes": 30,
+    "guideLink": "/guide/preparation/documenting-income",
+    "dependencies": [],
+    "warnings": ["FedEx pay stubs don't clearly distinguish sick pay from regular pay"],
+    "tips": ["Download from Workday before your access changes", "Save as PDF with dates in filename"]
+  },
+  {
+    "id": "prep-02",
+    "phase": "preparation",
+    "title": "Calculate your highest quarterly income",
+    "description": "CA SDI benefits are based on your highest quarter of earnings in your base period.",
+    "estimatedMinutes": 15,
+    "guideLink": "/guide/preparation/understanding-pay",
+    "dependencies": ["prep-01"],
+    "warnings": [],
+    "tips": ["Use the calculator tool to help with this"]
+  },
+  {
+    "id": "prep-03",
+    "phase": "preparation",
+    "title": "Document your sick bank balance",
+    "description": "Know your current sick time and DSA bank balances. This affects when you'll need SDI and LTD.",
+    "estimatedMinutes": 10,
+    "guideLink": "/guide/preparation/sick-bank-strategy",
+    "dependencies": [],
+    "warnings": [],
+    "tips": ["Check Workday for current balances", "Note accrual rates"]
+  },
+  {
+    "id": "prep-04",
+    "phase": "preparation",
+    "title": "Get your doctor's information ready",
+    "description": "Collect your treating physician's full name, license number, phone, fax, and address.",
+    "estimatedMinutes": 15,
+    "guideLink": "/guide/filing/required-documentation",
+    "dependencies": [],
+    "warnings": ["EDD takes 7-10 business days to verify doctor licenses"],
+    "tips": ["Verify the license is current at mbc.ca.gov"]
+  },
+  {
+    "id": "prep-05",
+    "phase": "preparation",
+    "title": "Save your W-2 forms",
+    "description": "Keep copies of recent W-2 forms showing CA SDI taxes withheld.",
+    "estimatedMinutes": 10,
+    "guideLink": "/guide/preparation/what-to-save",
+    "dependencies": [],
+    "warnings": [],
+    "tips": ["Available in Workday under Tax Documents"]
+  },
+  {
+    "id": "filing-01",
+    "phase": "filing",
+    "title": "Determine your claim effective date",
+    "description": "This is typically your last day worked, but can be complicated for pilots.",
+    "estimatedMinutes": 10,
+    "guideLink": "/guide/filing/when-to-file",
+    "dependencies": [],
+    "warnings": ["EDD uses calendar months; FedEx uses last day worked", "If you didn't fly in a month, EDD may consider disability starting on the 1st"],
+    "tips": []
+  },
+  {
+    "id": "filing-02",
+    "phase": "filing",
+    "title": "Choose filing method: Online, Mail, or In-Person",
+    "description": "Decide how you'll file based on your situation and location.",
+    "estimatedMinutes": 15,
+    "guideLink": "/guide/filing/online-vs-paper",
+    "dependencies": [],
+    "warnings": ["Mail can add weeks to processing time", "In-person requires arriving very early"],
+    "tips": ["Online is fastest if you can navigate the portal", "In-person gives immediate confirmation"]
+  },
+  {
+    "id": "filing-03",
+    "phase": "filing",
+    "title": "Complete the SDI claim application",
+    "description": "Fill out the DE 2501 form (online or paper) with your disability information.",
+    "estimatedMinutes": 45,
+    "guideLink": "/guide/filing/step-by-step",
+    "dependencies": ["filing-01", "filing-02"],
+    "warnings": ["Form must be submitted within 49 days of disability start"],
+    "tips": ["Have all documents ready before starting", "Save progress if filing online"]
+  },
+  {
+    "id": "filing-04",
+    "phase": "filing",
+    "title": "Have your doctor complete medical certification",
+    "description": "Your doctor must complete their portion of the claim form.",
+    "estimatedMinutes": 30,
+    "guideLink": "/guide/filing/required-documentation",
+    "dependencies": ["prep-04"],
+    "warnings": ["Doctor's license must be verifiable by EDD"],
+    "tips": ["Bring the doctor certification template to your appointment"]
+  },
+  {
+    "id": "filing-05",
+    "phase": "filing",
+    "title": "Submit claim with all documentation",
+    "description": "Submit your completed claim with all supporting documents.",
+    "estimatedMinutes": 30,
+    "guideLink": "/guide/filing/step-by-step",
+    "dependencies": ["filing-03", "filing-04"],
+    "warnings": ["Keep copies of everything you submit"],
+    "tips": ["If mailing, use certified mail with return receipt"]
+  },
+  {
+    "id": "post-01",
+    "phase": "post-filing",
+    "title": "Record your claim confirmation number",
+    "description": "Save your EDD claim confirmation number and any reference numbers.",
+    "estimatedMinutes": 5,
+    "guideLink": "/guide/post-filing/tracking",
+    "dependencies": ["filing-05"],
+    "warnings": [],
+    "tips": ["Write it in multiple places", "Take a screenshot if online"]
+  },
+  {
+    "id": "post-02",
+    "phase": "post-filing",
+    "title": "Set up EDD Online account",
+    "description": "Create an account on edd.ca.gov to track your claim status online.",
+    "estimatedMinutes": 15,
+    "guideLink": "/guide/post-filing/tracking",
+    "dependencies": [],
+    "warnings": [],
+    "tips": ["Use a reliable email address", "Save your login credentials securely"]
+  },
+  {
+    "id": "post-03",
+    "phase": "post-filing",
+    "title": "Monitor mail and email for EDD requests",
+    "description": "EDD may request additional documentation. Respond promptly to avoid delays.",
+    "estimatedMinutes": 10,
+    "guideLink": "/guide/post-filing/document-requests",
+    "dependencies": ["filing-05"],
+    "warnings": ["EDD often requests documents already submitted", "Requests have short deadlines"],
+    "tips": ["Keep copies of everything you've already sent"]
+  },
+  {
+    "id": "post-04",
+    "phase": "post-filing",
+    "title": "Follow up if no response within 21 days",
+    "description": "If you haven't heard anything, call EDD or check your online account.",
+    "estimatedMinutes": 30,
+    "guideLink": "/guide/post-filing/timeline",
+    "dependencies": ["post-02"],
+    "warnings": ["Hold times can be very long"],
+    "tips": ["Call early in the morning", "Have your claim number ready"]
+  },
+  {
+    "id": "hartford-01",
+    "phase": "hartford",
+    "title": "File initial LTD claim with The Hartford",
+    "description": "If your disability extends beyond sick bank, file for Long-Term Disability.",
+    "estimatedMinutes": 60,
+    "guideLink": "/guide/hartford/when-ltd-begins",
+    "dependencies": [],
+    "warnings": ["Hartford will ask about CA SDI status"],
+    "tips": ["Have your FedEx employee ID ready"]
+  },
+  {
+    "id": "hartford-02",
+    "phase": "hartford",
+    "title": "Understand the offset calculation",
+    "description": "Learn how Hartford calculates and applies the CA SDI offset to your LTD payments.",
+    "estimatedMinutes": 20,
+    "guideLink": "/guide/hartford/offset-calculated",
+    "dependencies": ["hartford-01"],
+    "warnings": ["Offset applies whether or not you've received SDI payment"],
+    "tips": ["Document all communication with Hartford"]
+  },
+  {
+    "id": "hartford-03",
+    "phase": "hartford",
+    "title": "Track your Hartford appeal deadline",
+    "description": "Mark the 6-month deadline from offset decision for potential appeal.",
+    "estimatedMinutes": 5,
+    "guideLink": "/guide/hartford/appeal-deadline",
+    "dependencies": ["hartford-02"],
+    "warnings": ["Missing this deadline forfeits your appeal rights"],
+    "tips": ["Set multiple calendar reminders", "Deadline is 180 days from decision"]
+  },
+  {
+    "id": "hartford-04",
+    "phase": "hartford",
+    "title": "Consider PBRB process through ALPA",
+    "description": "If disputing Hartford's decision, consider the Pilot Benefit Review Board process.",
+    "estimatedMinutes": 30,
+    "guideLink": "/guide/hartford/pbrb-process",
+    "dependencies": ["hartford-02"],
+    "warnings": [],
+    "tips": ["Contact ALPA R&I committee for guidance"]
+  },
+  {
+    "id": "inperson-01",
+    "phase": "in-person",
+    "title": "Identify nearest EDD office",
+    "description": "Find the EDD office location and hours nearest to you.",
+    "estimatedMinutes": 10,
+    "guideLink": "/guide/in-person/which-office",
+    "dependencies": [],
+    "warnings": [],
+    "tips": ["Check the contacts page for office locations"]
+  },
+  {
+    "id": "inperson-02",
+    "phase": "in-person",
+    "title": "Plan arrival time (before 9:00 AM)",
+    "description": "EDD offices use ticket systems. Arrive early to get a ticket.",
+    "estimatedMinutes": 5,
+    "guideLink": "/guide/in-person/what-time",
+    "dependencies": ["inperson-01"],
+    "warnings": ["Expect 4-5+ hour waits", "Some offices run out of tickets"],
+    "tips": ["Arrive before doors open", "Bring something to do while waiting"]
+  },
+  {
+    "id": "inperson-03",
+    "phase": "in-person",
+    "title": "Prepare all documents to bring",
+    "description": "Gather all required documents before your EDD office visit.",
+    "estimatedMinutes": 20,
+    "guideLink": "/guide/in-person/what-to-bring",
+    "dependencies": [],
+    "warnings": ["Forgetting documents means another visit"],
+    "tips": ["Use the document checklist in the guide"]
+  }
+]

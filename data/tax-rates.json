@@ -1,0 +1,26 @@
+{
+  "2023": {
+    "rate": 0.009,
+    "maxTaxableWage": 165000,
+    "maxWeeklyBenefit": 1620,
+    "capped": true
+  },
+  "2024": {
+    "rate": 0.011,
+    "maxTaxableWage": null,
+    "maxWeeklyBenefit": 1681,
+    "capped": false
+  },
+  "2025": {
+    "rate": 0.012,
+    "maxTaxableWage": null,
+    "maxWeeklyBenefit": 1681,
+    "capped": false
+  },
+  "2026": {
+    "rate": 0.013,
+    "maxTaxableWage": null,
+    "maxWeeklyBenefit": 1681,
+    "capped": false
+  }
+}
