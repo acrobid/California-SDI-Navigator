@@ -23,9 +23,17 @@ export default defineNuxtConfig({
 
   experimental: {
     typedPages: true,
+    defaults: {
+      nuxtLink: {
+        prefetchOn: { visibility: true },
+      },
+    },
   },
 
   routeRules: {
+    "/**": {
+      headers: { "cache-control": "s-maxage=86400, stale-while-revalidate" },
+    },
     "/": { prerender: true },
     "/guide/**": { prerender: true },
     "/calculator": { prerender: true },
