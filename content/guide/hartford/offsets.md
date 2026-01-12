@@ -35,8 +35,8 @@ Each offset type has different rules. Let's explore each one.
 **Example:**
 ```
 Gross LTD:      $9,000/month
-CA SDI:         $1,681/week × 4.33 = $7,279/month
-Net LTD:        $9,000 - $7,279 = $1,721/month
+CA SDI:         $1,765/week × 4.33 = $7,642/month
+Net LTD:        $9,000 - $7,642 = $1,358/month
 ```
 
 ### Critical Problem: The Offset Paradox
@@ -300,7 +300,7 @@ Total baseline:    $28,000/month
 **Month 10 of disability:**
 ```
 Gross LTD:         $16,800/month (60% of $28,000)
-CA SDI:            $7,279/month (expected)
+CA SDI:            $7,642/month (expected)
 SSDI:              Not yet approved
 Real estate:       $3,000/month (continues)
 ```
@@ -309,7 +309,7 @@ Real estate:       $3,000/month (continues)
 
 1. **CA SDI offset:**
    ```
-   Full offset: -$7,279
+   Full offset: -$7,642
    ```
 
 2. **Outside income offset:**
@@ -323,16 +323,16 @@ Real estate:       $3,000/month (continues)
 3. **Net LTD:**
    ```
    Gross LTD:           $16,800
-   CA SDI offset:       -$7,279
+   CA SDI offset:       -$7,642
    Outside offset:      -$0
-   Net LTD:             $9,521
+   Net LTD:             $9,158
    ```
 
 4. **Total income:**
    ```
-   Net LTD:             $9,521
+   Net LTD:             $9,158
    Real estate:         $3,000
-   Total:               $12,521/month
+   Total:               $12,158/month
    ```
 
 **Later (Month 16), SSDI approved retroactively:**
@@ -343,17 +343,17 @@ SSDI family:         $1,200/month (spouse + children)
 
 New offset calculation:
 
-CA SDI offset:       -$7,279 (if still within 52 weeks)
+CA SDI offset:       -$7,642 (if still within 52 weeks)
 SSDI offset:         -$2,450 ($3,500 × 70%)
 Outside offset:      -$0 (still below baseline)
 
-Net LTD:             $16,800 - $7,279 - $2,450 = $7,071
+Net LTD:             $16,800 - $7,642 - $2,450 = $6,708
 
 Total income:
-  Net LTD:           $7,071
+  Net LTD:           $6,708
   SSDI (total):      $4,700 ($3,500 + $1,200)
   Real estate:       $3,000
-  Total:             $14,771/month
+  Total:             $14,408/month
 ```
 
 ---

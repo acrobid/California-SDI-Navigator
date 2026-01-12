@@ -27,7 +27,7 @@ You may be receiving LTD payments that are reduced by $5,000-7,000+ per month fo
 In theory, the offset is supposed to work like this:
 
 1. You become disabled and file for both SDI and LTD
-2. You receive SDI weekly payments (~$1,681/week max)
+2. You receive SDI weekly payments (~$1,765/week max)
 3. Hartford calculates your LTD and reduces it by the SDI amount
 4. **Net result:** You receive roughly the same total income, just from two sources
 

@@ -29,7 +29,7 @@ As a FedEx pilot domiciled in the state of California, you are covered by the Ca
 | Item                   | 2026 Value                     |
 | ---------------------- | ------------------------------ |
 | SDI Tax Rate           | 1.3% of ALL wages              |
-| Maximum Weekly Benefit | $1,681                         |
+| Maximum Weekly Benefit | $1,765                         |
 | Maximum Duration       | Up to 52 weeks                 |
 | Tax Cap                | **None** (uncapped since 2024) |
 
@@ -63,7 +63,7 @@ The "base period" is a 12-month period determined by when you file your claim:
 - Filing claim in February 2026
 - Base period: October 2023 through September 2024
 - Highest quarter: $95,000
-- Weekly benefit: ($95,000 ÷ 13) × 0.70 = $5,115... capped at $1,681/week
+- Weekly benefit: ($95,000 ÷ 13) × 0.70 = $5,115... capped at $1,765/week
 
 ### Who Qualifies?
 
