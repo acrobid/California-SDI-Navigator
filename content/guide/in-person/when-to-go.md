@@ -150,10 +150,24 @@ A representative will:
 ### Before Going In Person, Try:
 
 1. **Online portal** - Many issues can be resolved online
-2. **Phone call** - Early morning, be persistent
+2. **Phone call** - Early morning, be persistent (see phone strategy below)
 3. **Fax** - For document submissions
 4. **Mail** - For non-urgent items (certified, return receipt)
 5. **State Assembly member** - For unresponsive EDD
+
+### Phone Strategy for Getting Through to EDD
+
+Getting through to a representative at CA EDD can be extremely challenging. The phone system often indicates all lines are busy without even offering a hold option. Here's a proven strategy:
+
+**The 90-Second Timing Method:**
+
+1. **Practice the phone tree** before the lines open at 8:00 AM. Time yourself navigating to the point where you can request a representative. This typically takes about 90 seconds.
+2. **Call 90 seconds before opening** (at 7:58:30 AM). Navigate through the prompts.
+3. **Time your request** so that you press the option for a representative exactly as the lines open at 8:00 AM.
+4. **Be prepared to wait** - Even with perfect timing, you may still wait 30+ minutes on hold.
+5. **Don't give up** - If you get the "all lines busy" message, you may need to repeat this process multiple times.
+
+This method significantly improves your chances of getting through, though it doesn't guarantee immediate access. Some pilots report needing 60+ attempts before successfully reaching the hold queue.
 
 ### Assembly Member Option
 

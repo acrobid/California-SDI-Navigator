@@ -95,9 +95,14 @@ Doctor's offices are busy. Call them personally to request they prioritize the E
 
 **How to Respond:**
 
-1. Contact FedEx payroll if needed
-2. Provide the information requested
-3. Clarify pilot employment structure if helpful
+1. Provide the information requested yourself if possible
+2. Contact FedEx PAC (Pilot Administration Center) if employer response needed
+3. Follow up proactively to ensure response is submitted
+4. Provide direct contact to PAC with your claim number if EDD will contact employer directly
+
+::callout{type="warning" title="FedEx Response Delays"}
+FedEx does not electronically submit information to CA EDD, unlike many employers. Historically, requests sent to FedEx payroll departments have experienced significant delays or may not receive responses. The PAC (Pilot Administration Center) has access to payroll data and is generally more responsive than payroll departments, but may still require persistent follow-up. Monitor your claim status closely and follow up with both EDD and FedEx to prevent delays.
+::
 
 ## Response Best Practices
 

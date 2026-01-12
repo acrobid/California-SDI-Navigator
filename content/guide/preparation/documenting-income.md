@@ -75,10 +75,20 @@ Highest Quarter: $____ (this determines your benefit)
 
 ### Flag Sick Time Usage
 
-Mark any periods where you used sick time. This may be important if EDD asks about:
+Mark any periods where you used sick time or vacation time. This may be important if EDD asks about:
 - When your disability began
 - Why income varied
-- What was "regular" pay vs. sick pay
+- What was "regular" pay vs. sick pay vs. vacation pay
+
+**Understanding Pay Type Distinctions:**
+
+Different types of compensation may be evaluated differently by CA EDD when determining your disability status and benefit amount:
+
+- **Regular flight pay**: Normal working income
+- **Sick pay**: May be counted as income when determining if you're earning less due to disability
+- **Vacation pay**: May be treated differently than sick pay for SDI evaluation purposes
+
+If you have periods with mixed pay types, document them clearly. Understanding these distinctions can be important when working with EDD on your claim. For current policy on how each pay type is evaluated, contact CA EDD directly.
 
 ## Where to Find Documents
 
@@ -110,17 +120,17 @@ Consider creating summary documents that are easy for EDD to understand:
 ### Monthly Income Summary
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  MONTHLY INCOME SUMMARY - [Your Name]                ║
-║  Employee ID: XXXXX                                  ║
-╠══════════════════════════════════════════════════════╣
-║  Month     | Gross Pay  | Flight Pay | Sick Pay     ║
-║  ----------|------------|------------|------------- ║
-║  Jan 2025  | $32,000    | $28,000    | $0           ║
-║  Feb 2025  | $28,000    | $26,000    | $0           ║
-║  Mar 2025  | $25,000    | $15,000    | $8,000       ║
-║  Apr 2025  | $18,000    | $0         | $18,000      ║
-╚══════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║  MONTHLY INCOME SUMMARY - [Your Name]                      ║
+║  Employee ID: XXXXX                                        ║
+╠════════════════════════════════════════════════════════════╣
+║  Month     | Gross Pay  | Flight Pay | Sick Pay | Vac Pay ║
+║  ----------|------------|------------|----------|--------- ║
+║  Jan 2025  | $32,000    | $28,000    | $0       | $4,000  ║
+║  Feb 2025  | $28,000    | $26,000    | $0       | $2,000  ║
+║  Mar 2025  | $25,000    | $15,000    | $8,000   | $2,000  ║
+║  Apr 2025  | $18,000    | $0         | $18,000  | $0      ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 ### Quarterly Summary for Base Period

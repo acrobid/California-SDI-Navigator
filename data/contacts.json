@@ -7,8 +7,8 @@
     "phone": "1-800-480-3287",
     "hours": "8:00 AM - 5:00 PM, Monday - Friday",
     "bestTimeToCall": "8:00 AM - 8:30 AM, Tuesday - Thursday",
-    "notes": "Automated system available 24/7 for claim status. Long hold times expected.",
-    "lastVerified": "2026-01-01"
+    "notes": "Automated system available 24/7 for claim status. Long hold times expected. For best results, practice the phone tree (takes ~90 seconds) and call 90 seconds before 8:00 AM, timing your representative request to arrive exactly at opening. Even with this strategy, expect 30+ minute hold times.",
+    "lastVerified": "2026-01-12"
   },
   {
     "id": "edd-oakland",
@@ -156,14 +156,14 @@
     "name": "Pilot Administration Center (PAC)",
     "organization": "fedex",
     "type": "office",
-    "contactPerson": "Shelia Voye",
+    "contactPerson": "Sheila Voye (Manager)",
     "address": "3620 Hacks Cross Road, Building B 3rd Floor",
     "city": "Memphis",
     "state": "TN",
     "zip": "38125",
     "phone": "901-434-5000",
-    "notes": "Use as supervisor and for employment verification on SDI forms. Contact for assistance with Pilot Benefits Administration and payroll if required.",
-    "lastVerified": "2026-01-11"
+    "notes": "Use as supervisor and for employment verification on SDI forms. PAC has access to payroll data that CA EDD requires. Note: PAC staff can be difficult to reach by phone; persistence may be required. Some pilots have also used their base assistant's contact information, though verify they have access to payroll records. CA EDD requests sent to FedEx payroll departments have historically experienced significant delays or no response.",
+    "lastVerified": "2026-01-12"
   },
   {
     "id": "fedex-payroll-sdi",

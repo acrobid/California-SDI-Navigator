@@ -90,11 +90,15 @@ Enter your personal details. Ensure these match your FedEx employment records an
 
 - Employer name: **Federal Express Corporation**
 - Employer address: **3620 Hacks Cross Road, Building B 3rd Floor, Memphis, TN 38125**
-- Supervisor/Verification: **Shelia Voye** (Pilot Administration Center - Fleet Operations)
+- Supervisor/Verification: **Sheila Voye** (Pilot Administration Center Manager) or your base assistant
 - Phone: **901-434-5000**
 - Your occupation: **Airline Pilot**
 - Last day worked: This is the **last day you physically flew or were on duty**.
 - Reason for stopping work: Illness/Injury/Disability
+
+::callout{type="info" title="Employer Contact Options"}
+There is no single definitive contact for employer verification. The PAC (Pilot Administration Center) has access to the payroll data CA EDD requires. Sheila Voye is the PAC manager. Alternatively, some pilots use their base assistant's contact information—verify your base assistant can access payroll records before listing them. Note that PAC staff can be difficult to reach, and FedEx does not electronically submit information to CA EDD, which can delay benefit processing compared to employers who do.
+::
 
 ::callout{type="tip" title="Date Ambiguity"}
 If your last flight was August 28 and you didn't fly at all in September before becoming disabled on Oct 1, your "last day worked" remains August 28. However, your disability beginning date is the date the doctor certifies you were unable to work.
