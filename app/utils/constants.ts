@@ -27,7 +27,7 @@ export const CA_SDI_RATES: Record<number, SDIRateYear> = {
   2026: {
     rate: 0.013,
     maxTaxableWage: null,
-    maxWeeklyBenefit: 1681,
+    maxWeeklyBenefit: 1765,
     capped: false,
   },
 };

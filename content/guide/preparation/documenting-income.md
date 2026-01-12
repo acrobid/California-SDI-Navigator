@@ -149,7 +149,7 @@ Consider creating summary documents that are easy for EDD to understand:
 ║  Q4 (Oct-Dec)   | $88,000        | Full schedule    ║
 ╠══════════════════════════════════════════════════════╣
 ║  HIGHEST QUARTER: $92,000                            ║
-║  ESTIMATED WEEKLY BENEFIT: $1,681 (max)              ║
+║  ESTIMATED WEEKLY BENEFIT: $1,765 (max)              ║
 ╚══════════════════════════════════════════════════════╝
 ```
 

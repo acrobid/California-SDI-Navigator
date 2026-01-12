@@ -39,16 +39,16 @@ Gross monthly LTD: $350,000 × 60% ÷ 12 = $17,500
 ```
 Highest quarterly earnings: $87,500
 Weekly benefit: ~60-70% of highest weekly wage
-Maximum weekly SDI: $1,681 (2026)
-Monthly SDI: $1,681 × 4.33 = ~$7,279
+Maximum weekly SDI: $1,765 (2026)
+Monthly SDI: $1,765 × 4.33 = ~$7,642
 ```
 
 ### Step 3: Apply the Offset
 
 ```
 Gross LTD benefit:       $17,500/month
-Less: SDI offset:        -$7,279/month
-Net LTD payment:         $10,221/month
+Less: SDI offset:        -$7,642/month
+Net LTD payment:         $9,858/month
 ```
 
 ### Your Total Income
