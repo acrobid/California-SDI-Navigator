@@ -119,6 +119,18 @@ For planned surgeries or known upcoming disability:
 3. **Check your current bank balances**
 4. **Start LTD paperwork early**
 
+### Advanced Income Management
+
+Some pilots have explored strategies to maximize SDI benefits given the complex interaction between sick/vacation pay and SDI income calculations:
+
+- **Using vacation vs. sick time**: Different types of paid time off may be evaluated differently by EDD for income calculation purposes. Confirm current EDD policy before relying on this.
+- **Timing sick bank usage**: Using available sick time earlier in a calendar year (before needing SDI) may affect how your income appears during an SDI claim period.
+- **Minimizing overlap**: Using DSA strategically to reduce your income by approximately the SDI benefit amount might optimize total compensation, though this requires careful calculation.
+
+::callout{type="warning" title="Verify Before Acting"}
+These strategies involve complex interactions between FedEx policies and CA EDD rules. Contact EDD directly to understand current policy before making decisions based on these considerations. What works in one situation may not work in another.
+::
+
 ## Bank Payouts
 
 ### If You Return to Work
@@ -164,6 +176,16 @@ It depends on timing and how FedEx reports your wages. Generally:
 - SDI pays for periods you're not receiving regular wages
 - If sick bank is paying you, SDI may be reduced or delayed
 - Consult EDD for specifics
+
+### How does EDD evaluate my income during disability?
+
+CA EDD evaluates whether you are earning less than you would have if you were not disabled. This can be complex with pilot pay structures. Key considerations:
+
+- **Sick Pay**: According to EDD guidance, sick pay generally counts as income when evaluating your earnings.
+- **Vacation Pay**: Vacation pay may be treated differently than sick pay for SDI purposes. Contact EDD for current policy.
+- **Gap Periods**: If there is a gap between when you called in sick and your first duty period, an EDD representative may suggest categorizing that period in a way that supports your claim (such as "part-time" status even though FedEx doesn't have part-time pilots). This is simply a categorization for benefit purposes.
+
+The way information is presented to EDD can affect your benefit eligibility and amount. Accurate, complete information is essential.
 
 ### Should I exhaust banks before filing SDI?
 
