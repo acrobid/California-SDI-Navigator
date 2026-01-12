@@ -111,7 +111,6 @@ EDD offices typically have 4-6+ hour wait times. Some pilots report full-day wai
 - Arrive 30-60 minutes before opening
 - Line forms outside before doors open
 - Limited tickets issued each day
-- Bring something to do while waiting
 - Plan for 4-6 hours minimum
 
 ### What Happens at Your Turn
@@ -136,11 +135,9 @@ A representative will:
 
 ### During Your Visit
 
-1. **Be patient** - Long waits are normal
-2. **Be polite** - Representatives have hard jobs
-3. **Be prepared** - Have everything organized
-4. **Take notes** - Write down what you're told
-5. **Get names** - Note who you speak with
+1. **Have everything organized** - All documents ready and accessible
+2. **Write down what you're told** - Record specific instructions and next steps
+3. **Note who you speak with** - Get representative names and ID numbers for follow-up
 
 ### After Your Visit
 

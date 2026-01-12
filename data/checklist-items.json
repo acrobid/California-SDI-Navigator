@@ -305,7 +305,7 @@
     "guideLink": "/guide/in-person/what-time",
     "dependencies": ["inperson-01"],
     "warnings": ["Expect 4-5+ hour waits", "Some offices run out of tickets"],
-    "tips": ["Arrive before doors open", "Bring something to do while waiting"]
+    "tips": ["Arrive before doors open"]
   },
   {
     "id": "inperson-03",
