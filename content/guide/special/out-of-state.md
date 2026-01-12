@@ -24,7 +24,7 @@ California SDI is funded by employee payroll deductions. If you pay CA SDI tax, 
 
 **Check your pay stub for:**
 
-- CA SDI deduction line item
+- **CA OASDI/E** line item (this is the standard FedEx label for CA SDI)
 - State tax withholding for California
 
 ### Living Out of State
@@ -35,28 +35,39 @@ You do NOT need to live in California to receive CA SDI benefits. Eligibility is
 
 ## Filing from Out of State
 
-### Online Filing (Recommended)
+### Initial Claim: Paper Form Required
 
-File online from anywhere:
+::callout{type="warning" title="No California ID? File by Mail"}
+If you do not have a **California Driver's License** or **California ID card**, you cannot register for an online account for your initial claim. You must file using the paper **DE 2501** form via U.S. Mail.
+::
 
-1. Go to [edd.ca.gov](https://edd.ca.gov)
-2. File your claim as normal
-3. Use your home address for correspondence
-4. Set up direct deposit for payments
+**How to get the paper form:**
 
-### Mailing Address Considerations
+1. Order it online from the [EDD Forms and Publications](https://edd.ca.gov/en/disability/Forms_and_Publications/) page.
+2. Call the EDD at 1-800-480-3287 to request one.
+3. Visit an EDD office in person if you are in California for a trip.
+
+### Future Online Access
+
+Once your initial paper claim is processed, the EDD will mail you an **EDD Customer Account Number (EDDCAN)**. You can then use this number to register for an online account, which allows you to manage the rest of your claim and any future claims online.
+
+### Identity Verification (ID.me)
+
+While the newer **ID.me** system used by myEDD accepts out-of-state IDs, the secondary registration step for **SDI Online** specifically requires a California-issued ID number or an existing EDDCAN. This is a common point of frustration for out-of-state pilots.
+
+## Mailing Address Considerations
 
 **For Correspondence:**
 
-- Use your actual home address
-- EDD will mail correspondence there
-- Ensure you check mail regularly
+- Use your actual home address.
+- EDD will mail the DE 2501 form and all correspondence there.
+- **Crucial:** Ensure you check your mail daily, as many EDD deadlines are based on the postmark date and are often very short (e.g., 2 days to respond).
 
 **For Residency Questions:**
 
-- Your address doesn't affect eligibility
-- Base determines taxing jurisdiction
-- Be prepared to explain if asked
+- Your address doesn't affect eligibility.
+- Your base (taxing jurisdiction) determines eligibility.
+- If asked, explain that you are a pilot based in California paying CA SDI tax.
 
 ### Phone Options
 

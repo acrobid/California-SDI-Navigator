@@ -18,6 +18,10 @@ Understanding how to manage your sick banks is crucial for both short-term prote
 - Used for short-term illness
 - May have maximum accrual limits
 
+::callout{type="info" title="California 'Kin Care' Law"}
+Under California Labor Code Section 233, California-based pilots (LAX/OAK) can use up to **half of their annual sick leave accrual** to care for an ill family member (parent, child, spouse, domestic partner, grandparent, grandchild, or sibling). This is a statutory right for pilots paying CA SDI taxes, regardless of where they live.
+::
+
 ### Disability Sick Absence (DSA) Bank
 
 - Specifically for extended disability periods
@@ -29,7 +33,7 @@ Understanding how to manage your sick banks is crucial for both short-term prote
 ```
 Phase 1: Sick Bank
 ↓ (when exhausted)
-Phase 2: DSA Bank  
+Phase 2: DSA Bank
 ↓ (when exhausted)
 Phase 3: LTD Benefits (with SDI offset)
 ```
@@ -173,6 +177,7 @@ These strategies involve complex interactions between FedEx policies and CA EDD 
 ### Can I use sick bank and receive SDI?
 
 It depends on timing and how FedEx reports your wages. Generally:
+
 - SDI pays for periods you're not receiving regular wages
 - If sick bank is paying you, SDI may be reduced or delayed
 - Consult EDD for specifics
@@ -194,6 +199,7 @@ The way information is presented to EDD can affect your benefit eligibility and 
 ### What if my banks run out before SDI is approved?
 
 This is exactly the problem this guide helps you avoid. Strategies:
+
 - File SDI immediately when disabled
 - Follow up proactively on your claim
 - Have emergency savings if possible

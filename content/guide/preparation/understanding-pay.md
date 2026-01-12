@@ -31,6 +31,21 @@ FedEx pilots have:
 - Sick pay that looks identical to flight pay on statements
 - Semi-monthly pay periods (twice monthly)
 
+## Identifying SDI on Your Pay Stub
+
+Before filing, confirm you are actually paying into the CA SDI system.
+
+### Common Pay Stub Labels
+
+On FedEx pay stubs, the SDI deduction is often not labeled "SDI". Look for:
+
+- **CA OASDI/E**: This is the most common label for the California SDI tax deduction.
+- **CASDI**: Another possible label.
+
+### The Tax Rate
+
+As of 2026, the deduction rate is **1.3%** of your gross taxable wages. Unlike Social Security, there is **no maximum wage cap** for CA SDI—you pay the percentage on your entire pilot income.
+
 ## Pay Components Explained
 
 ### Flight Pay (Trip Pay)

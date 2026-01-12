@@ -90,14 +90,14 @@ Enter your personal details. Ensure these match your FedEx employment records an
 
 - Employer name: **Federal Express Corporation**
 - Employer address: **3620 Hacks Cross Road, Building B 3rd Floor, Memphis, TN 38125**
-- Supervisor/Verification: **Sheila Voye** (Pilot Administration Center Manager) or your base assistant
+- Supervisor/Verification: **Shelia Voye** (Pilot Administration Center - Fleet Operations)
 - Phone: **901-434-5000**
 - Your occupation: **Airline Pilot**
 - Last day worked: This is the **last day you physically flew or were on duty**.
 - Reason for stopping work: Illness/Injury/Disability
 
-::callout{type="info" title="Employer Contact Options"}
-There is no single definitive contact for employer verification. The PAC (Pilot Administration Center) has access to the payroll data CA EDD requires. Sheila Voye is the PAC manager. Alternatively, some pilots use their base assistant's contact information—verify your base assistant can access payroll records before listing them. Note that PAC staff can be difficult to reach, and FedEx does not electronically submit information to CA EDD, which can delay benefit processing compared to employers who do.
+::callout{type="info" title="Why use this address?"}
+The **Hacks Cross** address is critical because it connects directly to the **Pilot Administration Center (PAC)**. The PAC is responsible for verifying your employment and payroll data for state disability claims. Using a different address (like the one on your W-2 or the Collierville payroll office) often results in significant delays or no response to EDD's verification requests.
 ::
 
 ::callout{type="tip" title="Date Ambiguity"}

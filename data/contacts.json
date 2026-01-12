@@ -156,14 +156,14 @@
     "name": "Pilot Administration Center (PAC)",
     "organization": "fedex",
     "type": "office",
-    "contactPerson": "Sheila Voye (Manager)",
+    "contactPerson": "Shelia Voye (Fleet Operations)",
     "address": "3620 Hacks Cross Road, Building B 3rd Floor",
     "city": "Memphis",
     "state": "TN",
     "zip": "38125",
     "phone": "901-434-5000",
-    "notes": "Use as supervisor and for employment verification on SDI forms. PAC has access to payroll data that CA EDD requires. Note: PAC staff can be difficult to reach by phone; persistence may be required. Some pilots have also used their base assistant's contact information, though verify they have access to payroll records. CA EDD requests sent to FedEx payroll departments have historically experienced significant delays or no response.",
-    "lastVerified": "2026-01-12"
+    "notes": "Use as supervisor and for employment verification on SDI forms. PAC has access to payroll data that CA EDD requires. The OAK Welcome Aboard Guide explicitly directs pilots to use this address to ensure successful claim verification. Note: PAC staff can be difficult to reach by phone; persistence may be required. CA EDD requests sent to general FedEx payroll departments have historically experienced significant delays.",
+    "lastVerified": "2026-01-13"
   },
   {
     "id": "fedex-payroll-sdi",
@@ -174,7 +174,7 @@
     "city": "Collierville",
     "state": "TN",
     "zip": "38017",
-    "notes": "Address used by the payroll department to submit CA SDI payments.",
-    "lastVerified": "2026-01-11"
+    "notes": "Address used by the payroll department to submit CA SDI payments. Not typically used on claimant forms unless specifically requested.",
+    "lastVerified": "2026-01-13"
   }
 ]

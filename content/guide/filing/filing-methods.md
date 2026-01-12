@@ -12,38 +12,51 @@ You have three options for filing your CA SDI claim. Each has advantages and dis
 
 ## Quick Comparison
 
-| Method | Speed | Convenience | Best For |
-|--------|-------|-------------|----------|
-| Online | Fastest | High | Most people |
-| Mail | Slowest | Medium | Those uncomfortable with online |
-| In-Person | Medium | Low | Complex situations |
+| Method        | Speed   | Convenience | Requirements               | Best For                   |
+| ------------- | ------- | ----------- | -------------------------- | -------------------------- |
+| **Online**    | Fastest | High        | **CA Driver's License/ID** | Most CA residents          |
+| **Mail**      | Slowest | Medium      | None                       | **Out-of-state residents** |
+| **In-Person** | Medium  | Low         | None                       | Complex situations         |
 
 ## Online Filing
 
 ### Pros
-- ✅ Fastest processing
-- ✅ Immediate confirmation
-- ✅ Available 24/7
-- ✅ Can save and resume
-- ✅ Easier to track status
+
+- ✅ Fastest processing and confirmation.
+- ✅ Available 24/7.
+- ✅ Easier to track status.
 
 ### Cons
-- ❌ Can be confusing to navigate
-- ❌ Technical issues possible
-- ❌ No immediate human help
+
+- ❌ **Requires a California Driver's License or ID card** for registration.
+- ❌ Out-of-state residents without a CA ID cannot file their initial claim online.
+- ❌ Technical issues or "waiting rooms" are common on the EDD portal.
 
 ### How to File Online
 
-1. Go to [edd.ca.gov](https://edd.ca.gov)
-2. Navigate to Disability Insurance
-3. Click "File a DI Claim"
-4. Create or log into your account
-5. Complete the claim form
-6. Submit and save confirmation
+1. Go to [edd.ca.gov](https://edd.ca.gov).
+2. Create a **myEDD** account (requires ID.me verification).
+3. Log in and select **SDI Online**.
+4. Register for SDI Online (requires **CA DL/ID** or **EDDCAN**).
+5. Complete the claim form and submit.
 
-::callout{type="tip" title="Save Your Progress"}
-The online system allows you to save and return. If you're unsure about something, save and research before submitting.
+::callout{type="warning" title="Out-of-State Restriction"}
+If you live out-of-state and do not have a California ID, you must file by mail for your first claim. You will receive an EDD Customer Account Number (EDDCAN) in the mail, which you can use for future online access.
 ::
+
+## Mail Filing
+
+### Pros
+
+- ✅ No California ID requirement.
+- ✅ Better for non-residents or those with complex employment history.
+- ✅ Physical paper trail of what you submitted.
+
+### Cons
+
+- ❌ **Slowest method** (requires 2-3 extra weeks for mail and scanning).
+- ❌ No immediate confirmation of receipt.
+- ❌ High risk of delays if forms are filled out incorrectly or get lost in the mail.
 
 ### What You'll Need
 
@@ -57,11 +70,13 @@ The online system allows you to save and return. If you're unsure about somethin
 ## Mail Filing
 
 ### Pros
+
 - ✅ Physical documentation
 - ✅ Familiar process for some
 - ✅ Can include extra documentation
 
 ### Cons
+
 - ❌ Slowest method (add 1-2 weeks for mail time)
 - ❌ No immediate confirmation
 - ❌ Risk of mail delays or loss
@@ -83,6 +98,7 @@ Mail filing typically adds 2+ weeks to your timeline. If you're close to the 49-
 ### Mailing Address
 
 The address is on the form, but typically:
+
 ```
 State of California
 Employment Development Department
@@ -95,12 +111,14 @@ Verify the current address on the form or EDD website.
 ## In-Person Filing
 
 ### Pros
+
 - ✅ Immediate human assistance
 - ✅ Can resolve complex questions on the spot
 - ✅ Confirmation of receipt
 - ✅ Can explain pilot pay structure directly
 
 ### Cons
+
 - ❌ Very long wait times (4-6+ hours)
 - ❌ Limited office hours
 - ❌ Must travel to an office
@@ -132,17 +150,20 @@ EDD offices use a ticket system. If you arrive late, you may not get a ticket an
 ## Which Method Should You Choose?
 
 ### Choose Online If:
+
 - You're comfortable with websites
 - You have all information ready
 - You want the fastest processing
 - You can navigate the form questions
 
 ### Choose Mail If:
+
 - You're not comfortable online
 - You have plenty of time (nowhere near 49-day deadline)
 - You want to include detailed explanatory documents
 
 ### Choose In-Person If:
+
 - Your situation is complex
 - You've been denied or had issues before
 - You need to explain pilot pay structure

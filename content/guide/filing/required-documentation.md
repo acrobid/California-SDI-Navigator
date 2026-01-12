@@ -33,7 +33,7 @@ When filling out state forms, use the following contact information for your sup
 - **Phone**: 901-434-5000
 
 ::callout{type="info" title="Contact the PAC"}
-If you claim SDI benefits, contact the **Pilot Admin Center (PAC)** for assistance. They can assist with contacting Pilot Benefits Administration and the payroll department if required.
+If you claim SDI benefits, contact the **Pilot Admin Center (PAC)** at 901-434-5000 for assistance. They can assist with contacting Pilot Benefits Administration and the payroll department if required.
 ::
 
 - **Last Day Worked**: The date of your last flight or duty period
@@ -42,7 +42,7 @@ If you claim SDI benefits, contact the **Pilot Admin Center (PAC)** for assistan
 - **Compensation**: Be prepared to report any sick pay, vacation pay, or other income received after your last day worked.
 
 ::callout{type="info" title="Payroll Submission Address"}
-If requested for verification, the address used by the FedEx payroll department to submit CA SDI payments is:  
+The following address is used by the FedEx payroll department specifically to **submit CA SDI payments**. While usually not needed on the claimant form, you may need it if a representative asks for the "Payroll address on file":  
 **Federal Express Corporation**, 30 FedEx Parkway, 2nd Floor Horizontal, Collierville, TN 38017.
 ::
 
