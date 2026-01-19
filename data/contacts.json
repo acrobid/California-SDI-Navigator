@@ -156,14 +156,15 @@
     "name": "Pilot Administration Center (PAC)",
     "organization": "fedex",
     "type": "office",
-    "contactPerson": "Shelia Voye (Fleet Operations)",
-    "address": "3620 Hacks Cross Road, Building B 3rd Floor",
+    "contactPerson": "Sheila Voye (Fleet Operations)",
+    "employeeNumber": "275964",
+    "address": "3620 Hacks Cross Rd, Building B, 3rd floor",
     "city": "Memphis",
     "state": "TN",
     "zip": "38125",
     "phone": "901-434-5000",
-    "notes": "Use as supervisor and for employment verification on SDI forms. PAC has access to payroll data that CA EDD requires. The OAK Welcome Aboard Guide explicitly directs pilots to use this address to ensure successful claim verification. Note: PAC staff can be difficult to reach by phone; persistence may be required. CA EDD requests sent to general FedEx payroll departments have historically experienced significant delays.",
-    "lastVerified": "2026-01-13"
+    "notes": "Use as supervisor and for employment verification on SDI forms. PAC has access to payroll data that CA EDD requires. The OAK Welcome Aboard Guide explicitly directs pilots to use this address to ensure successful claim verification. Note: PAC staff can be difficult to reach by phone; persistence may be required. CA EDD requests sent to general FedEx payroll departments have historically experienced significant delays. Direct contact: Sheila Voye, Emp# 275964.",
+    "lastVerified": "2026-01-19"
   },
   {
     "id": "fedex-payroll-sdi",
@@ -176,5 +177,19 @@
     "zip": "38017",
     "notes": "Address used by the payroll department to submit CA SDI payments. Not typically used on claimant forms unless specifically requested.",
     "lastVerified": "2026-01-13"
+  },
+  {
+    "id": "fedex-anc-admin",
+    "name": "Anchorage Administrator",
+    "organization": "fedex",
+    "type": "office",
+    "contactPerson": "Suzanne Garnett",
+    "employeeNumber": "5032310",
+    "address": "6050 Rockwell",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99502",
+    "notes": "Anchorage Administrator eager to help Oakland (OAK) pilots with CA SDI process inquiries. Despite being located in Anchorage, Suzanne is willing to assist OAK-based pilots more readily than PAC staff.",
+    "lastVerified": "2026-01-19"
   }
 ]
