@@ -106,7 +106,8 @@ This mismatch creates confusion and delays when processing pilot claims.
 Typical timeline for SDI claims:
 
 Day 0: Last day worked / Disability begins
-Days 1-7: File claim (ideally within first week)
+Days 1-7: Waiting period (generally not payable)
+Day 8+: File claim as soon as you are eligible
 Days 1-14: Physician certifies claim (critical step)
 Days 14-21: EDD reviews claim, may request additional info
 Days 21-28: Eligibility determination
