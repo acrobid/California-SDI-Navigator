@@ -91,6 +91,12 @@ If you live out-of-state and do not have a California ID, you must file by mail 
 5. Mail to the address on the form
 6. Use certified mail with return receipt (recommended)
 
+::callout{type="tip" title="Order DE 2501 Early"}
+Out-of-state claimants should consider ordering DE 2501 forms in advance. Delivery can take several weeks. Use the [EDD Forms Cart](https://forms.edd.ca.gov/Forms/Cart/).
+::
+
+Before mailing, cross-check every applicable checkbox/field against EDD's sample form: [DE 2501 sample PDF](https://edd.ca.gov/siteassets/files/pdf_pub_ctr/de2501.pdf).
+
 ::callout{type="warning" title="Mail Delays"}
 Mail filing typically adds 2+ weeks to your timeline. If you're close to the 49-day deadline, consider online or in-person instead.
 ::

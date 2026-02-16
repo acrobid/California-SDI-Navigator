@@ -76,6 +76,21 @@ Same as California residents:
 - Call EDD at normal numbers
 - May have long hold times
 - No difference for out-of-state callers
+- Many claimants report that phone access is unreliable, so expect mail to be your primary communication channel
+
+## Common Out-of-State Verification Pattern
+
+Many out-of-state pilots report a repeated identity/residency verification cycle, even when documents were already submitted.
+
+**Frequently requested documents include:**
+
+- Proof of residence (utility bill)
+- Proof of identity (driver's license or passport)
+- Proof of income (often W-2s or year-end pay records for the prior 2 years)
+
+::callout{type="warning" title="Short Mail Deadlines Are Common"}
+Some request letters arrive with very little response time left. If your response arrives after the deadline and EDD issues a denial, respond to the denial packet immediately with the same proof set and a note documenting mail transit delays.
+::
 
 ## Special Considerations
 

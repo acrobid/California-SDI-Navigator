@@ -82,6 +82,8 @@ On FedEx pay stubs, sick pay often appears listed as "Regular Pay" on the summar
 
 Pay for vacation days used. Similar to sick pay in appearance.
 
+In many claims, EDD treats vacation pay differently from "regular wages" for SDI coordination. Keep vacation designations visible in your records so you can explain why a paycheck during disability does not always mean active work pay.
+
 ## Pilot-Specific Pay Mapping
 
 | Pilot Reality                   | EDD Assumption       | Friction                               |
