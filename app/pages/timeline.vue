@@ -131,13 +131,15 @@ const eventTypeLabels: Record<string, string> = {
       <!-- Timeline -->
       <div class="lg:col-span-2">
         <!-- Critical Deadlines Alert -->
-        <CommonCallout
+        <UAlert
           v-if="
             output.criticalDeadlines.some(
               (d) => d.daysFromNow <= 30 && d.daysFromNow >= 0,
             )
           "
-          variant="danger"
+          color="error"
+          variant="subtle"
+          icon="i-lucide-alert-octagon"
           title="Upcoming Deadlines"
         >
           <ul class="list-disc list-inside space-y-1">
@@ -152,7 +154,7 @@ const eventTypeLabels: Record<string, string> = {
               days)
             </li>
           </ul>
-        </CommonCallout>
+        </UAlert>
 
         <!-- Timeline Events -->
         <UCard class="mt-6">
@@ -314,11 +316,13 @@ const eventTypeLabels: Record<string, string> = {
 
     <!-- Disclaimer -->
     <div class="mt-8">
-      <CommonCallout variant="info" title="Timeline Estimates">
-        These timelines are estimates based on typical processing times. Actual
-        timelines can vary significantly based on EDD workload, completeness of
-        your application, and other factors.
-      </CommonCallout>
+      <UAlert
+        color="info"
+        variant="subtle"
+        icon="i-lucide-info"
+        title="Timeline Estimates"
+        description="These timelines are estimates based on typical processing times. Actual timelines can vary significantly based on EDD workload, completeness of your application, and other factors."
+      />
     </div>
   </div>
 </template>

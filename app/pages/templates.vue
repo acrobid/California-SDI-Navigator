@@ -391,8 +391,10 @@ const copyToClipboard = async (text: string) => {
       </p>
     </div>
 
-    <CommonCallout
-      variant="info"
+    <UAlert
+      color="info"
+      variant="subtle"
+      icon="i-lucide-info"
       title="How to Use These Templates"
       class="mb-8"
     >
@@ -401,7 +403,7 @@ const copyToClipboard = async (text: string) => {
         specific information. Replace all bracketed [placeholders] with your
         actual information before sending.
       </p>
-    </CommonCallout>
+    </UAlert>
 
     <!-- Template Cards -->
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -481,10 +483,12 @@ const copyToClipboard = async (text: string) => {
         </template>
 
         <div class="space-y-4 max-h-[60vh] overflow-y-auto">
-          <CommonCallout variant="warning">
-            Replace all [bracketed placeholders] with your actual information
-            before using this template.
-          </CommonCallout>
+          <UAlert
+            color="warning"
+            variant="subtle"
+            icon="i-lucide-alert-triangle"
+            description="Replace all [bracketed placeholders] with your actual information before using this template."
+          />
 
           <div class="relative">
             <pre
@@ -512,12 +516,13 @@ const copyToClipboard = async (text: string) => {
 
     <!-- Disclaimer -->
     <div class="mt-8">
-      <CommonCallout variant="warning" title="Legal Disclaimer">
-        These templates are provided for informational purposes only and do not
-        constitute legal advice. Review all documents carefully before
-        submitting. Consider consulting with a legal professional for complex
-        situations or if you are unsure about any aspect of your claim.
-      </CommonCallout>
+      <UAlert
+        color="warning"
+        variant="subtle"
+        icon="i-lucide-alert-triangle"
+        title="Legal Disclaimer"
+        description="These templates are provided for informational purposes only and do not constitute legal advice. Review all documents carefully before submitting. Consider consulting with a legal professional for complex situations or if you are unsure about any aspect of your claim."
+      />
     </div>
   </div>
 </template>

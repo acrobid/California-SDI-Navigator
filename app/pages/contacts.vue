@@ -241,11 +241,13 @@ const contactsByOrg = computed(() => {
 
     <!-- Disclaimer -->
     <div class="mt-8">
-      <CommonCallout variant="info" title="Contact Information">
-        Contact information is provided for convenience and may change. Always
-        verify current information with official sources. If you find outdated
-        information, please let us know.
-      </CommonCallout>
+      <UAlert
+        color="info"
+        variant="subtle"
+        icon="i-lucide-info"
+        title="Contact Information"
+        description="Contact information is provided for convenience and may change. Always verify current information with official sources. If you find outdated information, please let us know."
+      />
     </div>
   </div>
 </template>

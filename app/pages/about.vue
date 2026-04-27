@@ -79,13 +79,13 @@ useSeoMeta({
 
         <h2>Important Disclaimers</h2>
 
-        <CommonCallout variant="danger" title="Not Legal or Financial Advice">
-          This website is an unofficial resource created by pilots for pilots.
-          It is not affiliated with, endorsed by, or sponsored by FedEx, ALPA,
-          The Hartford, or California EDD. Information provided is for
-          educational purposes only and should not be construed as legal,
-          financial, or medical advice.
-        </CommonCallout>
+        <UAlert
+          color="error"
+          variant="subtle"
+          icon="i-lucide-alert-octagon"
+          title="Not Legal or Financial Advice"
+          description="This website is an unofficial resource created by pilots for pilots. It is not affiliated with, endorsed by, or sponsored by FedEx, ALPA, The Hartford, or California EDD. Information provided is for educational purposes only and should not be construed as legal, financial, or medical advice."
+        />
 
         <h3>Accuracy of Information</h3>
         <p>
