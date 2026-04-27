@@ -5,6 +5,14 @@ import type { ChecklistPhase } from "~/types";
 useSeoMeta({
   title: "Claim Checklist - CA SDI Navigator",
   description: "Track your progress through the CA SDI claim process",
+  ogTitle: "Claim Checklist - CA SDI Navigator",
+  ogDescription: "Track your progress through the CA SDI claim process",
+  ogImage: "/og-image.svg",
+  ogImageType: "image/png",
+  ogImageWidth: "1200",
+  ogImageHeight: "630",
+  twitterCard: "summary_large_image",
+  twitterImage: "/og-image.svg",
 });
 
 const {
@@ -108,7 +116,7 @@ const handleReset = () => {
             {{ progress.completed }} of {{ progress.total }} items completed
           </p>
         </div>
-        <UButton variant="ghost" color="red" @click="showResetConfirm = true">
+        <UButton variant="ghost" color="error" @click="showResetConfirm = true">
           <UIcon name="i-lucide-refresh-cw" class="w-4 h-4 mr-2" />
           Reset Checklist
         </UButton>
@@ -135,7 +143,7 @@ const handleReset = () => {
               <UButton variant="ghost" @click="showResetConfirm = false"
                 >Cancel</UButton
               >
-              <UButton color="red" @click="handleReset">Reset</UButton>
+              <UButton color="error" @click="handleReset">Reset</UButton>
             </div>
           </template>
         </UCard>

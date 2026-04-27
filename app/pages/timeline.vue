@@ -4,6 +4,14 @@ import { formatDateShort } from "~/utils/formatters";
 useSeoMeta({
   title: "Claim Timeline - CA SDI Navigator",
   description: "Visualize your CA SDI claim timeline and important deadlines",
+  ogTitle: "Claim Timeline - CA SDI Navigator",
+  ogDescription: "Visualize your CA SDI claim timeline and important deadlines",
+  ogImage: "/og-image.svg",
+  ogImageType: "image/png",
+  ogImageWidth: "1200",
+  ogImageHeight: "630",
+  twitterCard: "summary_large_image",
+  twitterImage: "/og-image.svg",
 });
 
 const { inputs, output, updateInput } = useTimeline();
@@ -196,7 +204,7 @@ const eventTypeLabels: Record<string, string> = {
                         </h3>
                         <UBadge
                           v-if="event.isCritical"
-                          color="red"
+                          color="error"
                           variant="subtle"
                           size="xs"
                         >
@@ -285,10 +293,10 @@ const eventTypeLabels: Record<string, string> = {
                   deadline.daysFromNow < 0
                     ? 'neutral'
                     : deadline.daysFromNow <= 30
-                      ? 'red'
+                      ? 'error'
                       : deadline.daysFromNow <= 60
-                        ? 'orange'
-                        : 'green'
+                        ? 'warning'
+                        : 'success'
                 "
                 variant="subtle"
               >

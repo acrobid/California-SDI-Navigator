@@ -1,16 +1,24 @@
 <script setup lang="ts">
 import { formatCurrency } from "~/utils/formatters";
-import { CA_SDI_RATES, LTD_LIMITS } from "~/utils/constants";
+import { CA_SDI_RATES } from "~/utils/constants";
 
 useSeoMeta({
   title: "Benefit Calculator - CA SDI Navigator",
   description: "Estimate your CA SDI and FedEx LTD benefits",
+  ogTitle: "Benefit Calculator - CA SDI Navigator",
+  ogDescription: "Estimate your CA SDI and FedEx LTD benefits",
+  ogImage: "/og-image.svg",
+  ogImageType: "image/png",
+  ogImageWidth: "1200",
+  ogImageHeight: "630",
+  twitterCard: "summary_large_image",
+  twitterImage: "/og-image.svg",
 });
 
 const { inputs, outputs, resetInputs } = useCalculator();
 
 const currentYear = new Date().getFullYear();
-const currentRate = CA_SDI_RATES[currentYear] || CA_SDI_RATES[2026]; // Fallback to avoid error if 2026 keys specific
+const currentRate = (CA_SDI_RATES[currentYear] ?? CA_SDI_RATES[2026])!;
 
 const showDetails = ref(false);
 </script>
@@ -165,8 +173,8 @@ const showDetails = ref(false);
                 variant="soft"
                 color="neutral"
                 size="sm"
-                @click="resetInputs"
                 icon="i-lucide-refresh-cw"
+                @click="resetInputs"
               >
                 Reset to Defaults
               </UButton>
@@ -179,7 +187,7 @@ const showDetails = ref(false);
       <div class="xl:col-span-5 space-y-6 sticky top-24">
         <UCard
           class="overflow-hidden border-0 ring-1 ring-gray-200 dark:ring-gray-800 shadow-xl shadow-primary-500/5 dark:shadow-primary-900/20"
-          :ui="{ header: { padding: 'p-0' } }"
+          :ui="{ header: 'p-0' }"
         >
           <template #header>
             <div
@@ -235,7 +243,7 @@ const showDetails = ref(false);
                 class="text-sm font-semibold text-gray-900 dark:text-gray-100 mb-3 flex items-center justify-between"
               >
                 <span>FedEx LTD Benefits</span>
-                <UBadge color="indigo" variant="subtle" size="xs"
+                <UBadge color="primary" variant="subtle" size="xs"
                   >Monthly</UBadge
                 >
               </h3>
@@ -273,7 +281,7 @@ const showDetails = ref(false);
 
         <!-- Tax Info -->
         <UCard
-          :ui="{ body: { padding: 'p-4' } }"
+          :ui="{ body: 'p-4' }"
           class="bg-amber-50/40 dark:bg-amber-950/10 border-amber-200/50 dark:border-amber-800/30"
         >
           <div class="flex items-center justify-between gap-4">
@@ -297,7 +305,7 @@ const showDetails = ref(false);
         <UButton
           variant="ghost"
           block
-          color="gray"
+          color="neutral"
           class="justify-between group"
           @click="showDetails = !showDetails"
         >
@@ -350,15 +358,15 @@ const showDetails = ref(false);
 
               <h4 class="text-gray-900 dark:text-gray-100">The Offset</h4>
               <p
-                class="text-gray-600 dark:text-gray-300"
                 v-if="inputs.hasExhaustedSickBank"
+                class="text-gray-600 dark:text-gray-300"
               >
                 <span class="text-amber-600 dark:text-amber-400 font-medium"
                   >Warning:</span
                 >
                 Hartford reduces LTD by the expected SDI amount.
               </p>
-              <p class="text-gray-600 dark:text-gray-300" v-else>
+              <p v-else class="text-gray-600 dark:text-gray-300">
                 No offset applied currently (sick bank active).
               </p>
             </div>

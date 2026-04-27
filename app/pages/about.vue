@@ -2,6 +2,14 @@
 useSeoMeta({
   title: "About - CA SDI Navigator",
   description: "About the CA SDI Navigator for FedEx Pilots",
+  ogTitle: "About - CA SDI Navigator",
+  ogDescription: "About the CA SDI Navigator for FedEx Pilots",
+  ogImage: "/og-image.svg",
+  ogImageType: "image/png",
+  ogImageWidth: "1200",
+  ogImageHeight: "630",
+  twitterCard: "summary_large_image",
+  twitterImage: "/og-image.svg",
 });
 </script>
 

@@ -3,6 +3,15 @@ useSeoMeta({
   title: "Document Templates - CA SDI Navigator",
   description:
     "Downloadable templates for CA SDI claims and Hartford LTD coordination",
+  ogTitle: "Document Templates - CA SDI Navigator",
+  ogDescription:
+    "Downloadable templates for CA SDI claims and Hartford LTD coordination",
+  ogImage: "/og-image.svg",
+  ogImageType: "image/png",
+  ogImageWidth: "1200",
+  ogImageHeight: "630",
+  twitterCard: "summary_large_image",
+  twitterImage: "/og-image.svg",
 });
 
 interface Template {
@@ -337,9 +346,9 @@ Enclosures: [List]`,
 ];
 
 const categoryLabels = {
-  edd: { title: "EDD Documents", color: "info" },
-  hartford: { title: "Hartford / LTD", color: "primary" },
-  general: { title: "General", color: "neutral" },
+  edd: { title: "EDD Documents", color: "info" as const },
+  hartford: { title: "Hartford / LTD", color: "primary" as const },
+  general: { title: "General", color: "neutral" as const },
 };
 
 const selectedTemplate = ref<Template | null>(null);

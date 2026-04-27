@@ -74,6 +74,15 @@ useSeoMeta({
   title: "SDI Guide | CA SDI Navigator",
   description:
     "Comprehensive guide to California State Disability Insurance for FedEx pilots",
+  ogTitle: "SDI Guide | CA SDI Navigator",
+  ogDescription:
+    "Comprehensive guide to California State Disability Insurance for FedEx pilots",
+  ogImage: "/og-image.svg",
+  ogImageType: "image/png",
+  ogImageWidth: "1200",
+  ogImageHeight: "630",
+  twitterCard: "summary_large_image",
+  twitterImage: "/og-image.svg",
 });
 </script>
 
@@ -248,7 +257,7 @@ useSeoMeta({
     <!-- Disclaimer -->
     <section class="py-8">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <Callout variant="compact" />
+        <Callout variant="info" />
       </div>
     </section>
   </div>

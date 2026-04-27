@@ -9,10 +9,19 @@ useSeoMeta({
   title: "CA SDI Navigator - FedEx Pilots",
   description:
     "Guide for FedEx pilots navigating California State Disability Insurance claims",
+  ogTitle: "CA SDI Navigator - FedEx Pilots",
+  ogDescription:
+    "Guide for FedEx pilots navigating California State Disability Insurance claims",
+  ogImage: "/og-image.svg",
+  ogImageType: "image/png",
+  ogImageWidth: "1200",
+  ogImageHeight: "630",
+  twitterCard: "summary_large_image",
+  twitterImage: "/og-image.svg",
 });
 
 const currentYear = new Date().getFullYear();
-const currentRate = CA_SDI_RATES[currentYear] || CA_SDI_RATES[2026];
+const currentRate = (CA_SDI_RATES[currentYear] ?? CA_SDI_RATES[2026])!;
 
 const quickLinks = [
   // why this guide exists

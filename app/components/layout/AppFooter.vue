@@ -10,7 +10,7 @@ const currentYear = new Date().getFullYear();
       <!-- Disclaimer -->
       <UCard
         class="mb-8 bg-amber-50/50 dark:bg-amber-950/30 border-amber-200/50 dark:border-amber-800/50 shadow-sm"
-        :ui="{ body: { padding: 'p-4 sm:p-6' } }"
+        :ui="{ body: 'p-4 sm:p-6' }"
       >
         <div class="flex gap-3">
           <UIcon

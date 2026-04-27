@@ -7,6 +7,15 @@ useSeoMeta({
   title: "Contact Directory - CA SDI Navigator",
   description:
     "Important contacts for CA SDI claims, Hartford LTD, and ALPA resources",
+  ogTitle: "Contact Directory - CA SDI Navigator",
+  ogDescription:
+    "Important contacts for CA SDI claims, Hartford LTD, and ALPA resources",
+  ogImage: "/og-image.svg",
+  ogImageType: "image/png",
+  ogImageWidth: "1200",
+  ogImageHeight: "630",
+  twitterCard: "summary_large_image",
+  twitterImage: "/og-image.svg",
 });
 
 const contacts = ref<Contact[]>(contactsData as Contact[]);

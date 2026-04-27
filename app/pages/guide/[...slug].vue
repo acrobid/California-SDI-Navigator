@@ -3,7 +3,7 @@ const route = useRoute();
 
 // Get current path
 const currentPath = computed(() => {
-  const slug = route.params.slug;
+  const slug = "slug" in route.params ? route.params.slug : undefined;
   if (Array.isArray(slug)) {
     return `/guide/${slug.join("/")}`;
   }
@@ -40,8 +40,10 @@ const sections = computed(() => {
   allPages.value.forEach((p) => {
     if (p.path === "/guide") return; // Skip index page
 
-    const section = Object.keys(sectionMap).find((s) => p.path.startsWith(s));
-    if (section) {
+    const section = Object.keys(sectionMap).find((s) =>
+      p.path.startsWith(s),
+    ) as keyof typeof sectionMap | undefined;
+    if (section && sectionMap[section]) {
       sectionMap[section].pages.push(p);
     }
   });
@@ -86,6 +88,16 @@ useSeoMeta({
     page.value?.title ? `${page.value.title} | SDI Guide` : "SDI Guide",
   description: () =>
     page.value?.description || "California SDI guide for FedEx pilots",
+  ogTitle: () =>
+    page.value?.title ? `${page.value.title} | SDI Guide` : "SDI Guide",
+  ogDescription: () =>
+    page.value?.description || "California SDI guide for FedEx pilots",
+  ogImage: "/og-image.svg",
+  ogImageType: "image/png",
+  ogImageWidth: "1200",
+  ogImageHeight: "630",
+  twitterCard: "summary_large_image",
+  twitterImage: "/og-image.svg",
 });
 </script>
 
@@ -130,12 +142,12 @@ useSeoMeta({
 
         <!-- Mobile Navigation Sticky Bar -->
         <div
-          class="lg:hidden sticky top-[65px] z-40 -mx-4 px-4 py-3 mb-6 bg-white/80 dark:bg-gray-950/80 backdrop-blur-md border-b border-gray-200 dark:border-gray-800 flex items-center justify-between"
+          class="lg:hidden sticky top-16.25 z-40 -mx-4 px-4 py-3 mb-6 bg-white/80 dark:bg-gray-950/80 backdrop-blur-md border-b border-gray-200 dark:border-gray-800 flex items-center justify-between"
         >
           <div class="flex items-center gap-2 overflow-hidden">
             <NuxtLink
               to="/guide"
-              class="flex-shrink-0 text-gray-500 hover:text-primary-600 dark:text-gray-400"
+              class="shrink-0-gray-500 hover:text-primary-600 dark:text-gray-400"
             >
               <UIcon name="i-lucide-book-open" class="w-5 h-5" />
             </NuxtLink>
@@ -340,7 +352,7 @@ useSeoMeta({
 
     <!-- Disclaimer -->
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-8">
-      <Callout variant="compact" />
+      <Callout variant="important" />
     </div>
   </div>
 </template>
