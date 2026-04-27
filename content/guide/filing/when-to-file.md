@@ -39,14 +39,15 @@ The 49-day deadline is from disability START, not from when sick banks run out. 
 
 ## Optimal Filing Timing
 
-### Best Practice: File Within the First Week
+### Best Practice: File as Soon as You Reach Day 8
 
-Why file immediately?
+Why file right away once you're eligible to submit?
 
-1. **Processing time:** EDD can take 2-6 weeks to process
-2. **Buffer for issues:** Time to resolve any problems
-3. **Deadline safety:** No risk of missing 49-day deadline
-4. **Earlier payments:** Approval means payments start sooner
+1. **Earliest filing window:** You can file on the **8th day** of disability
+2. **Processing time:** EDD can take 2-6 weeks to process
+3. **Buffer for issues:** Time to resolve any problems
+4. **Deadline safety:** No risk of missing 49-day deadline
+5. **Earlier payments:** Approval means payments start sooner
 
 ### Strategic Considerations
 
@@ -113,6 +114,10 @@ This means:
 - Your first payment covers from Day 8 onward
 - The waiting period cannot be waived
 - Sick bank typically covers this period
+
+::callout{type="warning" title="Doctor Timing Can Burn the 49-Day Clock"}
+If you wait for a later follow-up appointment before starting your claim, and then your doctor's office takes additional time to complete certification, you can run out of filing time. Start the claim process early and coordinate physician certification immediately.
+::
 
 ## Filing Checklist
 
