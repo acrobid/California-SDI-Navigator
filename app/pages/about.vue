@@ -162,11 +162,6 @@ useSeoMeta({
           <strong>SDI Rates Current Through:</strong> 2026
         </p>
       </div>
-
-      <!-- Full Disclaimer -->
-      <div class="mt-12">
-        <CommonDisclaimer variant="full" />
-      </div>
     </div>
   </div>
 </template>

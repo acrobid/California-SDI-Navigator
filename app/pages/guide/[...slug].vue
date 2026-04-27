@@ -40,11 +40,11 @@ const sections = computed(() => {
   allPages.value.forEach((p) => {
     if (p.path === "/guide") return; // Skip index page
 
-    const section = Object.keys(sectionMap).find((s) =>
+    const section = Object.entries(sectionMap).find(([s]) =>
       p.path.startsWith(s),
-    ) as keyof typeof sectionMap | undefined;
-    if (section && sectionMap[section]) {
-      sectionMap[section].pages.push(p);
+    );
+    if (section) {
+      section[1].pages.push(p);
     }
   });
 
@@ -153,7 +153,7 @@ useSeoMeta({
             </NuxtLink>
             <UIcon
               name="i-lucide-chevron-right"
-              class="w-4 h-4 text-gray-400 flex-shrink-0"
+              class="w-4 h-4 text-gray-400 shrink-0"
             />
             <span
               class="text-sm font-medium text-gray-700 dark:text-gray-300 truncate"
@@ -348,11 +348,6 @@ useSeoMeta({
           </nav>
         </main>
       </div>
-    </div>
-
-    <!-- Disclaimer -->
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-8">
-      <Callout variant="important" />
     </div>
   </div>
 </template>

@@ -284,10 +284,5 @@ const handleReset = () => {
         </div>
       </UCard>
     </div>
-
-    <!-- Disclaimer -->
-    <div class="mt-8">
-      <CommonDisclaimer variant="compact" />
-    </div>
   </div>
 </template>
