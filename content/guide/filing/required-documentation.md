@@ -77,6 +77,10 @@ These items help EDD verify your wages and pilot pay structure:
 - Your last 4 pay stubs (to prove CA SDI was withheld)
 - Your most recent W-2
 
+### What FedEx Submitted to EDD (If Issues Arise)
+
+If your claim is denied or delayed due to wage or pay-date confusion, request a copy of the data FedEx transmitted to EDD. See [Understanding Your Pay Structure](/guide/preparation/understanding-pay) for why this matters and who to contact.
+
 ### Pilot Pay Explanation Cover Letter
 
 Because airline pilot pay (trips, per diem, offsets) is unusual, we recommend submitting a cover letter explaining your pay structure.

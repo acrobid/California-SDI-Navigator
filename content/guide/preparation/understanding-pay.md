@@ -135,13 +135,59 @@ FedEx payroll reports wage data to EDD, but:
 - The data FedEx sends may be confusing to EDD
 - Some pilots have experienced incorrect or zero reporting
 
-### Verify Your Records
+### What We Know: The Format Mismatch
+
+One pilot, after going through the Pilots Benefit Review Board, obtained a copy of what FedEx sent to CA EDD. It was a spreadsheet with these columns:
+
+| Earn Code | Description |
+|-----------|-------------|
+| `POV` | Pilot Regular |
+| `PRH` | Pilot BLG |
+| `PRT` | Pilot Required Training |
+| `PDN` | Pilot--Non Taxable Per Diem |
+| `PIP` | Pilot--International Pay |
+| `PVB` | Pilot--Vacation Buyback |
+| `POH` | Pilot Overpayment |
+| `KLT` | Disability--Long Term Update |
+| `RCT` | Bonus--Recruitment/Signing |
+| `ZUU` | Expat Sub Yr |
+
+The pilot's feedback: **CA EDD did not understand the information given to them by FedEx.** EDD staff are trained on standard weekly pay jobs, not BLG formulas, per diem, overages, and bid-month boundaries. When EDD sees codes they do not recognize, they default to their own interpretation—which may result in a denial.
+
+**You have no way of knowing what information FedEx passed to EDD or in what form unless you request it.**
+
+### What You Can Do (Action Steps)
+
+**If your claim is denied or stalled due to wage/pay-date confusion:**
+
+1. **Identify the FedEx contact.** As of this writing, the only FedEx contact identified who handles EDD pay verification is **Jennifer Crisp, FedEx Senior Benefits Advisor** ([see contacts](/contacts)). It was nearly impossible for the reporting pilot to find anyone else at FedEx who knew who handled these requests.
+
+2. **Request the data.** Ask Jennifer Crisp (or whoever is currently in this role) for a copy of the spreadsheet or data FedEx submitted to CA EDD on your behalf. You need to see exactly what EDD received before you can fix the confusion.
+
+3. **Compare against your records.** Once you have the FedEx data, compare it to your ADP pay stubs and your schedule. Look for:
+   - Dates that do not match your actual last day worked
+   - Pay codes EDD may misread (e.g., "Pilot Regular" when it was actually sick pay)
+   - Bid-month boundary dates being treated as calendar-month work dates
+
+4. **Go in person.** The pilot who reported this found that resolving the mismatch over the phone was not effective. **To solve the problem with CA EDD will probably take an in-person visit.** Someone needs to resolve this with FedEx, not just CA EDD.
+
+### The Bid Month vs. Calendar Month Trap
+
+This is a documented case where the format mismatch cost a pilot money:
+
+- Pilot started receiving LTD on **April 28, 2025** (beginning of the May '25 bid month)
+- ADP pay statement showed pay through **April 30, 2025**
+- CA EDD denied disability pay for **April 28-30** (~$800)
+- Reason: EDD's system saw "paid through April 30" and treated the pilot as still working on those days
+
+**Action step:** When filing, explicitly clarify your **last day physically on duty** and note that your ADP "pay through" date reflects the bid-month cutoff, not your disability start date. If this specific issue caused your denial, bring your ADP stubs, schedule, and the FedEx data to an in-person EDD visit.
 
 Before filing, consider:
 
 1. Reviewing what data EDD already has about you
 2. Gathering your own pay stubs as backup
 3. Being prepared to explain pilot compensation
+4. Requesting a copy of what FedEx submits to EDD if a problem arises
 
 ## Tools to Help
 

@@ -93,6 +93,12 @@ Unlike traditional employees who might "try to work" while sick, pilots cannot f
 | Diagnosis preventing flight   | Date of diagnosis                                   |
 | Gradual condition             | Date you stopped working (with doctor verification) |
 
+#### The Bid Month Trap
+
+A specific risk for pilots: EDD uses calendar months, but FedEx pay months vary by **bid month**. Your ADP pay stub may show a "pay through" date that reflects the bid month boundary, not your last day of work. EDD can misread this as proof you were still earning wages.
+
+See [Understanding Your Pay Structure](/guide/preparation/understanding-pay) for a detailed explanation and a real pilot example of an ~$800 denial caused by this exact confusion.
+
 ## The 7-Day Waiting Period
 
 SDI does not pay benefits for the first 7 days of your disability:

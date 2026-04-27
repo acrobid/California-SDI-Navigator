@@ -166,6 +166,14 @@
     "lastVerified": "2026-01-13"
   },
   {
+    "id": "fedex-benefits-advisor",
+    "name": "Jennifer Crisp - Senior Benefits Advisor",
+    "organization": "fedex",
+    "type": "person",
+    "notes": "Identified by a pilot (via Pilots Benefit Review Board process) as the primary contact at FedEx responsible for responding to CA EDD with pay information. If EDD disputes your wages or pay dates, she may be the person who can clarify what FedEx submitted. Note: FedEx corporate structure around this role may be opaque; this is the best contact currently known.",
+    "lastVerified": "2026-04-27"
+  },
+  {
     "id": "fedex-payroll-sdi",
     "name": "FedEx Payroll - CA SDI Dept",
     "organization": "fedex",

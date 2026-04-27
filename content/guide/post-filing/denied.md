@@ -33,6 +33,7 @@ The denial reason determines your best appeal strategy. Read the entire letter c
 | Base period wages     | Not enough earnings in base period | Check if correct base period was used |
 | Medical certification | Doctor didn't certify properly     | Strong if doctor will re-certify      |
 | Filing deadline       | Filed after 49 days                | Depends on circumstances              |
+| FedEx pay data mismatch | EDD confused by pilot pay format | Strong if you can clarify pay dates   |
 | Not covered           | Job not covered by SDI             | Rare for CA employees                 |
 
 ## Your Appeal Options
@@ -187,6 +188,15 @@ EDD didn't receive or couldn't verify doctor's certification.
 - New, complete certification
 - Doctor's written statement
 - Proof of previous attempts if applicable
+
+### "FedEx Pay Data Mismatch" (Pilot-Specific)
+
+**What It Means:**
+EDD received confusing pay information from FedEx and denied your claim based on a misunderstanding of your pay dates or wages.
+
+**How to Appeal:**
+
+See [Understanding Your Pay Structure](/guide/preparation/understanding-pay) for the full step-by-step process, including how to request the data FedEx sent, identify the mismatch, and why an in-person EDD visit is often necessary to resolve this.
 
 ### "Filed After 49-Day Deadline"
 
