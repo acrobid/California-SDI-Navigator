@@ -15,12 +15,12 @@ You need pay stubs covering your entire base period plus some buffer:
 
 | Document | Where to Find | Why You Need It |
 |----------|--------------|-----------------|
-| Pay stubs (18 months) | Workday | Prove quarterly income |
-| YTD summaries | Workday | Quick income verification |
+| Pay stubs (18 months) | ADP | Prove quarterly income |
+| YTD summaries | ADP | Quick income verification |
 | Direct deposit records | Your bank | Backup proof of payment |
 
 ::callout{type="warning" title="Access Changes During Disability"}
-Your Workday access may change or be limited if you go on extended leave. Download everything you might need BEFORE you become unable to work if possible.
+Your ADP access may change or be limited if you go on extended leave. Download everything you might need BEFORE you become unable to work if possible.
 ::
 
 ### W-2 Forms
@@ -32,7 +32,7 @@ Keep your W-2 forms for the current year (when available) and the previous 2 yea
 If EDD questions when you stopped working vs. when sick-bank pay started, these are your proof:
 - PBS bid records (shows scheduled work)
 - Actual trips flown records
-- Sick time usage records from Workday
+- Sick time usage records from VIPS
 
 ::callout{type="warning" title="Sick Pay Looks Like Regular Pay"}
 On FedEx ADP stubs, sick pay often appears under "Regular Pay" on the summary line. Flag every period where sick pay replaced flight pay so you can explain the income drop to EDD without ambiguity.
@@ -55,16 +55,16 @@ Highest Quarter: $____ (this determines your benefit)
 
 ## Where to Find Documents
 
-### Workday
+### ADP
 
-1. Log into Workday
+1. Log into ADP
 2. Navigate to Pay → Pay Statements
 3. Download each statement as PDF
 4. Save with naming convention: `PayStub_2025-01-15.pdf`
 
 ### Direct Access
 
-If Workday is unavailable (common on extended leave — download before you're off):
+If ADP is unavailable (common on extended leave — download before you're off):
 1. Contact Jennifer Crisp, FedEx Senior Benefits Advisor (see [Contacts](/contacts)) — she handles EDD pay-verification requests
 2. Request historical pay data as a spreadsheet, not just a letter
 
@@ -98,12 +98,12 @@ Submit a **Pilot Pay Explanation Letter** with your claim (see [Templates](/temp
 
 ## Checklist
 
-- [ ] Downloaded last 18 months of pay stubs from Workday before leave starts
+- [ ] Downloaded last 18 months of pay stubs from ADP before leave starts
 - [ ] Saved W-2 forms (2-3 years) — Box 14 shows CA SDI withheld
 - [ ] Calculated quarterly totals for base period; identified highest quarter
 - [ ] Flagged every period where sick pay replaced flight pay
 - [ ] Created Quarterly Summary table for EDD submission
-- [ ] Saved copies outside Workday (cloud backup or external drive) in case access is restricted on leave
+- [ ] Saved copies outside ADP (cloud backup or external drive) in case access is restricted on leave
 
 ## Next Steps
 

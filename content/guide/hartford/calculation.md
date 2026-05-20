@@ -210,7 +210,7 @@ When you receive your first LTD payment, request in writing:
 
 If you believe the calculation is wrong:
 
-1. Pull your Workday payslips for the preceding 36 months (Pay → Payslips → download all)
+1. Pull your ADP payslips for the preceding 36 months
 2. Calculate your own best 12-consecutive-month figure
 3. Send a written dispute with your calculation and supporting payslips
 4. Request recalculation from the administrator; cite CBA §27.J.6 explicitly
@@ -244,15 +244,15 @@ Your benefit may be recalculated if:
 
 ### Getting Your Pay History
 
-**From Workday:**
-1. Log in to FedEx Workday
-2. Navigate to Pay → Payslips
+**From ADP:**
+1. Log in to ADP
+2. Navigate to Pay → Pay Statements
 3. Download last 36 months of pay stubs
 4. Identify your highest 12 consecutive months
 
 **From the Administrator:**
 - Request the earnings history they have on file
-- Compare it against your Workday records and correct any discrepancies before claim approval — errors found after approval require a formal recalculation request
+- Compare it against your ADP records and correct any discrepancies before claim approval — errors found after approval require a formal recalculation request
 
 ## Next Steps
 

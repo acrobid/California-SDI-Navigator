@@ -2089,7 +2089,6 @@ ANTHROPIC_API_KEY=sk-ant-...
 | Integration     | Purpose                      | Feasibility         |
 | --------------- | ---------------------------- | ------------------- |
 | EDD API         | Direct claim status checking | Low (no public API) |
-| FedEx Workday   | Auto-import pay data         | Low (no access)     |
 | Calendar Export | Deadline reminders           | High                |
 | Print-to-PDF    | Better PDF generation        | High                |
 

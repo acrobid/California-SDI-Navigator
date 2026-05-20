@@ -3,7 +3,7 @@ const currentYear = new Date().getFullYear();
 
 // Fetch a guide page to get the default lastUpdated date
 const { data: guidePage } = await useAsyncData("footer-last-updated", () => {
-  return queryCollection("guide").select("lastUpdated").order("updatedAt", "DESC").first();
+  return queryCollection("guide").order("updatedAt", "DESC").select("lastUpdated").first();
 });
 
 const lastUpdated = computed(() => {

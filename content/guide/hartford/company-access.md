@@ -23,7 +23,7 @@ CBA Section 27.J.19 gives you a contractual right to access FedEx systems while 
 
 | System | What you need it for |
 |--------|----------------------|
-| pilot.fedex.com | Download 36 months of Workday payslips for LTD calculation verification; check sick bank balance to confirm LTD trigger date |
+| pilot.fedex.com | Access pay and benefits information; check sick bank balance to confirm LTD trigger date |
 | PRISM | Monitor bid cycles; verify seat availability before submitting return-to-work paperwork |
 | @fedex.com email | Receive HR and benefits communications; correspond with your chief pilot; maintain a documented paper trail |
 
@@ -52,7 +52,7 @@ This log supports a grievance and demonstrates you did not voluntarily abandon a
 ## Proactive Steps Before Access Issues Arise
 
 Download and save before any potential lockout:
-- Workday payslips for the preceding 36 months (needed to verify your LTD calculation)
+- ADP payslips for the preceding 36 months (needed to verify your LTD calculation)
 - W-2 forms for the past 3 years
 - Current sick bank balance (screenshot with date)
 - Benefits enrollment summary

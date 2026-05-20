@@ -14,7 +14,7 @@ useSeoMeta({
 
 // Fetch a guide page to get the dynamic lastUpdated date from the schema
 const { data: guidePage } = await useAsyncData("about-last-updated", () => {
-  return queryCollection("guide").select("lastUpdated").order("updatedAt", "DESC").first();
+  return queryCollection("guide").order("updatedAt", "DESC").select("lastUpdated").first();
 });
 
 const lastUpdated = computed(() => {

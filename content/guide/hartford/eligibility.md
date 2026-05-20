@@ -15,7 +15,7 @@ The FedEx LTD Plan (CBA Section 27.J.1) does not use a simple 180-day clock. Eli
 
 The most common trigger. LTD eligibility begins only when **both** the regular sick account and the Disability Sick Absence (DSA) account are fully depleted — one bank exhausting does not trigger eligibility on its own.
 
-Check balances in Workday → Benefits → Time Off; note regular sick and DSA separately.
+Check balances in VIPS; note regular sick and DSA separately.
 
 **Example:**
 
@@ -89,9 +89,8 @@ LTD eligibility may not occur until months into your disability.
 
 ### Step 1: Check Your Sick Banks
 
-1. Log into Workday
-2. Navigate to Benefits → Time Off
-3. Note balances for:
+1. Log into VIPS
+2. Note balances for:
    - Regular sick time
    - DSA (Disability Sick Absence)
 

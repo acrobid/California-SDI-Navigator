@@ -7,7 +7,7 @@ order: 4
 
 # What to Save Now
 
-Workday access is often restricted once you go on extended leave. Download what you need while you still have full access.
+ADP access is often restricted once you go on extended leave. Download what you need while you still have full access.
 
 ## Documents to Save
 
@@ -17,7 +17,7 @@ Workday access is often restricted once you go on extended leave. Download what 
 | ------------------------------ | ------------ | ------------- |
 | Pay stubs                      | 18+ months   | ADP           |
 | W-2 forms                      | 3 years      | ADP/IRS       |
-| Employee ID number             | Permanent    | Badge/Workday |
+| Employee ID number             | Permanent    | Badge/ADP     |
 | Employment verification letter | If available | PAC           |
 
 ### Medical
@@ -50,7 +50,7 @@ Workday access is often restricted once you go on extended leave. Download what 
 
 ## Creating Your File
 
-Store copies outside Workday — personal cloud drive (Google Drive, iCloud) or email to yourself. Your spouse/partner should also have access in case you cannot log in.
+Store copies outside ADP — personal cloud drive (Google Drive, iCloud) or email to yourself. Your spouse/partner should also have access in case you cannot log in.
 
 ## Quick Reference Card
 
@@ -106,9 +106,9 @@ The plan document names The Hartford, but Aetna now administers some claims. Cal
 
 Set a monthly reminder to:
 
-- [ ] Screenshot sick bank balance (hours) in Workday
-- [ ] Screenshot DSA balance (hours) in Workday
-- [ ] Download new pay stubs via Workday → Pay → Pay Statements
+- [ ] Screenshot sick bank balance (hours) in VIPS
+- [ ] Screenshot DSA balance (hours) in VIPS
+- [ ] Download new pay stubs via ADP
 
 ## Complete Checklist
 
@@ -116,7 +116,7 @@ Use this checklist to verify preparation:
 
 ### Employment Documents
 
-- [ ] Last 18 months of pay stubs downloaded from Workday
+- [ ] Last 18 months of pay stubs downloaded from ADP
 - [ ] W-2 forms for past 2-3 years saved (Box 14 shows CA SDI withheld)
 - [ ] Employee ID number documented
 
@@ -144,7 +144,7 @@ Use this checklist to verify preparation:
 
 ### Organization
 
-- [ ] Cloud backup in place outside Workday (Google Drive, iCloud, or emailed to yourself)
+- [ ] Cloud backup in place outside ADP (Google Drive, iCloud, or emailed to yourself)
 - [ ] Spouse/partner can independently access the files
 - [ ] Quick reference card created with key phone numbers
 
