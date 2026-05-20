@@ -7,19 +7,17 @@ order: 5
 
 # LTD Cooperation Requirements
 
-Your continued eligibility for LTD benefits depends on meeting specific cooperation requirements. Failure to cooperate can result in suspension or termination of your benefits.
+Your continued eligibility for LTD benefits depends on meeting specific cooperation requirements. Failure to cooperate can result in suspension or termination of benefits.
 
 ## CBA Requirements (Section 27.J.4)
 
-According to the Collective Bargaining Agreement:
-
 > "In order for a pilot to continue to be eligible for a disability benefit under the LTD Plan, the pilot must fully cooperate with the Claims Paying Administrator, in coordination with the Aeromedical Advisor, and must diligently seek restoration of any required license or medical certificate to allow the pilot to return to work."
 
-This establishes **three core requirements**:
+**Three core requirements:**
 
-1. Cooperate with Claims Paying Administrator
-2. Coordinate with Aeromedical Advisor
-3. Diligently seek medical certificate restoration
+1. Cooperate with the Claims Paying Administrator
+2. Coordinate with the Aeromedical Advisor
+3. Diligently seek FAA medical certificate restoration
 
 ---
 
@@ -29,147 +27,62 @@ This establishes **three core requirements**:
 
 You must:
 
-- **Respond promptly** to all information requests
-- **Provide complete information** when asked
-- **Submit to examinations** when reasonably requested
-- **Allow access** to medical records (with proper authorization)
-- **Report changes** in your condition or circumstances
-- **Attend appointments** scheduled by the administrator
+- Respond to information requests within the stated deadline (typically 10-15 business days for written, 5 days for phone)
+- Attend Independent Medical Examinations (IMEs) as requested — the administrator covers travel expenses
+- Attend Functional Capacity Evaluations (FCEs) when scheduled — typically 4-8 hours of physical testing
+- Report changes in your condition, work status, or other income sources
+- Authorize access to your medical records
 
 ### Typical Requests You'll Receive
 
-**Regular updates (every 30-90 days):**
-- Current medical status
-- Treatment received
-- Changes in condition
-- Work status
-- Other income sources
+**Regular status updates (every 30-90 days):**
+- Current medical status, treatment received, changes in condition
+- Work status and any outside income sources (required for offset calculation)
 
 **Medical documentation:**
-- Doctor visit notes
-- Test results
-- Treatment plans
-- Medication lists
-- Specialist reports
+- Visit notes, test results, treatment plans, medication lists, specialist reports
 
-**Independent Medical Examinations (IMEs):**
-- Administrator may request you see their doctor
-- Travel may be required (they typically cover expenses)
-- Must attend unless medically contraindicated
-- Doctor will evaluate your condition and restrictions
+**IMEs:** The administrator's physician evaluates your condition — attending is mandatory unless your treating physician documents a medical contraindication in writing.
 
-**Functional Capacity Evaluations (FCEs):**
-- Physical testing of your abilities
-- Typically conducted by occupational therapist
-- Duration: 4-8 hours
-- Measures what you can/cannot do physically
-
-### Response Timeframes
-
-**Typical deadlines:**
-- Written requests: 10-15 business days
-- Phone requests: 5 business days
-- Urgent requests: 24-48 hours
-- IME appointments: Must attend as scheduled
+**FCEs:** Occupational therapist tests physical work capacity. Results are often used at the 24-month "any occupation" transition. Request a copy of the FCE report immediately after completion.
 
 ::callout{type="warning" title="Missing Deadlines Has Consequences"}
-Failure to respond within specified timeframes may result in:
-- Benefit suspension pending response
-- Denial of continued benefits
-- Requirement to appeal any adverse decision
+Failure to respond within specified timeframes may result in benefit suspension pending response, or outright denial of continued benefits requiring an appeal to restore.
 ::
 
-### How to Cooperate Effectively
+### How to Respond Effectively
 
-**Best practices:**
-
-1. **Keep a log** of all communications
-   - Date and time
-   - Person contacted
-   - Summary of discussion
-   - Follow-up items
-
-2. **Respond in writing** when possible
-   - Creates documentation
-   - Allows you to be thorough
-   - Provides proof of compliance
-
-3. **Meet deadlines**
-   - Set calendar reminders
-   - Don't wait until last day
-   - Request extensions if needed (before deadline)
-
-4. **Be thorough but concise**
-   - Answer all questions asked
-   - Don't volunteer unnecessary information
-   - Stick to medical facts
-
-5. **Keep copies of everything**
-   - All forms submitted
-   - All letters received
-   - All medical records sent
+1. Respond in writing (email is fine) rather than by phone — creates a timestamped record
+2. Follow every phone call with a brief written summary: "Per our call today, you confirmed that…"
+3. Request a deadline extension in writing before the deadline if you need more time — don't let it expire silently
+4. Provide complete answers; do not volunteer medical or financial information beyond what the specific request asks for
+5. Keep copies of everything submitted
 
 ---
 
 ## 2. Coordinate with Aeromedical Advisor
 
-### Who Is the Aeromedical Advisor?
+### What the Aeromedical Advisor Is
 
-The Aeromedical Advisor is:
-- A physician employed by or contracted with FedEx
-- Specializes in aviation medicine
-- Advises on return-to-work planning
-- Coordinates with FAA on medical certification issues
+The Aeromedical Advisor is a physician employed by or contracted with FedEx, specializing in aviation medicine. They advise on return-to-work planning and coordinate with the FAA on medical certification issues. They work for FedEx — not for you.
 
 ### Your Responsibilities
 
 **You must:**
-
-- Respond to Aeromedical Advisor requests
-- Attend appointments when scheduled
+- Attend scheduled appointments with the Aeromedical Advisor
 - Provide medical records as requested
-- Discuss your medical certification path
-- Follow reasonable recommendations
+- Discuss your FAA medical certification path and prognosis
 
 **You do NOT have to:**
 - Accept the Aeromedical Advisor as your treating physician
-- Follow treatment recommendations from Aeromedical Advisor
-- Disclose information beyond what's relevant to work capacity
-
-### Typical Interactions
-
-**Initial contact:**
-- Usually occurs early in disability
-- Review of medical condition
-- Discussion of prognosis
-- Identification of barriers to return to work
-
-**Ongoing coordination:**
-- Updates on medical status
-- Discussion of treatment progress
-- Planning for medical certification
-- Identification of work restrictions
-
-**Return-to-work planning:**
-- Assessment of work capacity
-- Discussion of accommodations
-- Coordination with flight operations
-- FAA medical certification strategy
+- Follow treatment recommendations from the Aeromedical Advisor
+- Disclose medical information unrelated to your ability to perform work duties
 
 ### Protecting Your Interests
 
-While cooperating:
-
-1. **Understand the role** - Aeromedical Advisor works for FedEx, not for you
-2. **Have your own doctor** - Maintain independent medical care
-3. **Know your rights** - You can decline treatment recommendations
-4. **Document everything** - Keep records of all interactions
-5. **Seek second opinions** - If medical opinions differ significantly
-
-**Consider ALPA assistance:**
-- ALPA Aeromedical Office can advise you
-- ALPA can help navigate FAA certification
-- ALPA R&I committee can address disputes
+- Maintain your own independent treating physician — the Aeromedical Advisor's opinion does not control your LTD eligibility, but it will appear in your claim file
+- Contact the ALPA Aeromedical Office before any significant Aeromedical Advisor interaction — ALPA can advise on what to expect and flag unreasonable requests
+- If the Aeromedical Advisor's opinion differs materially from your treating physician's, obtain a written rebuttal from your doctor for the claim file
 
 ---
 
@@ -177,232 +90,94 @@ While cooperating:
 
 ### What "Diligent Effort" Means
 
-You must **actively work** toward restoring your FAA medical certificate when it is possible to do so.
+You must actively pursue restoration of your FAA first-class medical when a pathway exists.
 
 **Required efforts:**
 
-- **Comply with treatment** recommended by your treating physicians
-- **Follow up with specialists** as needed
-- **Work with AMEs** (Aviation Medical Examiners) on certification path
-- **Pursue FAA Special Issuance** if available
-- **Engage with HIMS** if substance-related issue
-- **Document all efforts** made toward certification
-
-### When This Applies
-
-**You must seek restoration if:**
-- Your condition is potentially improvable
-- Treatment options are available
-- FAA certification pathways exist
-- Your disability may be temporary
-
-**You are NOT required to:**
-- Undergo high-risk experimental treatments
-- Accept treatments that contradict your doctor's advice
-- Pursue certification if condition is permanent and untreatable
+- Comply with treatment prescribed by your treating physicians
+- Consult with an Aviation Medical Examiner (AME) to identify the FAA Special Issuance pathway for your condition
+- Submit FAA Special Issuance applications with required documentation
+- Participate in HIMS (Human Intervention Motivation Study) if your condition involves substance use
+- Follow up with specialists as needed to support the certification path
 
 ### What Counts as "Diligent Effort"
 
-**Examples of compliance:**
+**Compliant:**
 
-✅ Attending all scheduled doctor appointments
-✅ Following prescribed treatment plans
-✅ Taking medications as prescribed
-✅ Completing physical therapy
-✅ Meeting with AME to discuss certification path
-✅ Submitting FAA Special Issuance applications
-✅ Gathering required medical documentation
-✅ Participating in HIMS program (if applicable)
-✅ Consulting with specialists as recommended
+- Attending all scheduled physician appointments
+- Taking medications as prescribed
+- Completing prescribed physical therapy
+- Meeting with an AME to map out the Special Issuance process
+- Submitting FAA applications and responding to FAA requests
+- Participating in required HIMS monitoring
 
-**Examples of non-compliance:**
+**Non-compliant:**
 
-❌ Missing medical appointments without cause
-❌ Refusing recommended treatment without valid reason
-❌ Not taking prescribed medications
-❌ Failing to follow up with specialists
-❌ Not engaging with AME or FAA process
-❌ Refusing to provide medical documentation
+- Missing medical appointments without cause
+- Refusing prescribed treatment without a valid documented reason
+- Failing to engage with an AME when a certification pathway exists
+- Not responding to FAA correspondence
+
+### You Are NOT Required To
+
+- Undergo high-risk or experimental treatments
+- Accept treatments your treating physician advises against
+- Pursue certification if your condition is permanent and no FAA pathway exists — document permanence with medical records
 
 ### Documenting Your Efforts
 
-**Keep records of:**
+Keep a running log of:
+- Medical appointments (date, provider, purpose)
+- AME consultations and their recommendations
+- FAA correspondence and application dates
+- HIMS program enrollment and attendance records
+- Specialist referrals and evaluations
 
-- All medical appointments (dates, providers, purpose)
-- Treatment compliance (medications, therapy, etc.)
-- AME consultations and recommendations
-- FAA correspondence and applications
-- Specialist evaluations
-- HIMS participation (if applicable)
-
-**Why documentation matters:**
-- Proves you're meeting requirements
-- Protects against benefit termination
-- Supports appeals if benefits are denied
-- Demonstrates good faith effort
-
-### Special Situations
-
-**Condition is permanent:**
-- Provide medical documentation showing permanence
-- May not be required to pursue certification
-- Focus on managing condition and quality of life
-
-**Multiple treatment options:**
-- Must pursue reasonable options
-- Can choose among equivalent treatments
-- Can decline high-risk or experimental treatments
-
-**Financial barriers:**
-- Medical costs typically covered by insurance
-- Administrator may assist with certification costs
-- Contact ALPA if financial issues prevent compliance
+This log is your defense if the administrator claims you are not making diligent effort. It also supports an appeal if benefits are terminated on cooperation grounds.
 
 ---
 
 ## Consequences of Non-Cooperation
 
-### Benefit Suspension
-
-**First consequence:**
-- Administrator sends warning letter
-- Specifies what's needed
-- Provides deadline to comply
-- Benefits may continue pending response
-
-### Benefit Termination
-
-**If non-cooperation continues:**
-- Benefits terminated
-- Must appeal to restore
-- Burden on you to prove cooperation
-- May lose benefits permanently
-
-### Repayment Requirements
-
-**In some cases:**
-- May be required to repay benefits received
-- Especially if non-cooperation was fraudulent
-- Can create significant financial hardship
+| Step | What Happens |
+|------|--------------|
+| First failure to respond | Administrator sends warning letter with new deadline; benefits may continue pending response |
+| Continued non-cooperation | Benefits terminated; you must appeal and carry the burden of proving cooperation |
+| Fraudulent non-disclosure | Potential repayment of benefits already received |
 
 ---
 
 ## Your Rights
 
-While you must cooperate, you also have rights:
+You must cooperate, but you also have enforceable rights:
 
-### You Can:
+**You can:**
+- Challenge requests that are unreasonable in scope or timing — put the objection in writing citing the specific concern
+- Request an extension before a deadline expires
+- Decline to see any specific doctor beyond a court-ordered IME
+- Refuse treatment your own physician advises against
+- Appeal any adverse decision within 180 days
 
-- **Question requests** that seem unreasonable
-- **Request clarification** of requirements
-- **Seek extensions** when needed
-- **Refuse unreasonable demands**
-- **Appeal adverse decisions**
-- **Get ALPA representation**
-
-### You Cannot Be Required To:
-
-- Accept specific medical treatment against your will
-- See specific doctors (beyond IMEs)
-- Disclose information unrelated to work capacity
-- Travel excessive distances without accommodation
-- Take actions that violate your doctor's orders
+**You cannot be required to:**
+- Travel an unreasonable distance for an IME without cost coverage
+- Disclose medical information unrelated to your work capacity
+- Take actions that violate your treating physician's orders
 
 ---
 
 ## Getting Help
 
-### When to Seek Assistance
+Contact ALPA R&I committee (ri@alpa.org) if:
 
-Contact ALPA R&I committee if:
-
-- You're unsure whether a request is reasonable
-- You're having trouble meeting requirements
-- You've received a warning letter
-- Benefits have been suspended or terminated
-- You believe requirements are being applied unfairly
-
-### Resources
-
-- **ALPA Retirement & Insurance:** ri@alpa.org
-- **ALPA Aeromedical Office:** For FAA certification guidance
-- **FedEx Benefits Service Center:** 1-855-545-4748
-- **Disability attorney:** If facing benefit termination
-
----
-
-## Best Practices for Compliance
-
-### Create a System
-
-1. **Use a calendar**
-   - Mark all deadlines
-   - Set reminders 1 week before
-   - Track all appointments
-
-2. **Maintain a binder**
-   - Section for LTD correspondence
-   - Section for medical records
-   - Section for FAA documents
-   - Communication log
-
-3. **Respond promptly**
-   - Don't procrastinate
-   - Address requests as soon as received
-   - Request extensions early if needed
-
-4. **Be proactive**
-   - Provide updates without being asked
-   - Inform administrator of changes
-   - Demonstrate active engagement
-
-5. **Document everything**
-   - Every phone call
-   - Every letter
-   - Every appointment
-   - Every effort made
-
-### Communication Tips
-
-**When responding to requests:**
-
-- Be professional and courteous
-- Answer all questions asked
-- Provide complete information
-- Don't volunteer irrelevant details
-- Keep copies of everything
-- Follow up to confirm receipt
-
-**Sample response structure:**
-
-```
-Dear [Claims Administrator],
-
-I received your request dated [date] for [specific items].
-
-1. [First item requested]: [Your response/attached document]
-2. [Second item requested]: [Your response/attached document]
-3. [Third item requested]: [Your response/attached document]
-
-I have attached the following documents:
-- [List all attachments]
-
-Please confirm receipt of this information. If you need any
-additional information, please contact me at [phone/email].
-
-Sincerely,
-[Your name]
-[Claim number]
-```
+- You receive a warning letter about cooperation
+- The administrator requests something that seems outside the scope of CBA §27.J.4
+- Benefits are suspended or terminated on cooperation grounds
+- You are uncertain whether an IME or FCE request is reasonable
 
 ---
 
 ## Next Steps
 
-- **Understand duration limits** - [How long benefits last](/guide/hartford/duration)
-- **Know your company access rights** - [System access while disabled](/guide/hartford/company-access)
-- **Maintain your records** - [Document organization tips](/guide/preparation/what-to-save)
-
-::callout{type="info" title="Questions About Requirements?"}
-Contact ALPA R&I committee if you're unsure about any cooperation requirements or believe requests are unreasonable.
-::
+- **[Duration Limits](/guide/hartford/duration)** — how long benefits last by condition type
+- **[Company System Access](/guide/hartford/company-access)** — your right to FedEx systems while on disability
+- **[Document Preparation](/guide/preparation/what-to-save)** — what records to keep and where

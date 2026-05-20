@@ -152,37 +152,15 @@ If filing in person, bring:
 
 Don't submit unless specifically requested:
 
-- ❌ Entire medical history
-- ❌ Every pay stub ever
-- ❌ Irrelevant personal documents
-- ❌ Duplicates of documents
-
-More documents ≠ faster processing. Include what's needed and relevant.
-
-## Keeping Copies
-
-**Always Keep Copies Of:**
-
-- Every document you submit
-- Every form you complete
-- All correspondence from EDD
-- Your confirmation number and dates
-
-**Organize By:**
-
-- Date submitted
-- Type of document
-- Whether it was for EDD or Hartford
+- ❌ Complete medical records beyond what certifies the current disability — EDD does not adjudicate medical history
+- ❌ More than 4 recent pay stubs — extra stubs do not change the base period EDD uses
+- ❌ Duplicate documents — re-submission without noting the prior submission date causes manual review delays
 
 ## If EDD Requests Additional Documents
 
-When EDD requests more documentation:
-
-1. **Read the request carefully** - What specifically do they want?
-2. **Respond promptly** - Delays extend your processing time
-3. **Send exactly what's requested** - Don't overwhelm with extras
-4. **Keep copies** - Of everything you send
-5. **Note the date** - When you responded
+1. **Identify what's actually missing** — EDD's request letter specifies Part A or Part B; a missing Part B means your doctor has not yet submitted, not that you need to re-file
+2. **Send exactly what's requested** — over-submission (full medical history, years of pay stubs) does not speed processing and can trigger manual review
+3. **Note "Previously submitted on [date]"** if re-sending something you've already provided — EDD sometimes re-requests documents already in the file
 
 ::callout{type="warning" title="EDD May Re-Request"}
 EDD sometimes requests documents you've already sent. When responding, note "Previously submitted on [date]" and send again anyway.
@@ -208,9 +186,8 @@ Use this checklist before filing:
 
 **Organized and Accessible:**
 
-- [ ] All documents saved digitally
-- [ ] Printed copies if filing in person
-- [ ] Contact info if EDD needs to reach you
+- [ ] Confirmation number saved and given to physician for Part B
+- [ ] Printed copies if filing in person at an EDD office
 
 ## Next Steps
 

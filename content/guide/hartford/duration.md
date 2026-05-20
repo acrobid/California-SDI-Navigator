@@ -7,18 +7,16 @@ order: 6
 
 # LTD Duration Limits
 
-Not all disabilities have the same maximum benefit duration. Understanding the limits for your specific condition type is essential for long-term financial planning.
+The CBA establishes different maximum benefit periods depending on your diagnosis. The classification of your condition — not just the diagnosis — determines when benefits end.
 
 ## Duration by Condition Type
 
-The CBA establishes different maximum benefit periods depending on your diagnosis:
-
-| Condition Type | Maximum Duration | Notes |
-|----------------|------------------|-------|
-| **General Physical** | Until recovery or age 65 | No fixed time limit |
-| **Mental Health** | 60 months | 5 years maximum |
-| **Substance Abuse** | 18 months | 12 base + 6 recertification |
-| **Substance Abuse (Legacy)** | 26 weeks | For disabilities before Nov 2, 2015 |
+| Condition Type | Maximum Duration | CBA Section |
+|----------------|------------------|-------------|
+| **General Physical** | Until recovery or age 65 | 27.J.2 |
+| **Mental Health** | 60 months (5 years) | 27.J.10 |
+| **Substance Abuse** (after Nov 2, 2015) | 18 months (12 base + 6 recertification) | 27.J.11 |
+| **Substance Abuse** (before Nov 2, 2015) | 26 weeks | 27.J.11 legacy |
 
 ---
 
@@ -26,53 +24,22 @@ The CBA establishes different maximum benefit periods depending on your diagnosi
 
 ### Duration (CBA Section 27.J.2)
 
-**Benefits continue until:**
+Benefits continue until you recover and return to flying **or** reach **age 65** — no fixed time limit for most physical conditions.
 
-1. You recover and return to work, **OR**
-2. You reach **age 65**
-
-**No fixed time limit** for most physical conditions.
-
-### Examples of General Physical Disabilities
-
-- Back injuries
-- Heart conditions
-- Cancer
-- Neurological disorders (non-mental)
-- Orthopedic injuries
-- Most FAA-disqualifying medical conditions
-
-### What "Until Recovery" Means
+### What Keeps Benefits Active
 
 Benefits continue as long as:
-- You meet the disability definition
-- You're unable to perform your occupation (first 24 months)
-- You're unable to perform any occupation (after 24 months)
-- You're under active medical care
-- You meet cooperation requirements
+- You meet the disability definition (own occupation for months 1-24; any occupation after month 24)
+- You are under active medical care
+- You meet cooperation requirements (CBA §27.J.4)
 
-::callout{type="info" title="Most Pilot Disabilities"}
-Most medical conditions that prevent pilots from flying fall into this category and have no fixed time limit before age 65.
+::callout{type="warning" title="The 24-Month Transition Is the Most Common Termination Point"}
+Many conditions that qualify under "own occupation" (unable to hold a first-class medical) do not qualify under "any occupation." At month 24, the administrator will conduct a vocational analysis. Build your medical record to address the "any occupation" standard before that review.
 ::
 
-### Age 65 Limit
+### Age 65 Cutoff
 
-**Why age 65?**
-- Standard retirement age for many plans
-- Social Security full retirement age (for many)
-- CBA-specified end point
-
-**At age 65:**
-- LTD benefits cease
-- Medicare becomes available
-- Social Security retirement benefits begin
-- May have pension benefits
-
-**Planning for age 65:**
-- Ensure Social Security is in order
-- Review Medicare enrollment
-- Confirm pension benefits
-- Consider supplemental insurance
+LTD benefits cease at age 65 regardless of continued disability. Coordinate Social Security retirement and Medicare enrollment in advance — Medicare Part B enrollment has a limited open window.
 
 ---
 
@@ -80,55 +47,29 @@ Most medical conditions that prevent pilots from flying fall into this category 
 
 ### 60-Month Maximum (CBA Section 27.J.10)
 
-**Duration:** Maximum of **60 months** (5 years)
-
 > "The duration of the LTD Plan benefits for mental disorders, as currently defined in the LTD Plan, shall remain at a maximum of 60 months."
+
+Benefits end at 60 months even if you remain fully disabled.
 
 ### What Qualifies as "Mental Disorder"
 
-The LTD Plan document defines mental disorders. Typically includes:
+**Typically included (DSM-defined):**
+- Major depression, anxiety disorders, bipolar disorder, schizophrenia
+- PTSD if it is the primary disabling diagnosis
+- Personality disorders, eating disorders
 
-**Commonly included:**
-- Depression
-- Anxiety disorders
-- Bipolar disorder
-- Schizophrenia
-- Personality disorders
-- PTSD (if primary diagnosis)
-- Eating disorders
-- Other DSM-defined mental illnesses
-
-**May be excluded:**
-- Dementia (often treated as physical/neurological)
-- Brain injury (physical cause)
+**May be excluded (physical/neurological basis):**
+- Dementia
+- Traumatic brain injury
 - Neurological disorders with psychiatric symptoms
 
-::callout{type="warning" title="Check Your Diagnosis"}
-The specific classification of your condition matters. A condition with both physical and mental components may be classified either way.
+::callout{type="warning" title="Diagnosis Classification Controls Duration — Challenge It If Wrong"}
+If your condition has both physical and neurological components (e.g., TBI causing cognitive and psychiatric symptoms), the administrator's classification as "mental disorder" triggers the 60-month cap. Obtain neuropsychological testing and specialist documentation showing a physical basis before month 60.
 ::
-
-### After 60 Months
-
-**Benefits end even if:**
-- You remain disabled
-- You're still unable to work
-- You haven't recovered
-
-**Options after 60 months:**
-- Social Security Disability (if eligible)
-- ALPA supplemental disability (if applicable)
-- Personal disability insurance (if you have it)
-- Return to work if able
 
 ### Mixed Diagnoses
 
-**If you have both physical and mental conditions:**
-
-The administrator will determine:
-- Which is the **primary** disabling condition
-- Whether the 60-month limit applies
-
-**Example scenarios:**
+The administrator determines which condition is the **primary** disabling condition:
 
 **Scenario 1: Mental health primary**
 ```
@@ -144,20 +85,24 @@ Duration: No fixed limit (until recovery or age 65)
 
 **Scenario 3: Sequential conditions**
 ```
-Years 1-3: Back injury (physical)
-Year 4: Depression develops
-Duration: Depression gets its own 60-month clock
+Years 1-3: Back injury (physical disability)
+Year 4: Depression develops as separate disabling condition
+Duration: Depression gets its own 60-month clock from onset
 ```
 
-### Challenging the Classification
+### Challenging a Mental Health Classification
 
-If you believe your condition is wrongly classified as mental health:
+1. Obtain medical documentation establishing the physical or neurological basis for your condition
+2. Request neuropsychological testing if cognitive impairment is involved
+3. Get an independent evaluation from a specialist (neurologist, physiatrist) — not just your treating psychiatrist
+4. File an appeal of the classification decision through the administrator
+5. Use the PBRB process if internal appeal fails
 
-1. **Get medical documentation** showing physical basis
-2. **Neuropsychological testing** may help
-3. **Independent medical evaluation** from specialist
-4. **Appeal the classification** through administrator
-5. **Use PBRB process** if needed
+### After 60 Months
+
+- Apply for SSDI if not already awarded (applications take 12-24 months — apply no later than month 48)
+- Review ALPA supplemental disability coverage if you enrolled
+- Consult a vocational rehabilitation counselor if any partial work capacity exists
 
 ---
 
@@ -167,71 +112,29 @@ If you believe your condition is wrongly classified as mental health:
 
 **For disabilities beginning after November 2, 2015:**
 
-**Base duration:** 12 months
+- **Base period:** 12 months at 60% of monthly earnings
+- **Extension:** Up to 6 additional months if actively pursuing FAA recertification through HIMS
 
-**Extension available:** Up to 6 additional months if:
-- You're actively seeking FAA medical recertification
-- You're participating in required programs (e.g., HIMS)
-- You're complying with treatment
+**Total maximum:** 18 months — a hard stop regardless of continued disability.
 
-**Total maximum:** 18 months
+### To Qualify for the 6-Month Extension
 
-### What Qualifies
-
-**Substance abuse includes:**
-- Alcohol use disorder
-- Drug abuse or dependence
-- Prescription medication abuse
-- Any substance-related FAA medical disqualification
-
-**Verification requirements:**
-- Diagnosis from qualified professional
-- May require substance abuse evaluation
-- HIMS evaluation if seeking medical recertification
-
-### The 6-Month Recertification Extension
-
-**To qualify for the additional 6 months:**
-
-Must demonstrate:
-- Active participation in HIMS program (or equivalent)
-- Regular attendance at required meetings/counseling
-- Compliance with monitoring requirements
-- Active pursuit of FAA Special Issuance
-- Progress toward medical recertification
-
-**Documentation required:**
-- HIMS program enrollment
-- Attendance records
-- Monitoring reports (e.g., drug testing)
-- AME reports
-- FAA correspondence
-
-::callout{type="info" title="HIMS Program"}
-HIMS (Human Intervention Motivation Study) is the FAA-approved program for pilots seeking medical certification after substance-related issues.
-::
+Must demonstrate active participation in:
+- HIMS program enrollment with attendance records
+- Required monitoring (drug testing, counseling)
+- FAA Special Issuance process with AME correspondence
+- Progress documentation submitted to the administrator
 
 ### Legacy Rule: 26-Week Maximum
 
-**For disabilities beginning before November 2, 2015:**
+For disabilities beginning before November 2, 2015: maximum is 26 weeks with no extension.
 
-**Maximum:** 26 weeks (approximately 6 months)
+### After Benefits End (18 Months)
 
-No extension available under the old rule.
-
-### After Benefits End
-
-**Options when 18-month (or 26-week) limit is reached:**
-
-1. **Return to work** - If FAA medical certificate restored
-2. **SSDI** - If condition continues and you qualify
-3. **ALPA supplemental** - If you have coverage
-4. **Career transition** - Consider non-flying positions
-
-**Even if still disabled:**
-- LTD benefits end at 18 months
-- This is a hard stop regardless of continued disability
-- Plan accordingly during your benefit period
+1. **Return to work** if FAA medical certificate has been restored through HIMS
+2. **SSDI** if the condition prevents all substantial gainful activity and you qualify (file early — process takes 12-24 months)
+3. **ALPA supplemental disability** if you enrolled before disability
+4. **Non-flying positions** at FedEx or elsewhere if medically able
 
 ---
 
@@ -241,15 +144,15 @@ No extension available under the old rule.
 
 ```
 Age at disability: 45
-Condition: Herniated disc, unable to hold FAA medical
+Condition: Herniated disc, unable to hold FAA first-class medical
 
 Benefit timeline:
-  Months 1-24:   60% of monthly earnings
-  Months 25+:    50% of monthly earnings
-  Until:         Recovery or age 65 (20 years possible)
+  Months 1-24:   60% of monthly earnings (own occupation standard)
+  Months 25+:    50% of monthly earnings (any occupation standard)
+  Until:         Recovery or age 65 (up to 20 years)
 ```
 
-### Example 2: Depression (Mental Health)
+### Example 2: Major Depression (Mental Health)
 
 ```
 Age at disability: 50
@@ -258,8 +161,8 @@ Condition: Major depressive disorder
 Benefit timeline:
   Months 1-24:   60% of monthly earnings
   Months 25-60:  50% of monthly earnings
-  Month 61:      Benefits end (5-year limit)
-  Age at end:    54 years, 2 months
+  Month 61:      Benefits end — hard stop at 5 years
+  Age at cutoff: 54 years, 2 months
 ```
 
 ### Example 3: Alcohol Use Disorder (Substance Abuse)
@@ -271,12 +174,12 @@ HIMS participation: Yes
 
 Benefit timeline:
   Months 1-12:   60% of monthly earnings (base period)
-  Months 13-18:  60% of monthly earnings (extension due to HIMS)
-  Month 19:      Benefits end (18-month limit)
-  Age at end:    49 years, 6 months
+  Months 13-18:  60% of monthly earnings (HIMS extension)
+  Month 19:      Benefits end regardless of certification status
+  Age at cutoff: 49 years, 6 months
 ```
 
-### Example 4: Mixed Condition
+### Example 4: Mixed Condition — Physical Primary
 
 ```
 Age at disability: 52
@@ -288,81 +191,46 @@ Classification: Physical (primary)
 Benefit timeline:
   Months 1-24:   60% of monthly earnings
   Months 25+:    50% of monthly earnings
-  Until:         Recovery or age 65 (13 years possible)
+  Until:         Recovery or age 65 (up to 13 years)
 
-Note: Anxiety is secondary and doesn't trigger 60-month limit
+Note: Anxiety as secondary diagnosis does not trigger 60-month limit
 ```
 
 ---
 
-## Planning Considerations
+## Planning by Condition Type
 
-### If You Have a Mental Health or Substance Abuse Condition
+### Mental Health or Substance Abuse: Act Early
 
-**Start planning early:**
+| Month | Action |
+|-------|--------|
+| 1 | Confirm your condition's classification in writing with the administrator |
+| 12 | Begin SSDI application if not yet filed (takes 12-24 months) |
+| 16 (substance abuse) | Finalize post-benefit income plan |
+| 24 | Confirm SSDI is in process; review ALPA supplemental coverage |
+| 48 (mental health) | Finalize post-benefit transition; verify SSDI status |
 
-1. **Month 1:** Understand your time limit
-2. **Month 12:** Begin exploring backup plans
-3. **Month 24:** Actively pursue alternatives
-4. **Month 48:** (Mental health) Finalize transition plan
-5. **Month 16:** (Substance abuse) Finalize transition plan
+### If Your Condition Is Misclassified
 
-**Consider:**
-- SSDI application (can take 12-24 months)
-- ALPA supplemental insurance
-- Vocational rehabilitation
-- Career transition planning
-- Return-to-work options
-
-### Financial Planning
-
-**With time-limited benefits:**
-
-- Budget based on shorter duration
-- Don't assume benefits will continue indefinitely
-- Plan for income gap at end of benefits
-- Consider working with financial advisor
-- Explore other income sources
-
-### Return to Work Attempts
-
-**Before benefits end:**
-
-- Try to restore FAA medical if possible
-- Consider alternative positions
-- Explore accommodated return to work
-- Document all efforts
+Challenging a classification from mental health to physical can be the difference between 5 years and benefits to age 65. If your condition has any physical or neurological component, obtain specialist documentation before the administrator's classification becomes final — correcting it after denial requires an appeal.
 
 ---
 
 ## Appealing Duration Limit Decisions
 
-### If You Disagree with Classification
-
-**Steps to take:**
-
-1. **Request detailed explanation** of classification
-2. **Obtain supporting medical opinions**
-3. **Gather evidence** of physical basis (if applicable)
-4. **Submit appeal** with documentation
-5. **Use PBRB process** if internal appeal fails
-
-### Getting Help
-
-**Resources:**
-
-- **ALPA R&I Committee:** For CBA interpretation
-- **Disability attorney:** For complex cases
-- **Medical specialists:** For diagnosis clarification
+1. Request the administrator's written explanation of your condition classification and the policy language used
+2. Obtain independent specialist opinions that support a different classification
+3. Submit an appeal with all supporting medical documentation within **180 days** of the decision
+4. Use the PBRB process if internal appeal fails (ALPA R&I: ri@alpa.org)
 
 ---
 
 ## Related Topics
 
-- **Eligibility triggers** - [When LTD begins](/guide/hartford/eligibility)
-- **Benefit calculations** - [How much you'll receive](/guide/hartford/calculation)
-- **Cooperation requirements** - [What's required to maintain benefits](/guide/hartford/cooperation)
+- **[Eligibility Triggers](/guide/hartford/eligibility)** — when LTD begins
+- **[Benefit Calculation](/guide/hartford/calculation)** — how much you'll receive
+- **[Cooperation Requirements](/guide/hartford/cooperation)** — what's required to maintain benefits
 
 ::callout{type="warning" title="Know Your Time Limit"}
-Understanding your specific duration limit is critical for financial planning. Don't assume your benefits will continue indefinitely—verify your condition classification early.
+Verify your condition classification in writing at the start of your claim. Do not assume benefits will continue indefinitely — a mental health classification caps benefits at 60 months even if you remain fully disabled.
 ::

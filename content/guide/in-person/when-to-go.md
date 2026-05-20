@@ -7,198 +7,83 @@ order: 1
 
 # When to Go In Person to EDD
 
-In-person visits to EDD can be extremely helpful—but also time-consuming. Here's when it's worth it.
-
 ## Good Reasons to Go In Person
 
 ### Your Claim Is Stuck
 
-**Signs your claim is stuck:**
-
 - No status change for 3+ weeks
-- Online status says "Pending" for too long
-- You've called multiple times without resolution
+- Online status stuck on "Pending"
+- Called multiple times without resolution
 
-**Why in-person helps:**
-
-- Direct access to a representative
-- Can review your file on the spot
-- Often resolves issues that phone cannot
+In-person lets a representative pull your file on the spot and make notations that phone reps cannot.
 
 ### Your Situation Is Complex
 
-**Complex situations include:**
+Pilot variable pay, multiple employers during the base period, or a previous denial are all situations where in-person is worth the wait — you can hand over documentation immediately and have it notated to your file the same day.
 
-- Unusual pay structure (pilots qualify!)
-- Multiple employers during base period
-- Previous denied claim
-- Conflicting information in system
+### You're Approaching the 49-Day Deadline
 
-**Why in-person helps:**
+If you haven't filed by day 49 of your disability and need same-day processing, in-person is the only option that reliably gets it done that day.
 
-- Can explain details directly
-- Provide documentation immediately
-- Representative can notate file
+### Phone Has Failed Repeatedly
 
-### You Need Immediate Resolution
-
-**Time-sensitive situations:**
-
-- Approaching 49-day deadline
-- Urgent financial need
-- Document requests with short deadlines
-
-**Why in-person helps:**
-
-- Same-day processing possible
-- Can submit documents directly
-- Get answers immediately
-
-### Phone Isn't Working
-
-**When phone fails:**
-
-- Can't get through (perpetual hold)
-- Keep getting transferred/disconnected
-- Phone reps can't help with your issue
-
-**Why in-person helps:**
-
-- Guaranteed to speak to someone
-- Higher-level issues can be escalated
-- More thorough review possible
+If the 90-Second Timing Method (see below) hasn't gotten you through after multiple attempts, go in person. You are guaranteed to speak to someone.
 
 ## When NOT to Go In Person
 
-### For Routine Status Checks
-
-- Check online instead
-- Phone is faster for simple questions
-- Save in-person visits for real issues
-
-### When You Just Filed
-
-- Give your claim 2-3 weeks to process
-- Initial waiting is normal
-- Going too early accomplishes nothing
-
-### If You're Missing Documents
-
-- Get your documents ready first
-- Going without what you need wastes time
-- Prepare completely before visiting
+- You filed fewer than 2-3 weeks ago — initial processing time is normal
+- Your question is answerable online or by phone
+- You don't have all needed documents yet — collect them first or you'll be sent home
 
 ## What to Expect
 
-### Wait Times
-
 ::callout{type="warning" title="Long Waits"}
-EDD offices typically have 4-6+ hour wait times. Some pilots report full-day waits. Plan accordingly.
+EDD offices typically have 4-6+ hour wait times. Some pilots report full-day waits. Tickets are issued first-come, first-served when doors open.
 ::
 
-**How the system works:**
-
-1. Arrive before office opens
+1. Arrive 30-60 minutes before opening
 2. Get a numbered ticket when doors open
-3. Wait to be called
-4. Meet with representative
+3. Wait to be called — afternoons often have no tickets remaining
+4. Representative reviews your file, accepts documents, and notates your record
 
-### The Experience
-
-**Typical visit:**
-
-- Arrive 30-60 minutes before opening
-- Line forms outside before doors open
-- Limited tickets issued each day
-- Plan for 4-6 hours minimum
-
-### What Happens at Your Turn
-
-A representative will:
-
-1. Review your claim on their system
-2. Ask clarifying questions
-3. Accept any documents you have
-4. Make notations in your file
-5. Provide guidance on next steps
-
-## Making the Most of Your Visit
-
-### Before You Go
-
-1. **Have clear goals** - Know exactly what you need resolved
-2. **Gather all documents** - See [What to Bring](/guide/in-person/what-to-bring)
-3. **Prepare a summary** - Written summary of your situation
-4. **Check office hours** - Confirm open days/hours
-5. **Verify address** - Use the correct office location
-
-### During Your Visit
-
-1. **Have everything organized** - All documents ready and accessible
-2. **Write down what you're told** - Record specific instructions and next steps
-3. **Note who you speak with** - Get representative names and ID numbers for follow-up
-
-### After Your Visit
-
-1. **Document everything** - What was discussed, promised, etc.
-2. **Follow up if needed** - On any action items
-3. **Save any paperwork** - Receipts, printouts, forms
+Get the representative's name and employee ID before you leave.
 
 ## Alternatives to In-Person
 
 ### Before Going In Person, Try:
 
-1. **Online portal** - Many issues can be resolved online
-2. **Phone call** - Early morning, be persistent (see phone strategy below)
-3. **Fax** - For document submissions
-4. **Mail** - For non-urgent items (certified, return receipt)
-5. **State Assembly member** - For unresponsive EDD
+1. **Online portal** — status, certifications, document upload
+2. **Phone (90-Second Timing Method)** — see below
+3. **Fax** — for document submissions
+4. **Mail** — certified with return receipt for non-urgent items
+5. **State Assembly member** — for claims that are completely unresponsive
 
-### Phone Strategy for Getting Through to EDD
+### Phone Strategy: The 90-Second Timing Method
 
-Getting through to a representative at CA EDD can be extremely challenging. The phone system often indicates all lines are busy without even offering a hold option. Here's a proven strategy:
+EDD phone lines open at 8:00 AM. Calls placed after opening hit a "all lines busy" wall instantly.
 
-**The 90-Second Timing Method:**
-
-1. **Practice the phone tree** before the lines open at 8:00 AM. Time yourself navigating to the point where you can request a representative. This typically takes about 90 seconds.
-2. **Call 90 seconds before opening** (at 7:58:30 AM). Navigate through the prompts.
-3. **Time your request** so that you press the option for a representative exactly as the lines open at 8:00 AM.
-4. **Be prepared to wait** - Even with perfect timing, you may still wait 30+ minutes on hold.
-5. **Don't give up** - If you get the "all lines busy" message, you may need to repeat this process multiple times.
-
-This method significantly improves your chances of getting through, though it doesn't guarantee immediate access. Some pilots report needing 60+ attempts before successfully reaching the hold queue.
+1. Practice the phone tree the day before — time yourself navigating to the point where you select a representative. It typically takes about 90 seconds.
+2. Call at 7:58:30 AM and navigate the prompts.
+3. Press the option for a representative exactly as 8:00 AM arrives.
+4. Even with perfect timing, expect 30+ minutes on hold if you get through.
+5. Some pilots report 60+ attempts before reaching the hold queue — if you're in that situation, go in person.
 
 ### Assembly Member Option
 
-Your state Assembly member has an EDD liaison who can:
-
-- Contact EDD on your behalf
-- Escalate stuck claims
-- Get faster responses
-
-**How to use:**
+Your state Assembly member has an EDD liaison who can contact EDD directly, escalate stuck claims, and get faster responses than you can by phone.
 
 1. Find your Assembly member at [findyourrep.legislature.ca.gov](https://findyourrep.legislature.ca.gov)
-2. Contact their district office
-3. Explain you need help with EDD
-4. Provide your claim details
+2. Call their district office and say you need help with an EDD disability claim
+3. Provide your claim number and a brief description of the problem
 
-## Cost-Benefit Analysis
+## Cost-Benefit
 
-### Worth the Trip If:
-
-- Claim stuck for 3+ weeks with no resolution
-- Phone has failed multiple times
-- Complex situation needing explanation
-- Time-sensitive deadline approaching
-- You have a full day available
-
-### Not Worth the Trip If:
-
-- Just filed and waiting normally
-- Simple question answerable by phone
-- Don't have all needed documents
-- Only have a few hours available
+| Go In Person | Don't Go |
+|---|---|
+| Claim stuck 3+ weeks, phone failed | Filed recently, still in normal processing |
+| 49-day deadline within days | Simple question answerable online |
+| Complex pay situation needing explanation | Missing documents — collect first |
+| Full day available | Only a few hours available |
 
 ## Next Steps
 

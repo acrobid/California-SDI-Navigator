@@ -7,8 +7,6 @@ order: 2
 
 # Documenting Your Income
 
-Having comprehensive income documentation is crucial for a smooth SDI claim. This guide covers what to collect and how to organize it.
-
 ## What to Collect
 
 ### Pay Stubs (Last 18 Months)
@@ -27,41 +25,24 @@ Your Workday access may change or be limited if you go on extended leave. Downlo
 
 ### W-2 Forms
 
-Keep your W-2 forms for:
-- The current year (when available)
-- The previous 2 years
+Keep your W-2 forms for the current year (when available) and the previous 2 years. Box 14 shows CA SDI withheld — if this is blank or zero, you may not have been paying into SDI and should verify with HR before filing.
 
-These show:
-- Total CA SDI taxes withheld (Box 14)
-- Total compensation reported to California
-- Verification of employment
+### Flight Records
 
-### Flight Records (Optional but Helpful)
+If EDD questions when you stopped working vs. when sick-bank pay started, these are your proof:
+- PBS bid records (shows scheduled work)
+- Actual trips flown records
+- Sick time usage records from Workday
 
-If you need to prove when you were actually working vs. using sick time:
-- PBS bid records
-- Actual trip flown records
-- Sick time usage records
+::callout{type="warning" title="Sick Pay Looks Like Regular Pay"}
+On FedEx ADP stubs, sick pay often appears under "Regular Pay" on the summary line. Flag every period where sick pay replaced flight pay so you can explain the income drop to EDD without ambiguity.
+::
 
 ## How to Organize
 
-### Create a Timeline
-
-Document your work history:
-
-```
-Month     | Status         | Income
-----------|----------------|--------
-Jan 2025  | Full schedule  | $32,000
-Feb 2025  | Full schedule  | $28,000
-Mar 2025  | Partial sick   | $25,000
-Apr 2025  | Full sick time | $18,000
-May 2025  | Disability     | $0
-```
-
 ### Calculate Quarterly Totals
 
-For your base period, calculate:
+For your base period, identify the highest quarter — this single quarter determines your weekly benefit amount:
 
 ```
 Q1: Jan + Feb + Mar = $____
@@ -71,23 +52,6 @@ Q4: Oct + Nov + Dec = $____
 
 Highest Quarter: $____ (this determines your benefit)
 ```
-
-### Flag Sick Time Usage
-
-Mark any periods where you used sick time or vacation time. This may be important if EDD asks about:
-- When your disability began
-- Why income varied
-- What was "regular" pay vs. sick pay vs. vacation pay
-
-**Understanding Pay Type Distinctions:**
-
-Different types of compensation may be evaluated differently by CA EDD when determining your disability status and benefit amount:
-
-- **Regular flight pay**: Normal working income
-- **Sick pay**: May be counted as income when determining if you're earning less due to disability
-- **Vacation pay**: May be treated differently than sick pay for SDI evaluation purposes
-
-If you have periods with mixed pay types, document them clearly. Understanding these distinctions can be important when working with EDD on your claim. For current policy on how each pay type is evaluated, contact CA EDD directly.
 
 ## Where to Find Documents
 
@@ -100,37 +64,17 @@ If you have periods with mixed pay types, document them clearly. Understanding t
 
 ### Direct Access
 
-If you can't access Workday:
-1. Contact FedEx Benefits Center
-2. Request historical pay information
-3. Allow time for processing
+If Workday is unavailable (common on extended leave — download before you're off):
+1. Contact Jennifer Crisp, FedEx Senior Benefits Advisor (see [Contacts](/contacts)) — she handles EDD pay-verification requests
+2. Request historical pay data as a spreadsheet, not just a letter
 
 ### Bank Records
 
-Your bank can provide:
-- Direct deposit history
-- Payment amounts and dates
-- Backup verification
+Your bank's direct deposit history is backup proof of payment dates and amounts if FedEx-reported data and your stubs conflict.
 
 ## Creating Summary Documents
 
-Consider creating summary documents that are easy for EDD to understand:
-
-### Monthly Income Summary
-
-```
-╔════════════════════════════════════════════════════════════╗
-║  MONTHLY INCOME SUMMARY - [Your Name]                      ║
-║  Employee ID: XXXXX                                        ║
-╠════════════════════════════════════════════════════════════╣
-║  Month     | Gross Pay  | Flight Pay | Sick Pay | Vac Pay ║
-║  ----------|------------|------------|----------|--------- ║
-║  Jan 2025  | $32,000    | $28,000    | $0       | $4,000  ║
-║  Feb 2025  | $28,000    | $26,000    | $0       | $2,000  ║
-║  Mar 2025  | $25,000    | $15,000    | $8,000   | $2,000  ║
-║  Apr 2025  | $18,000    | $0         | $18,000  | $0      ║
-╚════════════════════════════════════════════════════════════╝
-```
+Submit a **Pilot Pay Explanation Letter** with your claim (see [Templates](/templates)). The table below is the quarterly summary to attach — EDD processors are not trained on BLG formulas or bid-month boundaries.
 
 ### Quarterly Summary for Base Period
 
@@ -152,38 +96,14 @@ Consider creating summary documents that are easy for EDD to understand:
 ╚══════════════════════════════════════════════════════╝
 ```
 
-## Digital Organization
-
-Create a folder structure:
-
-```
-SDI_Claim/
-├── Pay_Stubs/
-│   ├── 2024/
-│   └── 2025/
-├── W2_Forms/
-├── Calculations/
-│   ├── quarterly_summary.xlsx
-│   └── highest_quarter.pdf
-├── Medical/
-│   ├── doctor_info.txt
-│   └── medical_records/
-└── Correspondence/
-    ├── EDD/
-    └── Hartford/
-```
-
 ## Checklist
 
-Use this checklist to track document collection:
-
-- [ ] Downloaded last 18 months of pay stubs
-- [ ] Saved W-2 forms (2-3 years)
-- [ ] Calculated quarterly totals for base period
-- [ ] Identified highest quarter
-- [ ] Created summary documents
-- [ ] Saved documents in organized folders
-- [ ] Made backup copies (cloud or external drive)
+- [ ] Downloaded last 18 months of pay stubs from Workday before leave starts
+- [ ] Saved W-2 forms (2-3 years) — Box 14 shows CA SDI withheld
+- [ ] Calculated quarterly totals for base period; identified highest quarter
+- [ ] Flagged every period where sick pay replaced flight pay
+- [ ] Created Quarterly Summary table for EDD submission
+- [ ] Saved copies outside Workday (cloud backup or external drive) in case access is restricted on leave
 
 ## Next Steps
 

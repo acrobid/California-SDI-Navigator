@@ -116,16 +116,16 @@ Many long-term disabilities lead to SSDI applications:
 
 - VA disability: $2,000/month
 - SDI: $7,000/month
-- LTD (gross): $19,446/month
+- LTD (gross): $17,500/month
 
 **Without LTD Offset for VA:**
 
 ```
 VA:  $2,000/month (unchanged)
 SDI: $7,000/month (unchanged)
-LTD: $19,446 - $7,000 = $12,446/month
+LTD: $17,500 - $7,000 = $10,500/month
 
-Total: $2,000 + $7,000 + $12,446 = $21,446/month
+Total: $2,000 + $7,000 + $10,500 = $19,500/month
 ```
 
 This is better than if LTD offset for VA benefits too.

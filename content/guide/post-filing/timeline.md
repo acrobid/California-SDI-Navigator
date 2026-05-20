@@ -43,8 +43,8 @@ Use our [Timeline Generator](/timeline) to create a personalized timeline based 
 
 **Action Required:**
 
-- Provide your doctor with the Claim Receipt Number immediately.
-- Verify through SDI Online that your doctor has submitted Part B.
+- Provide your doctor with the Claim Receipt Number immediately — they need it to link Part B to your claim.
+- Verify through SDI Online that your doctor has submitted Part B within 48 hours of their appointment.
 
 ### Phase 2: Review & Determination (Days 14-28)
 
@@ -56,8 +56,8 @@ Use our [Timeline Generator](/timeline) to create a personalized timeline based 
 
 **Potential Issues:**
 
-- EDD may flag your claim for identity verification (ID.me).
-- EDD may request more information about your pilot pay structure.
+- EDD may flag your claim for identity verification via ID.me — complete this online immediately if prompted.
+- EDD may request more information about your pilot pay structure (variable monthly earnings confuse the automated system).
 
 ### Phase 3: Payment (Days 28-35)
 
@@ -70,20 +70,20 @@ Use our [Timeline Generator](/timeline) to create a personalized timeline based 
 **Payment Method:**
 
 - Default: EDD Debit Card (Bank of America). This is mailed to you automatically.
-- Optional: Direct Deposit. You must enroll for this in your SDI Online account.
+- Optional: Direct Deposit. You must enroll for this in your SDI Online account before your first payment is issued.
 
 ## Long-Term Maintenance
 
 ### Every 2 Weeks: Continued Certification
 
-You must certify every 14 days that you are still disabled and unable to work flight duty. This is done via SDI Online or by mail using Form DE 2500A.
+You must certify every 14 days that you are still disabled and unable to work flight duty. This is done via SDI Online or by mail using Form DE 2500A. **Missing a certification stops payment even if your claim is approved.**
 
 ### Every 1-3 Months: Physician Re-certification
 
-Depending on the duration of your disability, EDD may require your doctor to provide an updated certification (Physician/Practitioner’s Supplementary Certificate - DE 2525XX).
+Depending on the duration of your disability, EDD may require your doctor to provide an updated certification (Physician/Practitioner's Supplementary Certificate — DE 2525XX). Your doctor must use their California medical license number on this form.
 
 ::callout{type="warning" title="Hartford LTD Trigger"}
-Remember, your Hartford LTD benefits typically begin after 180 days. You must keep your SDI claim active and documented, as Hartford will require proof of your SDI status to calculate your LTD offset.
+Hartford LTD benefits typically begin after 180 days. Keep your SDI claim active and documented — Hartford will require proof of your SDI status to calculate your LTD offset.
 ::
 
 | Status     | What It Means                   |
@@ -97,76 +97,52 @@ Remember, your Hartford LTD benefits typically begin after 180 days. You must ke
 
 ## If Things Take Longer
 
-### Normal Delays
-
-Some delays are expected:
-
-- High claim volume periods
-- Quarter-end processing backlogs
-- Holiday periods
-
 ### Signs of a Problem
 
 Contact EDD if:
 
-- No status change after 3 weeks
-- You haven't received any correspondence
-- Status shows "Incomplete" without explanation
-- Your doctor hasn't been contacted
+- No status change after **3 weeks**
+- Status shows "Incomplete" but you haven't received a correspondence explaining what's needed
+- Status shows "Physician Certification Needed" more than 48 hours after your doctor's appointment
 
 ### Escalation Options
 
-1. **Call EDD** - Start with the main line
-2. **Visit in person** - For complex issues
-3. **Contact your Assembly member** - For unresponsive EDD
-4. **ALPA** - Union can sometimes assist
-
-## Continuing Certification
-
-For ongoing disabilities, you must continue to certify:
-
-**Every Two Weeks:**
-
-- Confirm you're still disabled
-- Report any changes
-- Complete online or by mail
-
-::callout{type="danger" title="Don't Miss Certifications"}
-Missing continuing certifications can stop your benefits even if you're approved.
-::
+1. **Call EDD** (1-800-480-3287) — best at 8:00 AM or mid-week; prepare for 45-90 minute waits
+2. **Visit in person** — for complex pay disputes or unresolved Incomplete status
+3. **Contact your CA Assembly member** — they have EDD liaisons who can cut through processing queues
+4. **ALPA** — union can sometimes assist with escalation
 
 ## Common Issues
 
 ### "Pending Medical" Status
 
-**Meaning:** Waiting for doctor verification or certification
+**Meaning:** Waiting for Part B from your doctor.
 
 **Solution:**
 
-1. Contact your doctor's office
-2. Ask if they've completed certification
-3. Provide their fax number to EDD if needed
+1. Call your doctor's office and confirm they have your Claim Receipt Number
+2. Verify they are using their California medical license number (not DEA or NPI)
+3. Ask them to fax the completed DE 2501 Part B to EDD and confirm the fax number with EDD first
 
 ### "Additional Info Required"
 
-**Meaning:** EDD needs more documentation from you
+**Meaning:** EDD needs more documentation — for pilots, this is most often a pay structure question.
 
 **Solution:**
 
-1. Check mail and EDD online messages
-2. Respond promptly
-3. Send exactly what's requested
-4. Keep copies
+1. Check online messages for the specific request
+2. Respond within 48-72 hours with the documents requested plus a brief note explaining variable airline pay
+3. See [Document Requests](/guide/post-filing/document-requests) for detailed response guidance
 
 ### No Status Updates
 
-**Meaning:** Claim may be in queue, or there's an issue
+**Meaning:** Claim may be in queue, or there's an issue not yet surfaced.
 
 **Solution:**
 
-1. Wait until at least 14 days after filing
-2. Call EDD for status update
-3. Consider in-person visit if no response
+1. Wait until at least **14 days** after filing before calling
+2. Call EDD for a status update; ask specifically whether Part B is linked and whether any flags exist on your account
+3. Consider an in-person visit if phone produces no resolution after two attempts
 
 ## Payment Information
 
@@ -174,31 +150,22 @@ Missing continuing certifications can stop your benefits even if you're approved
 
 Your weekly benefit amount:
 
-- Calculated from highest-earning quarter
-- Approximately 60-70% of gross weekly pay
-- Maximum weekly benefit: $1,620 (2026)
+- Calculated from your highest-earning quarter in the base period
+- Approximately 60-70% of that quarter's gross weekly earnings
+- Maximum weekly benefit: **$1,765 (2026)**
 
 Use our [Calculator](/calculator) to estimate your benefit.
 
 ### Payment Methods
 
-**Direct Deposit:**
+**Direct Deposit:** 1-2 business days once processed. Must be enrolled in SDI Online before your first payment issues.
 
-- Fastest method
-- 1-2 business days once processed
-- Must set up during claim filing
-
-**Debit Card:**
-
-- Bank of America EDD Debit Card
-- Card mailed to you (takes time)
-- Payments deposited to card
+**Debit Card:** Bank of America EDD Debit Card mailed to your address on file. Card delivery takes additional time after approval.
 
 ### Payment Frequency
 
-- First payment: Covers from day 8 of disability
-- Ongoing: Every two weeks
-- Must certify to receive each payment
+- First payment covers from **day 8** of your disability (day 1-7 is the unpaid waiting period)
+- Ongoing payments issued every two weeks upon continued certification
 
 ## Next Steps
 

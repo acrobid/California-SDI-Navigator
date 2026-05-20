@@ -7,7 +7,7 @@ order: 3
 
 # Responding to EDD Document Requests
 
-EDD may request additional documentation during claim processing. Prompt, complete responses keep your claim moving.
+EDD may request additional documentation during claim processing. Respond within 48-72 hours — delays extend your processing time dollar-for-dollar.
 
 ## Types of Requests
 
@@ -15,43 +15,42 @@ EDD may request additional documentation during claim processing. Prompt, comple
 
 **What They Want:**
 
-- Pay stubs from specific period
+- Pay stubs from a specific quarter or period
 - W-2 forms
 - Employer verification of wages
 
 **Why They Need It:**
 
-- Wage records don't match their database
-- Unusual pay pattern detected
-- Need to calculate benefit amount
+- Your reported wages don't match FedEx's submission to EDD
+- Pilot pay varies monthly (hours flown, trip rigs, per diem) — EDD's system often flags this as inconsistent
+- Needed to calculate your weekly benefit amount
 
 **How to Respond:**
 
-1. Gather the exact documents requested
-2. Make copies for your records
-3. Submit via method specified (online, mail, fax)
-4. Include your claim number on every page
+1. Gather the exact documents for the period specified in the letter
+2. Include a brief cover note explaining that airline pilot pay varies monthly based on flight hours, trip rigs, and per diem — not a fixed salary
+3. Write your claim number on every page
+4. Submit via the method specified; online upload is fastest
 
 ### Medical Certification
 
 **What They Want:**
 
-- Doctor's certification form
-- Additional medical details
-- Updated prognosis
+- Completed DE 2501 Part B (doctor's certification)
+- Additional medical details or updated prognosis
 
 **Why They Need It:**
 
-- Initial certification not received
-- Certification incomplete
-- Disability duration needs verification
+- Part B not received or not linked to your claim
+- Certification is incomplete (common issue: missing California medical license number)
+- EDD needs an updated prognosis for extended disabilities
 
 **How to Respond:**
 
-1. Contact your doctor immediately
-2. Ask them to complete form promptly
-3. Follow up to confirm submission
-4. If mailing, use certified mail
+1. Call your doctor's office the same day — don't wait for them to notice
+2. Confirm they have your Claim Receipt Number and know to use their California medical license number (not DEA or NPI alone)
+3. Ask for estimated completion and follow up in 48 hours if not done
+4. If faxing, use certified fax or confirm receipt with EDD
 
 ::callout{type="warning" title="Don't Wait on Your Doctor"}
 Doctor's offices are busy. Call them personally to request they prioritize the EDD form. Your benefits are delayed until they respond.
@@ -61,43 +60,30 @@ Doctor's offices are busy. Call them personally to request they prioritize the E
 
 **What They Want:**
 
-- Copy of ID
+- Government-issued photo ID
 - Social Security verification
-- Additional identity documents
-
-**Why They Need It:**
-
-- Identity verification routine
-- Potential fraud check
-- Information mismatch
+- ID.me online verification
 
 **How to Respond:**
 
-1. Provide exactly what's requested
-2. Use secure methods (in-person preferred)
-3. Never email Social Security cards
-4. Keep records of what you submitted
+1. If EDD requests ID.me verification, complete it online at idme.com before submitting anything by mail
+2. For documents: use secure upload in SDI Online, fax, or in-person — never email a Social Security card
+3. Keep a copy of every document submitted with the submission date noted
 
 ### Employment Verification
 
 **What They Want:**
 
-- Employment dates verification
+- Employment dates
 - Wage confirmation
-- Separation reason clarification
-
-**Why They Need It:**
-
-- Employment records unclear
-- Multiple employers during base period
-- Classification questions
+- Separation reason (if applicable)
 
 **How to Respond:**
 
-1. Provide the information requested yourself if possible
-2. Contact FedEx PAC (Pilot Administration Center) if employer response needed
-3. Follow up proactively to ensure response is submitted
-4. Provide direct contact to PAC with your claim number if EDD will contact employer directly
+1. Provide the information yourself from your pay stubs if possible — don't wait for FedEx
+2. If EDD needs FedEx to respond directly, contact the FedEx PAC (Pilot Administration Center) — they have access to payroll data and are more responsive than general payroll departments
+3. Give the PAC your EDD claim number and the specific dates/amounts requested
+4. Follow up with both the PAC and EDD within 5 business days to confirm submission
 
 ::callout{type="warning" title="FedEx Response Delays"}
 FedEx does not electronically submit information to CA EDD, unlike many employers. Historically, requests sent to FedEx payroll departments have experienced significant delays or may not receive responses. The PAC (Pilot Administration Center) has access to payroll data and is generally more responsive than payroll departments, but may still require persistent follow-up. Monitor your claim status closely and follow up with both EDD and FedEx to prevent delays.
@@ -105,85 +91,29 @@ FedEx does not electronically submit information to CA EDD, unlike many employer
 
 ## Response Best Practices
 
-### Speed Matters
-
-Delays in responding extend your processing time dollar-for-dollar.
-
-- Respond within **48-72 hours** of receiving request
-- Faster is always better
-- Set up alerts for EDD correspondence
-
-### Be Complete
-
-Incomplete responses cause additional delays.
-
-- Provide exactly what's requested
-- Include all pages of multi-page documents
-- Write your claim number on every page
-- Respond to every question asked
-
-### Document Your Response
-
-Keep records of what you sent:
-
-- Copy of every document submitted
-- Date and method of submission
-- Confirmation (if available)
-- Notes of any phone conversations
+- Respond within **48-72 hours** of receiving the request
+- Write your claim number on every page of every document
+- Include all pages of multi-page documents — an incomplete response resets the clock
+- Send a brief cover note explaining pilot pay structure whenever submitting wage documents (EDD examiners are not familiar with hourly-variable airline pay)
+- Keep a log: date sent, method, documents included, any confirmation number
 
 ## Response Methods
 
 ### Online Upload
 
-**Best For:** Most document submissions
-
-**How:**
-
-1. Log into EDD online account
-2. Navigate to document upload section
-3. Upload clear, readable copies
-4. Confirm upload successful
-
-**Tips:**
-
-- Use PDF or clear image formats
-- Check file size limits
-- Verify documents are readable after upload
+Best for most submissions. Log into your SDI Online account, navigate to document upload, and confirm the upload completes successfully. Use PDF or clear JPEG; verify documents are legible after upload.
 
 ### Fax
 
-**Best For:** Time-sensitive medical documents
-
-**EDD Fax Numbers:**
-
-- Varies by office - use number on your correspondence
-- General: Check your specific request letter
-
-**Tips:**
-
-- Include cover sheet with claim number
-- Keep fax confirmation
-- Follow up to confirm receipt
+Best for time-sensitive medical documents. Use the fax number on your specific request letter — there is no single EDD fax number. Keep the fax confirmation page.
 
 ### Mail
 
-**Best For:** When other methods unavailable
-
-**Tips:**
-
-- Use certified mail with return receipt
-- Keep copies of everything sent
-- Allow 5-7 days for delivery
+Use certified mail with return receipt. Allow 5-7 business days for delivery and add that to any deadline calculation.
 
 ### In-Person
 
-**Best For:** Complex situations, time-critical responses
-
-**Tips:**
-
-- Bring originals AND copies
-- Ask for receipt/confirmation
-- Be prepared for wait times
+Best for complex wage disputes or anything requiring explanation. Bring originals and copies; ask for a written receipt.
 
 ## Common Requests and Responses
 
@@ -215,24 +145,19 @@ about my pay structure.
 
 ### "Medical Certification Incomplete"
 
-**Action:**
-
-1. Contact your doctor immediately
-2. Inform them what's missing
-3. Ask for estimated completion time
-4. Follow up if not done in 2-3 days
+1. Contact your doctor immediately and ask what field is missing
+2. Confirm they are using their California medical license number
+3. Request completion within 48 hours and follow up
 
 **Send:**
 
-- Completed certification from doctor
-- Note explaining any delays
+- Completed DE 2501 Part B
+- Brief note identifying what was corrected
 
 ### "Identity Verification Required"
 
-**Send:**
-
-- Clear copy of requested ID
-- Any additional documents requested
+- Complete ID.me verification online if that option is offered — it is faster than mailing documents
+- For mailed documents: clear copy of requested ID via secure upload or fax
 
 ::callout{type="danger" title="Never Email SSN"}
 Never send Social Security cards via email. Use secure upload, fax, or in-person submission.
@@ -240,9 +165,7 @@ Never send Social Security cards via email. Use secure upload, fax, or in-person
 
 ### "Additional Information Needed"
 
-Read the request carefully and provide exactly what's asked.
-
-**General Response Format:**
+Read the request carefully — respond to each question asked, in order. Use this format:
 
 ```
 RE: Claim #[Your Number]
@@ -262,35 +185,15 @@ Please contact me at [phone] if you need anything else.
 
 ## If You Don't Understand the Request
 
-### Call Before Responding
-
-If a request is unclear:
-
-1. Call EDD for clarification
-2. Document what they tell you
-3. Then respond appropriately
-
-### Don't Guess
-
-Sending the wrong documents wastes time. Better to clarify first.
+Call EDD (1-800-480-3287) to clarify before responding. Sending the wrong documents resets the clock; 5 minutes on the phone is faster than a second document cycle.
 
 ## Deadlines
 
-### Standard Response Time
-
-Most requests give you 10-14 days to respond.
-
-- Check the letter for specific deadline
-- Respond well before deadline
-- If you need more time, call EDD
+Most requests give you **10-14 days** to respond — check the letter for the specific date. If you need more time, call EDD before the deadline to request an extension; do not just let it pass.
 
 ### Missed Deadline
 
-If you miss a deadline:
-
-- Respond immediately anyway
-- Call EDD to explain delay
-- Your claim may be denied—you may need to appeal
+If you miss a deadline, respond immediately anyway and call EDD to explain. A missed deadline can result in denial — you may need to appeal under [If Denied](/guide/post-filing/denied).
 
 ## Next Steps
 

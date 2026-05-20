@@ -66,34 +66,6 @@ If you live out-of-state and do not have a California ID, you must file by mail 
 - Doctor's information (name, phone, address, license number)
 - Bank account for direct deposit (recommended)
 
-## Mail Filing
-
-### Pros
-
-- ✅ Physical documentation
-- ✅ Familiar process for some
-- ✅ Can include extra documentation
-
-### Cons
-
-- ❌ Slowest method (add 1-2 weeks for mail time)
-- ❌ No immediate confirmation
-- ❌ Risk of mail delays or loss
-- ❌ Harder to track status
-
-### How to File by Mail
-
-1. Obtain Form DE 2501 (available online or at EDD office)
-2. Complete all sections carefully
-3. Have your doctor complete the medical certification
-4. Make copies of everything
-5. Mail to the address on the form
-6. Use certified mail with return receipt (recommended)
-
-::callout{type="tip" title="Order DE 2501 Early"}
-Out-of-state claimants should consider ordering DE 2501 forms in advance. Delivery can take several weeks. Use the [EDD Forms Cart](https://forms.edd.ca.gov/Forms/Cart/).
-::
-
 Before mailing, cross-check every applicable checkbox/field against EDD's sample form: [DE 2501 sample PDF](https://edd.ca.gov/siteassets/files/pdf_pub_ctr/de2501.pdf).
 
 ::callout{type="warning" title="Mail Delays"}
@@ -156,41 +128,26 @@ EDD offices use a ticket system. If you arrive late, you may not get a ticket an
 
 ### Choose Online If:
 
-- You're comfortable with websites
-- You have all information ready
-- You want the fastest processing
-- You can navigate the form questions
+- You have a California DL/ID — online is 2–3 weeks faster than mail
+- You want your confirmation number immediately (needed to give your doctor for Part B)
 
 ### Choose Mail If:
 
-- You're not comfortable online
-- You have plenty of time (nowhere near 49-day deadline)
-- You want to include detailed explanatory documents
+- You live out-of-state and lack a CA ID — mail is your only option for the initial claim; you'll receive an EDDCAN number afterward that enables future online access
+- You are close to the 49-day deadline and the EDD portal is down — mail with certified/return-receipt gives you a postmark timestamp
 
 ### Choose In-Person If:
 
-- Your situation is complex
-- You've been denied or had issues before
-- You need to explain pilot pay structure
-- You have time to spend at the office
-- Online filing isn't working for you
-
-## Hybrid Approach
-
-Many pilots use a hybrid approach:
-
-1. **Start online** to initiate the claim
-2. **If issues arise**, go in-person to resolve
-3. **Follow up by phone** for status updates
+- You've been denied or had a wage-verification error that requires a live explanation of pilot pay structure
+- Online filing has thrown a persistent error and the deadline is within 10 days
 
 ## After Filing
 
 Regardless of method:
 
-1. **Save confirmation:** Number, date, any documents received
-2. **Follow up:** Check status online or by phone after 2 weeks
-3. **Respond promptly:** To any requests for additional information
-4. **Document everything:** Keep copies of all correspondence
+1. **Save your confirmation number** — your doctor needs it to complete Part B certification via SDI Online
+2. **Check status after 14 days** — log in to SDI Online or call EDD at 1-800-480-3287; if Part B is still pending, contact your physician directly
+3. **Respond to EDD requests within the stated deadline** — a missed response suspends payment, not just delays it
 
 ## Next Steps
 

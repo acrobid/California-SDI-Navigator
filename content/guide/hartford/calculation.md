@@ -7,15 +7,15 @@ order: 2
 
 # LTD Benefit Calculation
 
-Understanding how your Long-Term Disability benefit is calculated helps you plan financially and verify that you're receiving the correct amount.
+Understanding how your Long-Term Disability (LTD) benefit is calculated helps you plan financially and verify that you're receiving the correct amount.
 
 ## Overview (CBA Section 27.J.2, 27.J.6, 27.J.7)
 
 Your LTD benefit is based on:
 
-1. **Your monthly earnings** (special calculation method)
-2. **Benefit percentage** (varies by time on LTD)
-3. **IRS 401(a)(17) cap** (maximum benefit limit)
+1. **Your monthly earnings** — calculated using the "best 12 of 36" rule, not your last paycheck
+2. **Benefit percentage** — 60% for months 1-24, 50% for months 25+
+3. **IRS 401(a)(17) cap** — $350,000 annual / $29,167 monthly for 2025-2026
 
 ## Monthly Earnings Definition
 
@@ -25,11 +25,7 @@ Your **monthly earnings** are calculated as:
 
 > "The 12 highest consecutive months out of the 36 consecutive months preceding the disability period"
 
-This is **more favorable** than simply using your last month's pay or a 12-month average.
-
-### Why This Matters
-
-If you had a particularly good 12-month stretch within the last 3 years, that's what counts for your LTD calculation.
+This is **more favorable** than using your last month's pay or a straight 36-month average.
 
 **Example:**
 ```
@@ -44,28 +40,25 @@ NOT $14,166 (average of all 36 months)
 
 ### What's Included in "Monthly Earnings"
 
-**Basic monthly compensation includes:**
+**Included:**
 - Base pay
 - Flight pay
 - Override pay
 - Premium pay
 - Per diem
 
-**Typically EXCLUDES:**
-- Vacation pay (unless part of regular pay structure)
+**Excluded:**
 - One-time bonuses
 - Reimbursements
 - Non-regular compensation
 
-::callout{type="info" title="Verify Your Calculation"}
-Request a detailed calculation from your LTD administrator showing which 12 months they used.
+::callout{type="warning" title="Verify Which 12 Months They Used"}
+Request a written calculation from the administrator showing the exact 12-month window. They are required to use your highest consecutive 12, not simply the 12 months immediately before your disability date.
 ::
 
 ## Benefit Percentages
 
 ### First 24 Months: 60% (CBA 27.J.2)
-
-For your **first 24 months** on LTD:
 
 ```
 Monthly Benefit = Monthly Earnings × 60%
@@ -79,8 +72,6 @@ Benefit: $15,000 × 60% = $9,000/month (before offsets)
 
 ### After 24 Months: 50% (CBA 27.J.2)
 
-After **24 months** on LTD:
-
 ```
 Monthly Benefit = Monthly Earnings × 50%
 ```
@@ -91,24 +82,13 @@ Monthly earnings: $15,000
 Benefit: $15,000 × 50% = $7,500/month (before offsets)
 ```
 
-### Why the Reduction?
-
-The reduction from 60% to 50% after 24 months:
-- Encourages return to work when possible
-- Reflects standard industry practice
-- Is specified in the CBA
-
 ::callout{type="warning" title="Plan for the Reduction"}
-If your disability extends beyond 24 months, expect a 16.7% reduction in your gross LTD benefit at the 24-month mark.
+At the 24-month mark, your gross LTD benefit drops 16.7%. If your disability extends past month 24, adjust your budget before that date — the reduction is not gradual.
 ::
 
 ## IRS 401(a)(17) Cap
 
 ### Maximum Benefit Limits (CBA 27.J.7)
-
-The IRS imposes an annual compensation limit on qualified plans. This caps your maximum LTD benefit.
-
-**IRS 401(a)(17) Limits:**
 
 | Year | Annual Limit | Monthly Limit |
 |------|--------------|---------------|
@@ -116,9 +96,9 @@ The IRS imposes an annual compensation limit on qualified plans. This caps your 
 | 2025 | $350,000     | $29,167       |
 | 2026 | $350,000     | $29,167       |
 
-### Maximum Monthly Benefits
+### Maximum Monthly Benefits After Cap
 
-**Months 1-24 (60% of cap):**
+**Months 1-24 (60%):**
 
 | Year | Maximum Benefit |
 |------|-----------------|
@@ -126,7 +106,7 @@ The IRS imposes an annual compensation limit on qualified plans. This caps your 
 | 2025 | $17,500/month   |
 | 2026 | $17,500/month   |
 
-**Months 25+ (50% of cap):**
+**Months 25+ (50%):**
 
 | Year | Maximum Benefit |
 |------|-----------------|
@@ -139,7 +119,7 @@ The IRS imposes an annual compensation limit on qualified plans. This caps your 
 Your benefit is the **lesser of**:
 
 1. Your calculated benefit (monthly earnings × percentage)
-2. The IRS 401(a)(17) cap
+2. The IRS 401(a)(17) monthly cap
 
 **Example 1: Below the cap**
 ```
@@ -150,7 +130,7 @@ Cap: $17,500
 Actual benefit: $9,000 (lower amount)
 ```
 
-**Example 2: Above the cap**
+**Example 2: Above the cap (senior captain)**
 ```
 Monthly earnings: $32,000
 Percentage: 60% (first 24 months)
@@ -213,78 +193,54 @@ Gross monthly benefit: $6,000
 
 ### Request Detailed Calculation
 
-When you receive your first LTD payment, request:
+When you receive your first LTD payment, request in writing:
 
-1. **Which 12 months** were used for your monthly earnings
-2. **Calculation breakdown** showing:
-   - Monthly earnings amount
-   - Percentage applied
-   - Any cap applied
-   - All offsets applied
-3. **Supporting documentation** from payroll records
+1. **Which 12 months** were used for your monthly earnings calculation
+2. **Full calculation breakdown** — monthly earnings amount, percentage applied, cap applied, all offsets
+3. **Payroll source data** — the earnings figures they pulled from FedEx payroll
 
 ### Common Errors
 
-Watch for:
-
-- **Wrong months used** - Verify they used your best 12 consecutive
-- **Incorrect percentage** - 60% vs 50% based on time on LTD
-- **Wrong cap applied** - Verify correct year and timeframe
-- **Missing earnings components** - Ensure all eligible pay included
+- **Wrong 12-month window** — verify they used your highest consecutive 12 months, not calendar year or last 12
+- **Incorrect percentage** — confirm 60% vs 50% based on your actual months-on-LTD count
+- **Wrong cap year** — IRS limits adjust annually; verify they applied the limit for your benefit year
+- **Missing pay components** — confirm flight pay, override pay, and per diem are included
 
 ### How to Challenge
 
 If you believe the calculation is wrong:
 
-1. **Document your concern** in writing
-2. **Show your calculation** with supporting pay stubs
-3. **Request recalculation** from administrator
-4. **Escalate if needed** through PBRB process
+1. Pull your Workday payslips for the preceding 36 months (Pay → Payslips → download all)
+2. Calculate your own best 12-consecutive-month figure
+3. Send a written dispute with your calculation and supporting payslips
+4. Request recalculation from the administrator; cite CBA §27.J.6 explicitly
+5. Escalate through the PBRB process if the administrator does not correct within 30 days
 
 ## Impact of Returning to Work
 
 ### Trial Work Period
 
-If you return to work temporarily:
-
-- Your monthly earnings calculation may be reevaluated
-- Your benefit percentage continues based on total time on LTD
-- Coordinate with administrator before returning
+If you return to work temporarily, coordinate with the administrator in writing before returning — an uncoordinated return can reset your benefit calculation window or affect your benefit percentage.
 
 ### Partial Return
 
-If you return part-time:
-
-- You may receive partial LTD
-- Earnings from part-time work may affect your benefit
-- See [Outside Income rules](/guide/hartford/offsets#outside-income)
+If you return part-time, earnings from part-time work may reduce your LTD benefit under the outside income offset rules. See [Outside Income rules](/guide/hartford/offsets#outside-income).
 
 ## Adjustments Over Time
 
 ### Annual Updates
 
-- **IRS 401(a)(17) cap** may increase annually with IRS updates
-- Your benefit may increase if cap increases
-- Administrator should notify you of any changes
+The IRS 401(a)(17) cap adjusts annually. If your benefit is capped, a cap increase can increase your monthly benefit — verify each January whether the new cap raises your payment.
 
 ### Recalculation Triggers
 
 Your benefit may be recalculated if:
 
-- You return to work and then go back on disability
-- There's a correction to your earnings history
-- Cap changes significantly
-- CBA amendments change calculation method
+- You return to work and re-enter disability (new 36-month window applies)
+- There's a correction to your FedEx payroll history
+- CBA amendments change the calculation method
 
 ## Tools and Resources
-
-### Calculation Helper
-
-Use the calculator on this site to estimate your benefit:
-- [LTD Calculator](/calculator)
-- Enter your pay history
-- See estimated benefit amounts
-- Compare scenarios
 
 ### Getting Your Pay History
 
@@ -292,20 +248,14 @@ Use the calculator on this site to estimate your benefit:
 1. Log in to FedEx Workday
 2. Navigate to Pay → Payslips
 3. Download last 36 months of pay stubs
-4. Calculate your best 12 consecutive months
+4. Identify your highest 12 consecutive months
 
-**From Benefits Administrator:**
+**From the Administrator:**
 - Request the earnings history they have on file
-- Verify it matches your records
-- Correct any discrepancies before claim approval
+- Compare it against your Workday records and correct any discrepancies before claim approval — errors found after approval require a formal recalculation request
 
 ## Next Steps
 
-- **Understand offsets** - [How offsets reduce your benefit](/guide/hartford/offsets)
-- **Plan for reduction** - Prepare for 50% rate after 24 months
-- **Track your time** - Know when you'll hit the 24-month mark
-- **Verify calculation** - Review your first benefit statement carefully
-
-::callout{type="info" title="Questions About Your Calculation?"}
-Contact the LTD administrator for a detailed benefit calculation. Reference CBA Section 27.J.2, 27.J.6, and 27.J.7 if questions arise.
-::
+- **[Offset Rules](/guide/hartford/offsets)** — how SDI, SSDI, and outside income reduce your gross benefit
+- **[Calculator](/calculator)** — estimate your LTD and offset amounts with your actual pay figures
+- **[LTD Duration](/guide/hartford/duration)** — when and how benefits end

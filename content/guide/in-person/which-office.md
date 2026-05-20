@@ -7,105 +7,18 @@ order: 2
 
 # Which EDD Office to Visit
 
-California has multiple EDD offices. Here's how to find the right one.
-
 ## Finding Your Local Office
-
-### EDD Office Locator
 
 Use the official EDD office locator:
 1. Visit [edd.ca.gov/Office_Locator](https://edd.ca.gov/Office_Locator)
 2. Enter your zip code or city
-3. Find offices near you
-4. Note services offered at each
+3. Confirm that Disability Insurance (DI/SDI) services are offered — not every office handles SDI claims
 
-### Not All Offices Handle SDI
-
-::callout{type="warning" title="Important"}
-Not all EDD offices handle Disability Insurance claims. Verify that SDI/DI services are available before visiting.
+::callout{type="warning" title="Verify SDI Services"}
+Not all EDD offices handle Disability Insurance claims. If you show up at an office that doesn't serve SDI, you will be turned away. Confirm before you go.
 ::
 
-## Key SDI Offices
-
-### Major California Cities
-
-**Los Angeles Area:**
-- Los Angeles (Downtown)
-- Pasadena
-- Inglewood
-- Van Nuys
-
-**San Francisco Bay Area:**
-- Oakland
-- San Francisco
-- San Jose
-- Fremont
-
-**San Diego Area:**
-- San Diego (Main)
-
-**Sacramento Area:**
-- Sacramento (Main)
-
-### Office for FedEx Pilots
-
-**Most Common:**
-- Office nearest your home address
-- Office nearest your pilot base (if different)
-- Oakland and Los Angeles handle high volume
-
-Verify specific office addresses and hours on the [Contacts](/contacts) page or EDD website.
-
-## What to Check Before Going
-
-### 1. Services Offered
-
-Confirm the office handles:
-- Disability Insurance (DI/SDI)
-- New claims AND existing claims
-- Document submission
-
-### 2. Hours of Operation
-
-**Typical hours:**
-- Monday-Friday, 8:00 AM - 5:00 PM
-- Some offices may have different schedules
-- Closed on state holidays
-
-**Best time to arrive:**
-- 30-60 minutes before opening
-- Tickets issued first-come, first-served
-- Afternoons often have fewer tickets remaining
-
-### 3. Current Wait Times
-
-- Call ahead if possible
-- Check online reviews for recent experiences
-- Be prepared for 4-6+ hour waits regardless
-
-### 4. Parking
-
-- Many offices have limited parking
-- Consider public transportation
-- Arrive early for parking too
-
-## Remote/Out-of-State Considerations
-
-### If You Live Outside California
-
-Many FedEx pilots don't live in California but are based there.
-
-**Your options:**
-1. **Online filing** - From anywhere
-2. **Mail filing** - From anywhere
-3. **Phone** - From anywhere
-4. **In-person** - When you're in California
-
-::callout{type="info" title="Planning Ahead"}
-If you anticipate going on disability, consider scheduling an in-person visit during a trip to California.
-::
-
-### Closest Office to Your Base
+## Closest Office to Your FedEx Base
 
 | FedEx Base | Nearest Major EDD Office |
 |------------|--------------------------|
@@ -114,64 +27,24 @@ If you anticipate going on disability, consider scheduling an in-person visit du
 | Ontario (ONT) | San Bernardino EDD |
 | San Francisco (SFO) | Oakland/San Francisco EDD |
 
-## What to Look For in an Office
+For specific addresses and current hours, see the [Contacts](/contacts) page or the EDD office locator.
 
-### Higher Volume = More Experience
+## What to Check Before Going
 
-Larger offices often:
-- Have more experienced staff
-- Handle unusual situations better
-- Understand complex pay structures
+- **Services offered** — confirm the office handles DI/SDI, new and existing claims, and document submission
+- **Hours** — typical hours are Monday–Friday 8:00 AM–5:00 PM, closed state holidays; verify before you go
+- **Arrive 30-60 minutes before opening** — tickets are first-come, first-served; afternoons often have no tickets remaining
+- **Parking** — many offices have limited parking; consider public transit and plan extra time
 
-### Pilot-Specific Experience
+## Out-of-State Pilots
 
-Some offices may have staff who:
-- Have helped pilots before
-- Understand variable pay
-- Know the SDI/LTD interaction
+If you live outside California but are based there, you can file online, by mail, or by phone from anywhere. If you anticipate going on disability, schedule an in-person visit during a trip to California before your disability starts rather than scrambling for same-day travel after.
 
-Unfortunately, there's no way to guarantee this—but larger metro offices are your best bet.
+## Appointments
 
-## Alternative: Appointments
+Some offices offer scheduled appointments — check the EDD website or call the office directly. An appointment avoids the all-day ticket queue and is better suited to complex issues like explaining pilot variable pay.
 
-### Scheduling an Appointment
-
-Some offices offer appointments:
-1. Check EDD website for availability
-2. Call the office directly
-3. Use online appointment scheduler if available
-
-**Benefits of appointments:**
-- Scheduled time (less waiting)
-- More focused assistance
-- Better for complex issues
-
-**Drawbacks:**
-- Limited availability
-- May still have some wait
-- Not always available
-
-## Tips for Choosing an Office
-
-### If You Have Options:
-
-1. **Closest to home/base** - Convenience matters
-2. **Largest office** - More staff, more experience
-3. **Best reviews** - Check online for recent experiences
-4. **Appointment availability** - If offered, consider it
-
-### If You Only Have One Option:
-
-1. Verify it handles SDI
-2. Check hours and plan to arrive early
-3. Prepare thoroughly
-4. Be ready for a long day
-
-## Virtual Options
-
-### Before Making the Trip
-
-Consider whether virtual options can solve your issue:
+## Virtual Options First
 
 | Need | Virtual Option |
 |------|---------------|

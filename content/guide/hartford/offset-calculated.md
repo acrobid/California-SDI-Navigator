@@ -7,149 +7,143 @@ order: 20
 
 # How the LTD Offset Is Calculated
 
-Understanding the offset calculation is crucial for knowing what the pilot will actually receive.
-
 ::callout{type="info" title="Comprehensive Offset Guide Available"}
-For complete details on **all offset types** (CA SDI, SSDI with the 70% rule, and outside income), see the [comprehensive LTD Offsets guide](/guide/hartford/offsets). This page provides a simplified overview of the math.
+For complete details on **all offset types** (CA SDI, SSDI with 70% rule, and outside income), see the [comprehensive LTD Offsets guide](/guide/hartford/offsets). This page covers the SDI offset math.
 ::
 
-## The Basic Concept
-
-The LTD claims administrator reduces monthly LTD payments by the amount of "other income" received, including California SDI.
-
-::callout{type="warning" title="The Core Inequity"}
-Pilots pay California SDI tax on 100% of gross earnings. Yet the claims administrator reduces the monthly contract LTD check by that exact SDI benefit amount. Because of this offset, the state benefit does not increase total monthly income; it simply shifts a portion of the payment responsibility from the LTD plan to the state fund.
+::callout{type="warning" title="This Is The Core Problem"}
+You pay California SDI tax on your full earnings. But the administrator reduces your LTD by that same SDI amount. You're effectively paying for a benefit that doesn't increase your total income.
 ::
 
 ## Step-by-Step Calculation
 
 ### Step 1: Calculate Gross LTD Benefit
-First, the administrator calculates the gross contractual LTD benefit, which is 60% of pre-disability earnings. For 2026, the maximum pre-disability earnings that can be counted are capped at the IRS 401(a)(17) limit of $350,000.
+
 ```
 Pre-disability earnings: $350,000 (capped at IRS limit)
 LTD percentage: 60% (first 24 months)
-Gross monthly LTD: $350,000 × 60% ÷ 12 = $17,500/month
+Gross monthly LTD: $350,000 × 60% ÷ 12 = $17,500
 ```
-*(Note: The contractual percentage drops to 50% after 24 months of disability. See [Benefit Calculation](/guide/hartford/calculation) for details.)*
 
-### Step 2: Determine SDI Monthly Benefit
-Next, the EDD calculates the weekly SDI benefit based on the pilot's highest base-period quarter. Because pilot wages are high, pilots typically qualify for the maximum state weekly benefit of $1,765. To convert this weekly benefit to a monthly equivalent, use the standard insurance factor of 4.33 weeks per month:
+**Note:** Percentage drops to 50% after 24 months. See [Benefit Calculation](/guide/hartford/calculation) for details.
+
+### Step 2: Determine SDI Weekly Benefit
+
 ```
+Highest quarterly earnings: $87,500
+Weekly benefit: ~60-70% of highest weekly wage
 Maximum weekly SDI: $1,765 (2026)
-Monthly SDI equivalent: $1,765 × 4.33 = $7,642/month
+Monthly SDI: $1,765 × 4.33 = ~$7,642
 ```
 
 ### Step 3: Apply the Offset
-Finally, the administrator deducts the monthly SDI equivalent from the gross monthly LTD benefit to determine the net LTD check:
+
 ```
 Gross LTD benefit:       $17,500/month
 Less: SDI offset:        -$7,642/month
 Net LTD payment:         $9,858/month
 ```
 
-### Total Combined Income
-When the offset is applied, total monthly income remains at the contractual 60% level:
+### Your Total Income
+
 ```
-State SDI payment:       $7,642/month
+SDI payment:             $7,642/month
 Net LTD payment:         $9,858/month
 Total monthly income:    $17,500/month
 ```
-Whether the pilot receives the SDI payments on time or not, the administrator reduces the LTD check to $9,858. This is the heart of the offset problem.
+
+The total is the same whether you receive SDI or not. This is the offset problem.
 
 ## What Counts as Offset Income
 
-The LTD plan document allows the administrator to offset benefits by several sources of other disability income:
+The administrator offsets your LTD benefit by:
 
-| Income Source | Subject to Offset? |
-|--------------|-------------------|
-| **California SDI** | Yes |
-| **Social Security Disability (SSDI)** | Yes (subject to CBA 70% limit) |
-| **Workers' Compensation** | Yes |
-| **Other State Disability Plans** | Yes |
-| **Retirement Pensions** | Yes (if paid during disability) |
-| **Personal Investment Income** | No |
-| **Spouse's Income** | No |
+| Income Source | Offset? |
+|--------------|---------|
+| California SDI | Yes |
+| Social Security Disability | Yes (70% rule — see [Offsets guide](/guide/hartford/offsets)) |
+| Workers' Compensation | Yes |
+| Other state disability | Yes |
+| Retirement pension | Sometimes |
+| Investment income | No |
+| Spouse's income | No |
 
 ## Detailed Offset Example
 
 ### Pilot Scenario
-The following is a typical Captain scenario using the actual 2026 contractual and state limits.
 
 **Assumptions:**
-* Pre-disability earnings: $400,000/year
-* LTD plan cap: $350,000 (IRS limit)
-* SDI weekly maximum: $1,765 (2026)
+- Annual earnings: $400,000
+- LTD cap: $350,000 (IRS 401(a)(17) limit for 2026)
+- SDI weekly max: $1,765 (2026)
 
 **Monthly Calculation:**
 
-| Calculation Step | Value | Description |
-| ---------------- | ----- | ----------- |
-| **Earnings Base** | $350,000/year | Annual earnings capped at the IRS limit. |
-| **LTD Rate** | 60.00% | Contractual rate for the first 24 months. |
-| **Gross Annual LTD** | $210,000 | Annual LTD benefit prior to offsets. |
-| **Gross Monthly LTD** | $17,500 | Monthly LTD benefit prior to offsets ($210,000 / 12). |
-| **SDI Monthly Max** | $7,642 | Maximum monthly SDI benefit ($1,765 × 4.33). |
-| **Net LTD Payment** | **$9,858** | The actual monthly check paid by the LTD administrator. |
+| Line Item | Amount |
+|-----------|--------|
+| Earnings (capped at $350K) | $350,000/year |
+| LTD rate (months 1–24) | 60% |
+| Gross annual LTD | $210,000 |
+| Gross monthly LTD | $17,500 |
+| SDI monthly (max) | $7,642 |
+| **Net LTD payment** | **$9,858** |
 
-**What the Pilot Receives:**
-* From CA SDI: $7,642/month
-* From LTD Plan: $9,858/month
-* **Total Monthly Income: $17,500/month**
+**What You Receive:**
+- From SDI: $7,642/month
+- From Hartford: $9,858/month
+- **Total: $17,500/month**
 
-### What If the Pilot Fails to Receive SDI?
-If the SDI claim is delayed or denied, the administrator still applies the $7,642 deduction, leaving the pilot with only the net payment:
-* From CA SDI: $0/month (delayed)
-* From LTD Plan: $9,858/month
-* **Total Monthly Income: $9,858/month**
+### What If You Didn't Get SDI?
 
-::callout{type="danger" title="Same Total, High Cash Flow Risk"}
-The final target income is identical either way. However, if there are processing delays, the pilot bears the entire cash flow shortfall. This is why establishing the SDI claim early is so critical.
+**Without SDI:**
+- From SDI: $0
+- From Hartford: $17,500/month
+- **Total: $17,500/month**
+
+::callout{type="danger" title="Same Total Either Way"}
+Whether you receive SDI or not, your total income is the same. But you're still paying SDI tax — that's money you'll never see additional benefit from.
 ::
 
 ## The SDI Tax Cost
 
-### What We Pay
-Starting in 2024, the state eliminated the SDI taxable wage cap. As a result, pilots pay a flat 1.3% tax on their entire gross income:
-* **2026 SDI Tax:** 1.3% of all wages (uncapped)
-* **Tax on $400,000 of earnings:** $5,200/year
-
-### What the Pilot Gets
-* **SDI Benefit:** $7,642/month while disabled
-* **LTD Offset:** -$7,642/month (deducted from the LTD check)
-* **Net Financial Value: $0**
-
-Pilots pay $5,200 annually in mandatory state taxes for a benefit that does not increase net disability income by a single dollar.
+**2026 SDI Tax:**
+- Rate: 1.3% (uncapped)
+- On $400,000 earnings: $5,200/year in tax paid
+- Net benefit from SDI due to offset: **$0**
 
 ## Policy Language
-The LTD plan document specifies that the monthly benefit will be reduced by other income benefits, defined to include benefits under any state disability law. The specific contract provisions govern these offsets. If a pilot suspects a miscalculation, they should request the detailed calculation sheet from the administrator.
 
-## Addressing Calculation Errors
-While the offset itself is a plan requirement, the administrator sometimes makes calculation mistakes. Common errors include:
-* Using the incorrect weekly or monthly SDI rate.
-* Offsetting benefits before the waiting period has concluded.
-* Continuing to apply the offset after 52 weeks of state benefits have expired.
+The plan document typically states:
 
-If an error is suspected, the pilot should request a complete statement of calculation from the claims representative, compare the numbers to actual EDD payments, and submit a formal dispute in writing if the math does not align.
+> "Monthly benefit will be reduced by Other Income Benefits, including but not limited to state disability benefits..."
+
+Request your complete plan document to review the exact offset provisions — the specific language controls if there is a dispute.
+
+## Disputing an Incorrect Offset
+
+The offset is a plan provision, but the administrator must use the correct SDI amount. Common errors:
+
+- Wrong SDI amount used (estimated maximum vs. actual approved amount)
+- Offset applied before your LTD eligibility date
+- SDI offset continued after your 52-week EDD exhaustion
+
+If you believe there's an error:
+1. Request the calculation in writing, including the SDI figure used
+2. Compare to your EDD approval letter and payment records
+3. Submit a written dispute with supporting documents
+4. Escalate through the PBRB if the administrator does not correct it
 
 ## Timing of Offsets
 
-### When Offsets Apply
-
-**During the LTD Elimination Period (Days 1–180):**
-During the first six months, the pilot is not receiving LTD payments, so there is nothing for the administrator to offset. The pilot collects state SDI payments independently to help cover expenses while they exhaust company sick banks.
-
-**After LTD Begins (Day 181+):**
-Once the pilot transitions to LTD, the administrator begins applying the expected SDI offset to each monthly check.
-
-**If SDI Benefits Expire:**
-California SDI has a maximum duration of 52 weeks. If the pilot remains disabled after state benefits expire, the SDI offset must be removed:
 ```
-Months 1–12:  SDI + LTD (Offset applied)
-Months 13+:   LTD only (Offset removed; LTD pays full gross benefit)
+Months 1-6:    SDI only (no LTD yet — nothing to offset from)
+Months 7-12:   LTD begins; full CA SDI offset applied each month
+Month 13+:     SDI exhausts at 52 weeks; offset ends; full LTD amount paid
+Month 25+:     LTD rate drops from 60% to 50%; new gross baseline
 ```
 
 ## Next Steps
-* Use the [Benefit Calculator](/calculator) to model your specific earnings and offsets.
-* Learn about the [PBRB Appeal Process](/guide/hartford/pbrb) for disputing administrator decisions.
-* Find contact information in the [Contacts directory](/contacts).
 
+- [Calculator](/calculator) — Calculate your specific situation
+- [Appealing Hartford Decisions](/guide/hartford/appealing) — If you need to dispute
+- [PBRB Process](/guide/hartford/pbrb) — Pilot Benefit Review Board option

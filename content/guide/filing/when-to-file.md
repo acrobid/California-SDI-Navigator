@@ -40,13 +40,9 @@ The 49-day deadline is from disability START, not from when sick banks run out. 
 
 ### Best Practice: File as Soon as You Reach Day 8
 
-Why file right away once you're eligible to submit?
-
-1. **Earliest filing window:** You can file on the **8th day** of disability
-2. **Processing time:** EDD can take 2-6 weeks to process
-3. **Buffer for issues:** Time to resolve any problems
-4. **Deadline safety:** No risk of missing 49-day deadline
-5. **Earlier payments:** Approval means payments start sooner
+1. **Earliest filing window:** Day 8 is the first day you can submit
+2. **Processing time:** EDD takes 2–6 weeks; filing early leaves room to fix problems before the 49-day deadline closes
+3. **Deadline safety:** Filing on Day 8 gives you 41 days of buffer against EDD portal errors, returned mail, or a slow physician certification
 
 ### Strategic Considerations
 
@@ -122,22 +118,18 @@ If you wait for a later follow-up appointment before starting your claim, and th
 
 Before filing, confirm you have:
 
-- [ ] Your last day worked date
-- [ ] Doctor's information (name, phone, address, license #)
-- [ ] Your employment information
-- [ ] Your contact information
-- [ ] Understanding of your quarterly income
-- [ ] SSN (you'll need the full number)
+- [ ] Your last day worked date (last flight or duty period)
+- [ ] Doctor's information (name, phone, address, CA medical license #)
+- [ ] FedEx employer address: 3620 Hacks Cross Rd, Building B, 3rd floor, Memphis, TN 38125
+- [ ] SSN (full 9 digits)
+- [ ] Bank routing and account number for direct deposit
 
 ## What Happens After Filing
 
-1. **Confirmation:** You receive confirmation number/document
-2. **Processing:** EDD reviews your claim (14-21 days)
-3. **Doctor Verification:** EDD verifies your doctor's license (7-10 days)
-4. **Determination:** EDD approves or requests more information
-5. **Payment:** If approved, first payment issues
-
-Total typical timeline: 2-6 weeks if no complications
+1. **Confirmation:** Save your confirmation number — you will need it to give your doctor for online Part B certification
+2. **Doctor Verification:** EDD verifies your physician's CA license number; errors here cause a 7–10 day delay
+3. **Processing:** EDD reviews the combined claim; total time is typically 2–6 weeks
+4. **First payment:** Covers Day 8 forward; direct deposit arrives within a few days of approval, debit card takes longer
 
 ## Special Situations
 
@@ -146,8 +138,7 @@ Total typical timeline: 2-6 weeks if no complications
 If you have a scheduled surgery:
 
 - File on the day of surgery or first day you can't work
-- Have your surgeon ready to provide certification
-- Consider filing a day or two after to ensure paperwork is in order
+- Confirm your surgeon will complete SDI Online Part B certification before the surgery date; paper form (DE 2501 Part B) must be mailed in if they are not registered, adding 1–2 weeks
 
 ### Intermittent Disability
 

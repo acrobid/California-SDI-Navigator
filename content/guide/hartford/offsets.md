@@ -21,8 +21,6 @@ Gross LTD Benefit
   = Net LTD Payment
 ```
 
-Each offset type has different rules. Let's explore each one.
-
 ---
 
 ## CA SDI Offset
@@ -62,16 +60,12 @@ See the [Offset Problem](/guide/overview/offset-problem) guide for a complete ex
 
 ### Proving CA SDI Status
 
-To reduce or eliminate the CA SDI offset, you must provide:
+To reduce or eliminate the CA SDI offset, provide the administrator with:
 
-- **Denial letter** from EDD (if denied)
-- **Approval letter** showing actual benefit amount
+- **Denial letter** from EDD (removes the offset entirely)
+- **Approval letter** showing actual benefit amount (corrects over-estimated offset)
 - **Payment history** showing what you actually received
-- **Exhaustion notice** if you've used all 52 weeks
-
-::callout{type="warning" title="Documentation Is Critical"}
-Without documentation from EDD, the administrator will assume maximum CA SDI and offset accordingly.
-::
+- **Exhaustion notice** once you've used all 52 weeks (offset ends at that point)
 
 ---
 
@@ -81,7 +75,7 @@ Without documentation from EDD, the administrator will assume maximum CA SDI and
 
 **Only 70% of your SSDI is offset**, not 100%.
 
-This is a significant benefit to pilots whose disability began after October 30, 2006.
+This applies to disabilities that began after October 30, 2006.
 
 **Example:**
 ```
@@ -91,8 +85,6 @@ You effectively keep: $3,000 × 30% = $900/month "free"
 ```
 
 ### Why This Matters
-
-If you're receiving both LTD and SSDI:
 
 **Without 70% rule (100% offset):**
 ```
@@ -146,8 +138,6 @@ Total income:
 - 100% offset applies (old rule)
 - No family benefit exclusion
 
-If your disability began before this date, the entire SSDI amount is offset.
-
 ### SSDI Application Timeline
 
 **SSDI typically takes:**
@@ -156,12 +146,12 @@ If your disability began before this date, the entire SSDI amount is offset.
 - Retroactive payments when approved
 
 **During SSDI application:**
-- LTD will not offset SSDI (you haven't been approved yet)
-- Once approved, offset begins
-- Retroactive SSDI may require you to repay LTD overpayments
+- LTD will not offset SSDI until you are approved
+- Once approved, offset begins from that date
+- **Retroactive SSDI triggers LTD overpayment recoupment** — inform your LTD administrator when you apply so they can escrow the expected amount rather than collect it all at once
 
-::callout{type="info" title="Coordinate SSDI Applications"}
-Inform your LTD administrator when you apply for SSDI. This helps prevent overpayment issues later.
+::callout{type="info" title="Notify LTD When You Apply for SSDI"}
+Tell your claims examiner the date you filed for SSDI. This lets them track the expected approval and reduces the size of any retroactive overpayment demand.
 ::
 
 ---
@@ -171,8 +161,6 @@ Inform your LTD administrator when you apply for SSDI. This helps prevent overpa
 ### The Threshold Rule
 
 **Outside income is only offset if your total income exceeds your pre-disability total income.**
-
-This is a **very favorable** rule for pilots with side businesses.
 
 ### Pre-Disability Income Includes Outside Income
 
@@ -248,10 +236,8 @@ Total:             $11,208/month
 
 ### Key Points
 
-1. **Baseline includes your outside income** - Don't abandon your side business thinking it will hurt you
-2. **Only excess is offset** - Not your full outside income
-3. **50% rate** - You keep half of any excess
-4. **Encourages productivity** - System rewards working when able
+1. **Baseline includes your pre-disability outside income** — a side business you had before disability raises the threshold, so it won't trigger an offset unless the business grows beyond pre-disability levels
+2. **Only the excess is offset, at 50%** — you keep half of any amount above the baseline
 
 ### What Counts as Outside Income
 
@@ -269,19 +255,16 @@ Total:             $11,208/month
 - Inheritance
 - VA disability (separate rules)
 
-### Documentation Requirements
+### Reporting Requirements
 
-You must report to LTD administrator:
+You must report to the LTD administrator:
 
 - All sources of outside income
 - Monthly or annual amounts
 - Business tax returns if self-employed
 - 1099 forms for contract work
 
-**Failure to report:**
-- May result in benefit suspension
-- May require repayment of overpayments
-- May be considered fraud
+**Failure to report** may result in benefit suspension and overpayment recoupment — undisclosed income discovered during an audit is treated as fraud under ERISA.
 
 ---
 
@@ -357,44 +340,14 @@ Total income:
 
 ---
 
-## Strategies for Managing Offsets
+## Challenging Incorrect Offsets
 
-### 1. File CA SDI Promptly
+The offset is a plan provision — not an administrative error — so the only remedy is disputing the administrator's arithmetic or documentation assumptions.
 
-- Minimizes the "neither SDI nor LTD" gap
-- Documents your actual benefit amount
-- Provides proof for offset calculation
-
-### 2. Apply for SSDI Early
-
-- Long approval process
-- 70% offset is favorable
-- Family benefits not offset
-
-### 3. Maintain Outside Income Records
-
-- Document pre-disability income carefully
-- Keep 12 months of records before disability
-- Report all income honestly to avoid problems
-
-### 4. Understand the Timeline
-
-```
-Months 1-6:    CA SDI only (if approved), no LTD yet
-Month 7-12:    LTD begins, CA SDI continues, full CA SDI offset
-Month 13+:     CA SDI exhausted (52 weeks), only LTD
-               SSDI approved, 70% SSDI offset begins
-Month 25+:     LTD drops to 50%, lower gross benefit
-```
-
-### 5. Challenge Incorrect Offsets
-
-If you believe an offset is calculated incorrectly:
-
-1. Request detailed calculation in writing
-2. Provide documentation supporting your position
-3. Reference specific CBA sections
-4. Use PBRB process if needed
+1. Request the offset calculation in writing, including the SDI/SSDI amounts used
+2. Compare to your actual EDD approval letter and payment history
+3. Submit corrections in writing with supporting documents, referencing the specific CBA section
+4. Escalate through the PBRB process if the administrator does not correct the calculation
 
 ---
 
@@ -402,42 +355,24 @@ If you believe an offset is calculated incorrectly:
 
 ### Q: What if CA SDI denies my claim?
 
-Provide the denial letter to your LTD administrator. They should remove or reduce the CA SDI offset.
+Provide the EDD denial letter to your LTD administrator immediately. They must remove the CA SDI offset.
 
 ### Q: What if I receive less CA SDI than expected?
 
-Provide your approval letter and payment history. The offset should be based on **actual** CA SDI received, not estimated maximum.
+Provide your EDD approval letter and payment history. The offset must equal **actual** CA SDI received, not the estimated maximum.
 
 ### Q: Can I work part-time while on LTD?
 
-Yes, but:
-- Must still meet disability definition
-- Income affects outside income offset
-- Coordinate with both EDD and LTD administrator
+Yes, but you must still meet the disability definition. Part-time earnings feed the outside income offset calculation — report them monthly to avoid an overpayment demand at year-end.
 
 ### Q: What about VA disability payments?
 
-**VA disability is typically NOT offset** from LTD benefits because:
-- VA benefits are compensation for service-connected disabilities
-- They are not "disability income" in the traditional sense
-- Most LTD plans exclude VA benefits from offsets
-
-**However:**
-- Verify with your specific LTD administrator
-- Review your actual plan documents
-- VA benefits may affect SSDI eligibility/amount
-- Some plans have specific VA offset provisions
-
-**Action:** Contact your LTD administrator at the start of your claim to confirm VA benefit treatment.
+**VA disability is typically NOT offset** from LTD benefits — VA benefits compensate for service-connected disability and most plan documents exclude them. Confirm the treatment with your claims examiner at the start of your claim and get the answer in writing.
 
 ---
 
 ## Next Steps
 
-- **Understand cooperation requirements** - [What's required to maintain benefits](/guide/hartford/cooperation)
-- **Learn about duration limits** - [How long benefits last](/guide/hartford/duration)
-- **Calculate your net benefit** - [Use the calculator](/calculator)
-
-::callout{type="warning" title="Document Everything"}
-Keep detailed records of all income sources and communications with benefit administrators. Accurate documentation prevents offset disputes and overpayment issues.
-::
+- **Understand cooperation requirements** — [What's required to maintain benefits](/guide/hartford/cooperation)
+- **Learn about duration limits** — [How long benefits last](/guide/hartford/duration)
+- **Calculate your net benefit** — [Use the calculator](/calculator)

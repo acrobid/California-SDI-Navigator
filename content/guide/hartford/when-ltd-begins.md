@@ -7,50 +7,22 @@ order: 10
 
 # When LTD Begins
 
-Understanding when Long-Term Disability (LTD) kicks in is essential for financial planning during your disability.
-
 ::callout{type="warning" title="CBA Eligibility Triggers"}
 **Important:** The FedEx LTD Plan has specific eligibility triggers beyond the 180-day elimination period. LTD benefits begin when you **exhaust sick banks** OR experience a **disability-related seat/position change**. See [LTD Eligibility Triggers](/guide/hartford/eligibility) for complete details.
 ::
 
-## The Waiting Period
+## The 180-Day Elimination Period
 
-### 180-Day Elimination Period
-
-LTD has a **180-day elimination period** (also called "waiting period"):
+LTD has a **180-day elimination period** before payments begin:
 
 ```
-Day 1-180:   Elimination period (no LTD payments)
-Day 181:     LTD benefits begin (if approved and eligibility met)
+Day 1-180:   Elimination period (no LTD payments) — sick banks and SDI cover this period
+Day 181:     LTD benefits can begin (if approved and CBA eligibility met)
 ```
 
-::callout{type="info" title="Six Full Months"}
-180 days = approximately 6 months. During this time, you rely on sick banks and SDI.
-::
-
-### What the 180 Days Means
-
-- You must be continuously disabled for 180 days
-- LTD does not pay during this period
-- Your sick banks and SDI cover this time
-- Day 181 is when LTD payments can start
-
-### Counting the Days
-
-**Day 1 starts:**
-
-- The first day you cannot work due to disability
-- Usually the day after your last day worked
-
-**Days continue if:**
-
-- You remain disabled
-- You don't return to work
-- Your doctor continues to certify disability
+You must be **continuously disabled** for 180 days. Your sick banks and CA SDI cover this window.
 
 ## LTD vs. SDI Timing
-
-### Overlap and Coordination
 
 | Period     | SDI Status     | LTD Status         |
 | ---------- | -------------- | ------------------ |
@@ -58,172 +30,87 @@ Day 181:     LTD benefits begin (if approved and eligibility met)
 | Days 8-180 | Paying         | Elimination period |
 | Days 181+  | May continue   | Now paying         |
 
-### How They Work Together
-
-1. **Months 1-6:** SDI is your primary income (plus sick banks)
-2. **Month 7+:** LTD begins, SDI may continue
-3. **Offset applies:** LTD reduces payment by SDI amount
-
-This is where the [offset problem](/guide/overview/offset-problem) becomes critical.
+Once LTD begins, the offset applies — LTD reduces its payment by the CA SDI amount you are receiving (or expected to receive). See the [offset problem](/guide/overview/offset-problem).
 
 ## Qualifying for LTD
 
-### Own Occupation Period
+### Own Occupation Period (Months 1-24)
 
-For the first **24 months** of LTD benefits:
+For the first **24 months** of LTD benefits, disabled means unable to perform **your own occupation** as a pilot — i.e., you cannot hold a first-class medical and fly the line.
 
-- Disabled means unable to perform your **own occupation**
-- For pilots: unable to fly as a pilot
-- Any restriction preventing flight qualifies
+### Any Occupation Period (Month 25+)
 
-### Any Occupation Period
+After 24 months, disabled means unable to perform **any occupation** for which you are reasonably qualified by education, training, or experience.
 
-After 24 months:
-
-- Disabled means unable to perform **any occupation**
-- More restrictive standard
-- Must be unable to do any work you're qualified for
-
-::callout{type="warning" title="Different Standards"}
-You might qualify during the "own occupation" period but not the "any occupation" period. Plan accordingly.
+::callout{type="warning" title="The 24-Month Transition"}
+Many conditions that qualify under "own occupation" do not qualify under "any occupation." A pilot grounded by a vision standard may still be able to work a desk job. This is the most common point of claim termination. Build your medical record with the "any occupation" standard in mind well before month 24.
 ::
 
-## Applying for Hartford LTD
+## Applying for LTD
 
 ### When to Apply
 
-**Apply early:** Don't wait until day 180
-
-- Apply around day 90-120
-- Processing takes time
-- Ensures payments start promptly at day 181
+**Apply around day 90-120** — do not wait until day 180. Processing takes 2-4 weeks, and late filing delays your first payment past day 181.
 
 ### How to Apply
 
-1. **Contact Hartford** directly at 1-888-563-1124
-2. **Request claim forms**
-3. **Complete employee section**
-4. **Have doctor complete medical section**
-5. **Have FedEx complete employer section**
-6. **Submit and follow up**
+1. **Confirm the current administrator** — call FedEx Benefits Service Center (1-855-545-4748); may be Aetna or Hartford
+2. **Request claim forms** — the employer statement is completed by FedEx payroll, not you
+3. **Complete the employee statement**
+4. **Have your treating physician complete the attending physician statement**
+5. **Have FedEx complete the employer section**
+6. **Submit and follow up in writing**
 
-### Required Information
+## Benefit Amount
 
-**Personal:**
+Hartford LTD pays:
 
-- Full name and address
-- Social Security Number
-- Date of birth
-- Contact information
+- **60%** of pre-disability earnings (months 1-24); **50%** thereafter
+- Capped at the IRS 401(a)(17) limit ($350,000 for 2026)
+- Reduced by CA SDI, SSDI, and other offset income
 
-**Employment:**
-
-- Employee ID
-- Hire date
-- Job title and description
-- Last day worked
-- Current salary information
-
-**Medical:**
-
-- Treating physician information
-- Diagnosis and prognosis
-- Treatment plan
-- Work restrictions
-
-## LTD Policy Details
-
-### Benefit Amount
-
-Under the contract, LTD benefits pay:
-
-- **60%** of pre-disability earnings for the first 24 months of disability.
-- **50%** of pre-disability earnings after the first 24 months.
-- These benefits are subject to the IRS 401(a)(17) annual compensation limit ($350,000 for 2026).
-- Payments are reduced by other coordinate incomes, such as state SDI.
-
-**Maximum Monthly Benefit Calculation (First 24 Months):**
+**Maximum monthly benefit (before offsets):**
 
 ```
-$350,000 × 60% ÷ 12 = $17,500/month (before offsets)
+$350,000 × 60% ÷ 12 = $17,500/month
 ```
 
 ### Taxability
 
-Hartford premiums are employer-paid, so:
+Hartford premiums are employer-paid, so LTD benefits are **taxable income** subject to federal (and California state) income tax.
 
-- LTD benefits are taxable income
-- Federal income tax applies
-- State income tax may apply
-
-## Planning for the Transition
-
-### Financial Timeline
+## Financial Timeline
 
 ```
-Months 1-6:  Sick banks + SDI
-Month 7+:    LTD + possibly SDI
+Months 1-6:  Sick banks + SDI (180-day elimination period)
+Month 7+:    LTD begins; CA SDI offset applied; first payment ~2-4 weeks after approval
+Month 13+:   SDI exhausts at 52 weeks; full LTD amount paid (no SDI offset)
+Month 25+:   LTD rate drops from 60% to 50%
 ```
 
-### Key Considerations
-
-1. **Cash flow gap:** Ensure you can cover first 180 days
-2. **First LTD payment:** May take additional processing time
-3. **Offset impact:** LTD payment will be reduced by SDI
-
-### Documenting for Hartford
-
-Keep records of:
-
-- All SDI payments received
-- Sick bank usage
-- Any other disability income
-- Medical treatment and documentation
-
-Hartford will ask for this information and verify it.
+**Cash flow gap:** Ensure you can cover the first 180 days. The first LTD payment will arrive 2-4 weeks after approval, not on day 181 itself.
 
 ## Common LTD Issues
 
 ### Claim Denied
 
-If Hartford denies your LTD claim:
+If the administrator denies your LTD claim:
 
-- Review denial reason carefully
-- You have **180 days** to appeal
-- Gather additional medical evidence
-- Consider legal representation
-
-### Delayed Approval
-
-If approval takes too long:
-
-- Follow up regularly
-- Document all contacts
-- Escalate if necessary
-- Consider contacting ALPA
+- Review the denial reason carefully — the specific language determines your appeal grounds
+- You have **180 days** from the denial date to file an internal appeal
+- File the appeal in writing; request a copy of your complete claim file under ERISA
 
 ### Offset Disputes
 
 If you disagree with the administrator's offset calculation:
 
-- Request detailed calculation
-- Compare to policy language
+- Request the detailed calculation in writing, including the SDI/SSDI amounts used
+- Compare to your EDD approval letter and actual payment records
 - Review [comprehensive offset rules](/guide/hartford/offsets)
-- Use [PBRB process](/guide/hartford/pbrb) if needed
-
-## Additional LTD Topics
-
-For complete CBA-based information about LTD benefits:
-
-- **[LTD Eligibility Triggers](/guide/hartford/eligibility)** - When LTD actually begins
-- **[Benefit Calculation](/guide/hartford/calculation)** - How benefits are calculated
-- **[Offset Rules](/guide/hartford/offsets)** - CA SDI, SSDI, and outside income offsets
-- **[Cooperation Requirements](/guide/hartford/cooperation)** - What's required to maintain benefits
-- **[Duration Limits](/guide/hartford/duration)** - How long benefits last by condition type
-- **[Company System Access](/guide/hartford/company-access)** - Your right to access company systems
+- Use the [PBRB process](/guide/hartford/pbrb) if the administrator does not correct the calculation
 
 ## Next Steps
 
-- [How Offset Is Calculated](/guide/hartford/offset-calculated) - Understanding the math
-- [Calculator](/calculator) - Calculate your expected benefits
-- [Hartford Contact](/contacts) - Hartford phone and details
+- [How Offset Is Calculated](/guide/hartford/offset-calculated) — Understanding the math
+- [Calculator](/calculator) — Calculate your expected benefits
+- [Hartford Contact](/contacts) — Hartford phone and details

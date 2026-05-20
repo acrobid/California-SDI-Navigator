@@ -7,23 +7,14 @@ order: 3
 
 # What to Bring to the EDD Office
 
-A successful in-person visit requires thorough preparation. Here's everything you need.
-
 ## Required Items
 
 ### Identification
 
 **Must Have:**
 
-- [ ] Valid government-issued photo ID
-  - California driver's license, OR
-  - California state ID, OR
-  - US Passport, OR
-  - Other government-issued ID
-
-- [ ] Social Security Number
-  - Card not required, but know your full 9-digit number
-  - Some offices may ask to see the card
+- [ ] Valid government-issued photo ID (CA driver's license, CA state ID, US passport, or other government-issued ID)
+- [ ] Social Security Number — card not required, but know your full 9-digit number; some offices ask to see the card
 
 ### Claim Information
 
@@ -35,10 +26,8 @@ A successful in-person visit requires thorough preparation. Here's everything yo
 ### Medical Information
 
 - [ ] Treating physician's full name
-- [ ] Doctor's phone number
-- [ ] Doctor's address
+- [ ] Doctor's phone number and address
 - [ ] Doctor's medical license number (verify at mbc.ca.gov)
-- [ ] Brief description of your condition
 
 ## Recommended Items
 
@@ -46,28 +35,24 @@ A successful in-person visit requires thorough preparation. Here's everything yo
 
 - [ ] Last 3-4 pay stubs
 - [ ] Most recent W-2
-- [ ] Any correspondence regarding pay
 - [ ] Bank account information (if setting up direct deposit)
 
 ### Pilot-Specific Documents
 
 ::callout{type="tip" title="Pilot Pay Explanation"}
-EDD staff may not understand airline pilot compensation. Bringing a written explanation can save time and confusion.
+EDD staff may not understand airline pilot compensation. Bringing a written explanation can save time and prevent your claim from being held for clarification.
 ::
 
-**Recommended Pilot Documents:**
-
-- [ ] Written explanation of pilot pay structure (template below)
-- [ ] Sample pay stub with components highlighted
-- [ ] Summary of recent earnings by month
-- [ ] Explanation of sick bank usage if applicable
+- [ ] Printed pilot pay explanation (template below) — customized with your details
+- [ ] Sample pay stub with flight pay, per diem, and override pay components highlighted
+- [ ] Monthly earnings summary for the last 3-4 months
 
 ### Supporting Documents
 
 - [ ] Any letters from EDD
 - [ ] Previous denial notices (if appealing)
 - [ ] Doctor's written statement (if available)
-- [ ] List of questions you need answered
+- [ ] Written list of specific questions you need answered
 
 ## Pilot Pay Explanation Template
 
@@ -110,34 +95,15 @@ Date: _______________
 
 ## Comfort Items
 
-### For the Long Wait
-
 You'll likely wait 4-6+ hours. Bring:
 
-- [ ] Fully charged phone (and charger/power bank)
-- [ ] Book, tablet, or entertainment
+- [ ] Fully charged phone and charger/power bank
 - [ ] Snacks and water
 - [ ] Any medications you need
-- [ ] Something to sit on if lines are outside
-- [ ] Weather-appropriate clothing (for outdoor lines)
-
-### Practical Needs
-
+- [ ] Something to sit on if lines form outside
+- [ ] Weather-appropriate clothing for outdoor lines
 - [ ] Notepad and pen
 - [ ] Folder to keep documents organized
-- [ ] Reading glasses if needed
-
-## Digital Backups
-
-### On Your Phone
-
-Have these ready to show or reference:
-
-- [ ] Photos of key documents
-- [ ] EDD online portal login
-- [ ] Important phone numbers
-- [ ] Notes about your situation
-- [ ] This guide (for reference)
 
 ## Checklist by Purpose
 
@@ -155,7 +121,7 @@ Have these ready to show or reference:
 
 - [ ] Photo ID
 - [ ] Claim confirmation number
-- [ ] List of specific issues/questions
+- [ ] Written list of specific issues/questions
 - [ ] Any correspondence from EDD
 - [ ] Any documents they've requested
 
@@ -163,7 +129,7 @@ Have these ready to show or reference:
 
 - [ ] Photo ID
 - [ ] The EDD letter requesting documents
-- [ ] All requested documents (copies + originals)
+- [ ] All requested documents — bring copies AND originals; ask for a receipt when submitting
 - [ ] Cover sheet listing what you're providing
 
 ### If Appealing a Denial:
@@ -171,45 +137,19 @@ Have these ready to show or reference:
 - [ ] Photo ID
 - [ ] Original denial letter
 - [ ] Your written appeal (if not already submitted)
-- [ ] All supporting documentation
-- [ ] Medical records/doctor statements
+- [ ] All supporting documentation and medical records
 
-## Document Preparation Tips
+## Document Preparation
 
-### Make Copies
-
-- Bring originals AND copies
-- Never give away your only copy of anything
-- Ask for receipts when submitting documents
-
-### Organize Everything
-
-- Use a folder or binder
-- Label sections clearly
-- Put most important items on top
-
-### Highlight Key Information
-
-On pay stubs and complex documents:
-
-- Highlight your gross earnings
-- Mark dates clearly
-- Note any items you need to explain
+- Bring originals AND copies — never surrender your only copy of anything
+- Ask for a dated receipt when submitting documents
+- On pay stubs, highlight gross earnings and mark pay period dates so EDD staff can locate the figures quickly
 
 ## What NOT to Bring
-
-### Leave These at Home:
 
 - ❌ Original birth certificate (copy is fine if needed)
 - ❌ Medical records you weren't asked to provide
 - ❌ Every document you've ever received
-- ❌ Anything valuable that could be lost
-
-### Don't Bring Frustration
-
-- Representatives can't control wait times
-- Being polite gets better results
-- Prepared = less stressful for everyone
 
 ## Quick Reference Card
 

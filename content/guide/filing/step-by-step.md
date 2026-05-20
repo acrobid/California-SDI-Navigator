@@ -25,10 +25,10 @@ Have these ready before starting:
 
 **Employment Information:**
 
-- FedEx's name and address
-- Your employee ID
-- Last day worked
-- Usual occupation: "Airline Pilot"
+- Employer: **Federal Express Corporation**, 3620 Hacks Cross Rd, Building B, 3rd floor, Memphis, TN 38125
+- Supervisor/verification contact: **Sheila Voye**, PAC Fleet Operations, 901-434-5000
+- Last day worked (last flight or duty period)
+- Usual occupation: **Airline Pilot**
 
 **Medical Information:**
 
@@ -105,9 +105,8 @@ If your last flight was August 28 and you didn't fly at all in September before 
 
 **Wage Information:**
 
-- The system may pre-populate from state records
-- Verify it looks reasonable
-- Note any discrepancies
+- EDD pre-populates wages from employer DE 9C filings — verify the quarters shown match your FedEx pay stubs; if the amounts look off, this is the bid-month reporting issue (see [Understanding Your Pay Structure](/guide/preparation/understanding-pay))
+- Do not manually alter pre-populated wages in the portal; discrepancies are resolved after filing by contacting EDD with supporting pay stubs
 
 ### Step 6: Disability Information
 
@@ -181,28 +180,21 @@ If you're currently using sick leave, answer Yes. This doesn't disqualify you—
 
 ### Immediate Steps
 
-1. **Screenshot or print** confirmation page
-2. **Save confirmation number** in multiple places
-3. **Note the date** you filed
+1. **Screenshot or print** the confirmation page — it contains the Claim Receipt Number your physician needs for Part B
+2. **Note the date** you filed — the 49-day deadline runs from disability start, not from filing; if your Part B is still pending at Day 45, escalate with your physician immediately
 
 ### Within 24-48 Hours
 
-1. You may receive email confirmation
-2. Check your EDD account for claim status
-3. No action needed unless contacted
+1. You may receive an email confirmation from EDD
+2. Contact your physician with the Claim Receipt Number so they can complete Part B online
 
 ### Doctor's Certification
 
-Your doctor must complete their certification:
+Your doctor must complete their certification (Part B):
 
-1. EDD may contact your doctor directly, OR
-2. You may need to facilitate this
-
-Ask your doctor:
-
-- Can they complete online via EDD?
-- Do they need a paper form?
-- How long will it take them?
+1. Give your physician the **Claim Receipt Number** from your confirmation page — they enter it at SDI Online to link their certification to your claim
+2. If your physician is not registered for SDI Online, mail them Form DE 2501 Part B; this adds 1–2 weeks
+3. If Part B is not received within ~10 days, call EDD at 1-800-480-3287 to confirm it's pending, then follow up with your physician directly
 
 ## Troubleshooting
 
@@ -227,10 +219,9 @@ Call EDD immediately to correct. Incorrect doctor information is a major cause o
 
 After filing, monitor your claim:
 
-1. Log into EDD online account
-2. Check status regularly (every few days)
-3. Watch for mail/email from EDD
-4. Respond immediately to any requests
+1. Log into SDI Online and check status after 14 days — the claim will show "Pending" until Part B is received and processed
+2. Watch for physical mail from EDD — benefit payment notices and denial letters arrive by mail, not email; a debit card from Bank of America means approval
+3. If you receive a "Request for Additional Information" letter, respond before the deadline printed on the letter — a missed deadline suspends payment
 
 ## Next Steps
 
