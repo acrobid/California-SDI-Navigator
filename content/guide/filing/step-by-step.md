@@ -3,7 +3,6 @@ title: "Step-by-Step Filing"
 description: "Detailed walkthrough of the SDI claim process"
 icon: "i-lucide-list-ordered"
 order: 3
-lastUpdated: "2026-01-11"
 ---
 
 # Step-by-Step Filing Guide

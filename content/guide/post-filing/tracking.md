@@ -3,7 +3,6 @@ title: "Tracking Your Claim"
 description: "How to monitor your SDI claim status"
 icon: "i-lucide-search"
 order: 2
-lastUpdated: "2026-01-11"
 ---
 
 # Tracking Your SDI Claim

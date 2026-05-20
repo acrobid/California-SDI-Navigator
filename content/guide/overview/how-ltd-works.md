@@ -3,7 +3,6 @@ title: "How FedEx LTD Works"
 description: "Understanding Long-Term Disability benefits under the CBA"
 icon: "i-lucide-building"
 order: 2
-lastUpdated: "2026-01-11"
 ---
 
 # How FedEx LTD Works

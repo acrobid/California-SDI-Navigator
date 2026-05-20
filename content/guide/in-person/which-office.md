@@ -3,7 +3,6 @@ title: "Which Office to Visit"
 description: "Finding the right EDD office for your needs"
 icon: "i-lucide-map-pin"
 order: 2
-lastUpdated: "2026-01-11"
 ---
 
 # Which EDD Office to Visit

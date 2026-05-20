@@ -3,7 +3,6 @@ title: "When to Go In Person"
 description: "Deciding when an in-person EDD visit is worth it"
 icon: "i-lucide-building"
 order: 1
-lastUpdated: "2026-01-11"
 ---
 
 # When to Go In Person to EDD

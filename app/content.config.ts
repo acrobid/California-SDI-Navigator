@@ -13,7 +13,10 @@ export default defineContentConfig({
         title: z.string(),
         description: z.string().optional(),
         icon: z.string().optional(),
-        lastUpdated: z.string().optional(),
+        lastUpdated: z.string().default(() =>
+          new Date().toLocaleDateString("en-US", { month: "long", year: "numeric" })
+        ),
+        updatedAt: z.number().optional(),
         order: z.number().optional(),
       }),
     }),

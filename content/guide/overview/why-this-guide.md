@@ -3,7 +3,6 @@ title: "Why This Guide Exists"
 description: "The motivation behind creating this resource for FedEx pilots"
 icon: "i-lucide-heart"
 order: 4
-lastUpdated: "2026-01-11"
 ---
 
 # Why This Guide Exists
@@ -13,140 +12,67 @@ Every pilot who has navigated the CA SDI process has had to figure it out largel
 ## The Problem
 
 ### Information Asymmetry
+When becoming disabled, California-based FedEx pilots face a frustrating information gap. There is no official documentation tailored to their unique pay structures. Instead, pilots are left to navigate California's Employment Development Department (EDD) systems, which were built for standard hourly or salaried W-2 workers. To make matters worse, the two major bureaucracies—EDD and the long-term disability claims administrator—do not coordinate with each other, placing the burden of communication entirely on the pilot during an already stressful medical recovery.
 
-When you become disabled as a California-based FedEx pilot, you encounter:
-
-- **No official documentation** specifically for pilot claims
-- **EDD systems** designed for typical W-2 employees, not pilots
-- **Pay structures** that don't translate well to EDD's understanding
-- **Two bureaucracies** (EDD and Hartford) that don't coordinate
-- **Time pressure** when you're already dealing with health issues
-
-### Repeated Effort
-
-Each pilot who goes through this process:
-
-- Spends dozens of hours researching and making calls
-- Makes mistakes that cause delays
-- Discovers tips and tricks that would have saved time
-- Eventually figures it out—then keeps the knowledge to themselves
-
-When that pilot recovers and moves on, the institutional knowledge is lost. The next pilot starts from scratch.
+### Repeated and Lost Effort
+In the past, every pilot who went through this process had to figure it out individually. Pilots have spent dozens of hours researching rules, waiting on hold, and discovering small administrative workarounds through trial and error. Once a pilot recovers and returns to the line, that institutional knowledge is often lost, forcing the next disabled pilot to start from scratch.
 
 ### Financial Consequences
-
-Mistakes in this process can cost you:
-
-- **Thousands of dollars** in delayed or reduced benefits
-- **Missed deadlines** that forfeit appeal rights
-- **Bureaucratic delays** that extend financial hardship
-- **Unnecessary stress** during an already difficult time
+Filing errors or delays can carry significant financial consequences. Missing a deadline or filling out a form incorrectly can lead to thousands of dollars in delayed or permanently reduced benefits. These administrative delays create unnecessary financial hardship and stress when the primary focus should be returning to health.
 
 ## The Solution
 
 ### Collective Knowledge
+This guide acts as a central repository for the shared experiences of pilots who have successfully navigated the claim process. It compiles step-by-step procedures that actually work for the pilot pay system, highlights common pitfalls to avoid, and provides templates and calculators to simplify tracking and estimating benefits.
 
-This guide consolidates the experience of pilots who have successfully navigated the process:
-
-- Step-by-step procedures that actually work
-- Common pitfalls and how to avoid them
-- Time-saving tips from real experience
-- Templates for common communications
-- Tools to calculate benefits and track progress
-
-### Living Document
-
-This resource is designed to be:
-
-- **Updated** when laws and rates change
-- **Improved** based on pilot feedback
-- **Expanded** as new situations are documented
-- **Maintained** by the pilot community
+### A Living Document
+Because CBA limits, tax rates, and EDD procedures change, this guide is designed as a living resource. It relies on continuous contributions and feedback from the pilot community to keep instructions accurate and to cover new edge cases as they arise.
 
 ## Who Is This For?
 
 ### Active Claimants
-
-If you're currently disabled or about to become disabled, this guide provides:
-
-- Immediate, actionable guidance
-- Checklists to track your progress
-- Calculators to understand your benefits
-- Templates to communicate effectively
+If you are currently disabled or have an immediate need to file, this guide offers actionable steps, interactive checklists to monitor progress, benefit calculators, and templates to streamline your paperwork.
 
 ### Preparing Pilots
-
-If you have a surgery scheduled or anticipate a disability:
-
-- Preparation steps you can take now
-- Documents to gather before you need them
-- Understanding of the process before stress hits
-- Optimal timing for filing claims
+For pilots preparing for a scheduled surgery or anticipating a leave of absence, these resources help outline the documents to gather ahead of time and explain the timing strategies that maximize benefit coordination under the contract.
 
 ### Healthy Pilots
-
-Even if you're perfectly healthy now:
-
-- Understand what you're paying for (SDI taxes)
-- Know what to expect if you ever need it
-- Save documents proactively
-- Help colleagues who are going through it
+Even for pilots currently healthy and flying, it is valuable to understand what SDI tax dollars pay for. Proactively saving key pay stubs and knowing how the system works ensures protection and enables pilots to assist fellow crew members facing a sudden disability.
 
 ## What This Guide Doesn't Do
 
-To be clear about the limits:
+To be clear about the limitations of this resource:
 
 ::callout{type="warning" title="Important Limitations"}
-
-- **Not legal advice:** Consult an attorney for legal questions
-- **Not medical advice:** Follow your doctor's guidance
-- **Not union representation:** Contact ALPA for official union matters
-- **Not guaranteed:** Every situation is different
-  ::
+* **Not legal advice:** This guide is written by pilots, not attorneys. Consult legal counsel for specific legal issues.
+* **Not medical advice:** Always follow your physician's guidance regarding treatment and recovery timelines.
+* **Not union representation:** This is an unofficial community guide. For official representation and benefit questions, contact ALPA R&I.
+* **No guarantees:** Every pilot's tax history and medical case is unique; steps that worked for others may require adjustments for you.
+::
 
 ## The Community Aspect
-
-This guide exists because pilots helped pilots. The information here comes from:
-
-- Pilots who documented their own experiences
-- Subject matter experts who contributed knowledge
-- Colleagues who reviewed and improved content
-- Everyone who shared tips and warnings
-
-If you successfully navigate this process, consider contributing your own insights to help the next pilot.
+This guide exists because pilots helped pilots. The information gathered here comes from crew members who documented their own claims, subject matter experts who reviewed the contract rules, and colleagues who contributed tips and warnings. If you successfully navigate this process, please consider sharing your insights so this document remains accurate for the next pilot.
 
 ## Getting Started
 
-Ready to dive in? Here's where to start:
+Depending on the phase of the claim process, pilots can start with these resources:
 
-### If You're Currently Disabled
+### Active Claims
+1. Check the interactive [Checklist](/checklist) to determine your current phase.
+2. Read the corresponding [Guide section](/guide) for detailed steps.
+3. Estimate your payments using the [Benefit Calculator](/calculator).
+4. Review key numbers in the [Contacts directory](/contacts).
 
-1. Check the [Checklist](/checklist) to see what phase you're in
-2. Read the relevant [Guide section](/guide)
-3. Use the [Calculator](/calculator) to understand your benefits
-4. Review [Contacts](/contacts) for important phone numbers
+### Pre-Disability Preparation
+1. Understand how pilot pay is mapped under the guide for [Preparation](/guide/preparation/understanding-pay).
+2. Review the pay stubs and forms [to save now](/guide/preparation/what-to-save).
+3. Visualize the expected process flow on the [Timeline](/timeline).
+4. Review strategic options for the [sick bank strategy](/guide/preparation/sick-bank-strategy).
 
-### If You're Preparing
-
-1. Start with [Preparation](/guide/preparation/understanding-pay)
-2. Gather [documents to save now](/guide/preparation/what-to-save)
-3. Understand the [Timeline](/timeline) you can expect
-4. Consider your [sick bank strategy](/guide/preparation/sick-bank-strategy)
-
-### If You Just Want to Understand
-
-1. Read [How CA SDI Works](/guide/overview/how-sdi-works)
-2. Learn about [The Offset Problem](/guide/overview/offset-problem)
-3. Explore the [Calculator](/calculator) with sample numbers
-4. Browse the [Guide index](/guide) for topics of interest
+### General Information
+1. Read the basics of [How CA SDI Works](/guide/overview/how-sdi-works).
+2. Learn about the mechanics of [The Offset Problem](/guide/overview/offset-problem).
 
 ## Questions or Contributions?
+If you find inaccuracies, have updates to share, or want to contribute a success story to help others, inputs are welcome. The goal is to maintain a comprehensive, reliable guide that serves California-based FedEx pilots when they need it most.
 
-If you have:
-
-- **Corrections:** Something that's inaccurate or outdated
-- **Additions:** Knowledge that should be included
-- **Questions:** Something not covered that should be
-- **Success stories:** Examples that could help others
-
-We welcome your input. The goal is to make this the comprehensive resource that California-based FedEx pilots need.

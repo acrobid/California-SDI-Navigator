@@ -3,162 +3,98 @@ title: "The Offset Problem"
 description: "Understanding why CA SDI creates financial challenges for California-based FedEx pilots"
 icon: "i-lucide-alert-triangle"
 order: 3
-lastUpdated: "2026-01-11"
 ---
 
 # The Offset Problem
 
-This is the core issue that this guide exists to help you navigate. Understanding the offset problem is essential for any California-based FedEx pilot who may need disability benefits.
+This is the core issue that this guide exists to help pilots navigate. Understanding the mechanics of the offset is essential for any California-based FedEx pilot who might eventually need disability coverage.
 
 ## What Is the Offset Problem?
+When a pilot becomes disabled and qualifies for Long-Term Disability (LTD) benefits under the contract, the claims administrator reduces the monthly LTD payment by the amount they expect the pilot to receive from California State Disability Insurance (SDI). 
 
-When you become disabled and transition to Long-Term Disability (LTD) benefits, The Hartford reduces your LTD payment by the amount they expect you to receive from California State Disability Insurance (SDI).
-
-**The problem:** This reduction happens **regardless of whether you've actually received your SDI payment.**
+The critical issue is that **this reduction happens immediately, regardless of whether the pilot has actually received their first SDI check.**
 
 ::callout{type="danger" title="The Real-World Impact"}
-You may be receiving LTD payments that are reduced by $5,000-7,000+ per month for SDI you haven't actually received yet. This can continue for weeks or months while EDD processes your claim.
+Because the administrator offsets the expected SDI benefit immediately, monthly LTD checks are cut by approximately $7,642 (based on the 2026 maximum weekly SDI benefit of $1,765 times 4.33). If EDD experiences processing delays—which are common for pilots—the pilot is left to absorb a cash flow gap of thousands of dollars each month while waiting for the state to approve the claim.
 ::
 
 ## How It Works
 
 ### The Theory
-
-In theory, the offset is supposed to work like this:
-
-1. You become disabled and file for both SDI and LTD
-2. You receive SDI weekly payments (~$1,765/week max)
-3. Hartford calculates your LTD and reduces it by the SDI amount
-4. **Net result:** You receive roughly the same total income, just from two sources
+Under the contract's benefit coordination guidelines, the offset is intended to work seamlessly:
+1. The pilot goes on disability and files claims with both the state (SDI) and the LTD administrator.
+2. The state pays the weekly SDI benefit (up to $1,765/week).
+3. The administrator pays the remainder of the gross LTD benefit (60% of monthly earnings, capped at the IRS limit).
+4. **Net result:** The pilot's total combined monthly income matches the 60% gross benefit level, divided across two paying sources.
 
 ### The Reality
+In practice, the system frequently breaks down because the state and the administrator do not coordinate:
+1. The pilot files claims with EDD and the LTD administrator.
+2. EDD flags pilot pay structures, causing weeks or months of processing delays.
+3. The administrator begins paying LTD, but immediately deducts the expected $7,642/month SDI offset.
+4. While the EDD claim sits in verification purgatory, the pilot receives nothing from the state, yet their LTD check is already reduced.
+5. **Net result:** The pilot experiences a major drop in expected monthly income while the claim is pending.
 
-In reality, here's what often happens:
+### Example Scenario (Based on 2026 Rates)
 
-1. You become disabled and file for SDI and LTD
-2. EDD takes weeks or months to process your SDI claim
-3. Hartford starts paying LTD **already reduced** by expected SDI
-4. You receive no SDI but your LTD is already reduced
-5. **Net result:** You receive significantly less income during the delay
+| Without Delay | With a 2-Month EDD Delay |
+| ------------- | ------------------------ |
+| Gross LTD Benefit: $17,500/mo | Gross LTD Benefit: $17,500/mo |
+| State SDI Offset: -$7,642/mo | State SDI Offset: -$7,642/mo |
+| State SDI Received: +$7,642/mo | State SDI Received: $0/mo (Delayed) |
+| **Actual Income: $17,500/mo** | **Actual Income: $9,858/mo** |
 
-### Example Scenario
+In this scenario, a pilot is shorted $7,642 per month during the delay. Over a typical two-to-three-month EDD audit, this creates a temporary cash shortfall of $15,000 to $22,000.
 
-| Without Delay       | With 2-Month EDD Delay |
-| ------------------- | ---------------------- |
-| LTD: $17,000/mo     | LTD: $17,000/mo        |
-| Offset: -$7,000     | Offset: -$7,000        |
-| SDI: +$7,000        | SDI: $0 (delayed)      |
-| **Net: $17,000/mo** | **Net: $10,000/mo**    |
+## Why Does the Administrator Offset Immediately?
 
-In this example, you're effectively losing $7,000/month during the EDD processing delay—potentially $14,000-21,000 or more over a typical 2-3 month delay.
+### The Policy Language
+The LTD plan document specifies that benefits are offset by any income a pilot is "entitled to receive" or is "expected to receive" from state plans, rather than what has *actually* been received.
 
-## Why Does Hartford Do This?
+### The Administrator's Stance
+From the claims administrator's viewpoint, the logic is straightforward:
+* Because California requires SDI coverage, pilots are legally entitled to it and must file.
+* The maximum SDI benefit is easily calculated based on the wages reported by FedEx.
+* The plan is structured to prevent "double dipping" (paying both full LTD and SDI for the same period).
 
-### Legal Basis
+### The Inequity for California Pilots
+From the perspective of pilots, this setup creates an unfair burden. Pilots pay a mandatory 1.3% SDI tax on their entire gross income (uncapped since 2024), perform all the bureaucratic work of filing and resolving claim issues, and yet bear 100% of the financial risk when the state delays payments.
 
-Hartford's plan documents likely specify that benefits are offset by amounts the claimant is "entitled to receive" or "expected to receive," not just amounts actually received.
+Furthermore, California-based pilots are placed at a disadvantage compared to pilots based in other states:
 
-### Their Perspective
+| Cost/Benefit Area | California-Domiciled Pilot | Out-of-State Domiciled Pilot |
+| ----------------- | -------------------------- | ---------------------------- |
+| **Annual SDI Taxes** | 1.3% of all wages (uncapped) | $0 |
+| **LTD Offset** | Yes (expected SDI is deducted) | No state offset |
+| **Filing Burden** | High (EDD online and phone queues) | None |
+| **Net Income Goal** | 60% of Monthly Earnings | 60% of Monthly Earnings |
+| **Delay Risk** | Significant monthly cash flow gaps | None |
 
-From Hartford's perspective:
+This represents a clear inequity. California-based pilots pay thousands in additional taxes for a benefit that provides zero additional net income when functioning properly, and carries severe financial risk when it is delayed.
 
-- California requires SDI coverage, so you should be filing for it
-- The SDI amount is calculable based on your wages
-- They want to avoid paying twice for the same disability period
+## Historical Context (The SB 951 Shift)
+Prior to 2024, the CA SDI tax was capped at a maximum wage base (which was $165,000 in 2023, resulting in a maximum annual tax of about $1,500). While the offset problem still existed, the tax burden was relatively low. 
 
-### The Unfairness
+Starting January 1, 2024, California Senate Bill 951 eliminated the wage cap. Now, the 1.3% tax applies to all pilot wages, meaning a Captain earning $400,000 pays $5,200 annually in SDI taxes, and a high-flying senior Captain could pay $8,000 or more. Because pilots pay so much more into the system, the stakes are far higher, making it critical that they secure the benefits they are funded to receive.
 
-From your perspective:
+## Mitigating the Offset Risk
 
-- You're paying SDI taxes (1.3% of ALL income, uncapped since 2024)
-- You're doing the bureaucratic work of filing a claim
-- But if there are delays, YOU bear the financial burden, not Hartford
+To protect against the cash flow impact of the offset, pilots should adopt these tactical steps:
 
-## Comparison: California vs. Other Bases
+* **File the SDI Claim Immediately:** Do not wait for sick banks or DSA accounts to run out. The state allows pilots to file as soon as they are disabled, and getting the claim approved early ensures that SDI payments are active before LTD begins.
+* **Observe Filing Windows:** Pilots must file the EDD claim within **49 days** of their disability onset date. Missing this deadline can forfeit eligibility.
+* **Track the LTD Appeal Window:** If the LTD claims administrator miscalculates the offset or applies it incorrectly, the pilot has **180 days** to submit a formal appeal.
+* **Understand the Plan Rules:** If the administrator applies an offset that is incorrect, the pilot can request a detailed calculation sheet and review the numbers. If unresolved, they can escalate the issue through the Pilot Benefit Review Board (PBRB) process.
 
-| Situation           | CA-Based Pilot               | Memphis-Based Pilot |
-| ------------------- | ---------------------------- | ------------------- |
-| SDI Taxes Paid      | ~$5,000-8,000/year           | $0                  |
-| LTD Offset          | Yes (for SDI)                | No SDI offset       |
-| Bureaucratic Burden | High                         | Low                 |
-| Net Benefit         | Same (if no delays)          | Same                |
-| Risk if Delays      | Significant income reduction | No SDI-related risk |
-
-::callout{type="info" title="The Inequity"}
-California-based pilots pay thousands in additional taxes for a benefit that, when functioning properly, provides zero additional net income. And when there are delays, CA pilots suffer reduced income that pilots at other bases never experience.
-::
-
-## Historical Context
-
-### Before 2024
-
-- SDI taxes were capped at a maximum wage base (~$165,000 in 2023)
-- Maximum SDI tax was around $1,500/year
-- The offset problem existed but had limited financial impact
-
-### After 2024 (SB951)
-
-- SDI taxes now apply to ALL income with no cap
-- High-earning pilots can pay $5,000-8,000+ per year in SDI taxes
-- The financial stakes of the offset problem have dramatically increased
-- Processing delays have become much more consequential
-
-## What Can You Do?
-
-### Minimize Delays
-
-The best strategy is to minimize EDD processing delays:
-
-1. **File early:** Don't wait until your sick bank is exhausted
-2. **File correctly:** Avoid errors that cause rejections
-3. **Be proactive:** Follow up regularly on your claim
-4. **Document everything:** Keep records of all communications
-
-### Track Deadlines
-
-- **49-day filing deadline:** Don't miss this or you may lose benefits
-- **6-month Hartford appeal deadline:** Critical if you disagree with offset calculation
-- **Document all dates:** Create a timeline of your claim
-
-### Use This Guide
-
-Follow the guidance in this resource:
-
-- [Preparation](/guide/preparation/understanding-pay) - Get ready before you need to file
-- [Filing](/guide/filing/when-to-file) - Submit your claim correctly
-- [Checklist](/checklist) - Track your progress
-- [Timeline](/timeline) - Monitor your deadlines
-
-### Consider Appealing
-
-If Hartford's offset seems incorrect or excessive:
-
-- Review their calculation methodology
-- Check if they're offsetting correctly
-- Consider appealing through ALPA's PBRB process
-
-## The Bigger Picture
-
-Some pilots have successfully argued for changes to how offsets are applied or for reimbursement when SDI payments were delayed. This often requires:
-
-- Thorough documentation
-- Understanding of plan language
-- Sometimes legal assistance
-- Persistence
-
-::callout{type="tip" title="Document Now"}
-Even if you're not currently disabled, start documenting now:
-
-- Save pay stubs
-- Understand your sick bank
-- Know your contacts
-- Review this guide
-
-Being prepared can save you thousands of dollars and countless hours of stress.
+::callout{type="tip" title="Proactive Steps to Take Now"}
+Even if you are currently healthy and flying, taking a few preparation steps now will make a future claim much smoother:
+* Save your monthly pay stubs from Workday (EDD lookback periods go back up to 24 months).
+* Know your current sick bank and DSA balances.
+* Keep this guide bookmarked and familiarize yourself with the filing steps before a medical issue arises.
 ::
 
 ## Next Steps
+* Review the details on how the [Pay Structure is Mapped](/guide/preparation/understanding-pay).
+* Read how the [LTD Plan is Calculated](/guide/hartford/calculation) under the contract.
+* Use the [Benefit Calculator](/calculator) to model your potential offsets.
 
-- [Why This Guide Exists](/guide/overview/why-this-guide) - More context
-- [Understanding Your Pay](/guide/preparation/understanding-pay) - Key preparation step
-- [Calculator](/calculator) - Model your potential benefits and offset

@@ -3,7 +3,6 @@ title: "Returning to Work"
 description: "Transitioning from disability back to flying"
 icon: "i-lucide-plane-takeoff"
 order: 3
-lastUpdated: "2026-01-11"
 ---
 
 # Returning to Work

@@ -3,7 +3,6 @@ title: "Out-of-State Residents"
 description: "CA SDI for pilots who live outside California"
 icon: "i-lucide-plane"
 order: 1
-lastUpdated: "2026-01-11"
 ---
 
 # SDI for Out-of-State Residents

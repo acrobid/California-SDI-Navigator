@@ -3,7 +3,6 @@ title: "Required Documentation"
 description: "Documents needed for your SDI claim"
 icon: "i-lucide-file-check"
 order: 4
-lastUpdated: "2026-01-11"
 ---
 
 # Required Documentation

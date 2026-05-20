@@ -3,7 +3,6 @@ title: "Post-Filing Timeline"
 description: "What to expect after filing your SDI claim"
 icon: "i-lucide-calendar"
 order: 1
-lastUpdated: "2026-01-11"
 ---
 
 # Post-Filing Timeline

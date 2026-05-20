@@ -3,227 +3,110 @@ title: "Understanding Your Pay Structure"
 description: "How FedEx pilot pay translates to EDD's understanding"
 icon: "i-lucide-dollar-sign"
 order: 1
-lastUpdated: "2026-01-11"
 ---
 
-# Understanding Your Pay Structure
+# Understanding the Pilot Pay Structure
 
-One of the biggest challenges in filing a CA SDI claim as a FedEx pilot is that the EDD system was not designed for airline pilot compensation. Understanding how to translate your pay is critical.
+One of the biggest hurdles in filing a CA SDI claim as a FedEx pilot is that the state’s computer systems were never designed for airline pilot compensation. Understanding how the pilot pay structure maps to EDD's standard categories is critical to preventing denials.
 
-## Pilot Pay vs. Traditional Pay
+## Pilot Pay vs. Standard Pay
+The EDD systems assume a traditional employee model: a salaried or hourly worker receiving fixed paychecks, working consistent weekly hours, and having a clear separation between sick leave and active duty. 
 
-### What EDD Expects
+FedEx pilots work under a very different model. Pay fluctuates month to month based on actual flying, pilots are paid semi-monthly, per diem does not represent taxable wages, and sick pay is calculated using the hourly rate, making it look identical to flight pay on pay statements.
 
-EDD's systems are designed for employees with:
+## Locating SDI on Pay Stubs
+Before filing, a pilot must verify that they are actively paying into the California SDI system. On FedEx pay stubs (retrievable through Workday), the SDI deduction is typically labeled as **CA OASDI/E** or **CASDI**. 
 
-- Fixed monthly or bi-weekly salaries
-- Consistent hours each pay period
-- Simple pay categories (regular pay, overtime, bonus)
-- Clear distinction between sick pay and regular pay
+As of 2026, the deduction rate is **1.3%** of gross taxable wages. Because the wage cap was eliminated in 2024, this tax applies to the entire pilot income, meaning pilots contribute significant amounts to the state fund and are fully entitled to claim it.
 
-### What Pilots Have
-
-FedEx pilots have:
-
-- Variable monthly income based on flying
-- Multiple pay components each pay period
-- Per diem that isn't really "income"
-- Sick pay that looks identical to flight pay on statements
-- Semi-monthly pay periods (twice monthly)
-
-## Identifying SDI on Your Pay Stub
-
-Before filing, confirm you are actually paying into the CA SDI system.
-
-### Common Pay Stub Labels
-
-On FedEx pay stubs, the SDI deduction is often not labeled "SDI". Look for:
-
-- **CA OASDI/E**: This is the most common label for the California SDI tax deduction.
-- **CASDI**: Another possible label.
-
-### The Tax Rate
-
-As of 2026, the deduction rate is **1.3%** of your gross taxable wages. Unlike Social Security, there is **no maximum wage cap** for CA SDI—you pay the percentage on your entire pilot income.
-
-## Pay Components Explained
-
-### Flight Pay (Trip Pay)
-
-This is your primary compensation—pay for actual flight hours flown.
-
-- Varies month to month based on your schedule
-- Calculated based on credit hours × hourly rate
-- This is "regular work pay" in EDD terms
-
-### Per Diem
-
-Compensation for meals and incidentals while traveling.
-
-- Not technically "wages" in the traditional sense
-- FedEx pay stubs show this as non-taxable income
-- Does NOT count toward SDI benefit calculations
-
-### Premium Pay / Override / Night Differential
-
-Additional compensation for specific situations:
-
-- Override pay
-- Training pay
-- **These are taxable wages** and should be included in your calculations.
-
-### Sick Pay
+## Key Pay Components Explained
+* **Flight Pay (Trip Pay):** This is the primary compensation based on credit hours and hourly rates. It varies month to month depending on flying and represents "regular work pay" in the state's eyes.
+* **Per Diem:** Non-taxable compensation for meals and travel incidentals. Because it is non-taxable, it is excluded from base-period wage calculations.
+* **Premium Pay / Overrides / Training Pay:** Any override pay, training pay, or night differential constitutes taxable wages. These lines are subject to the 1.3% tax and count toward base-period calculations.
+* **Sick Pay:** Under the contract, paid sick hours are drawn from sick banks and paid at the standard hourly rate. 
 
 ::callout{type="warning" title="The Sick Pay Problem"}
-On FedEx pay stubs, sick pay often appears listed as "Regular Pay" on the summary line. This is a major issue when proving to EDD that you were NOT working during periods you were on sick leave.
+On pay statements, sick pay is often aggregated into the same summary line as "Regular Pay." This is a primary source of claim delays. If an EDD auditor reviews pay stubs, it appears as though the pilot was still actively working and earning wages during their disability, which can trigger an automatic audit or claim suspension.
 ::
 
-### Vacation Pay
+* **Vacation Pay:** Paid vacation is treated differently from sick pay by EDD. If a pilot receives vacation payouts during a disability, EDD generally considers these to be vested benefits rather than active wages, meaning they should not offset SDI payments. Keeping vacation lines clearly documented helps prove that the pilot was not actively on duty.
 
-Pay for vacation days used. Similar to sick pay in appearance.
+## Mapping Pilot Pay to EDD Categories
+To see how pilot pay terms align with standard EDD claim concepts, review this comparison:
 
-In many claims, EDD treats vacation pay differently from "regular wages" for SDI coordination. Keep vacation designations visible in your records so you can explain why a paycheck during disability does not always mean active work pay.
+| Pilot Reality | EDD Standard Category | Administrative Friction |
+| ----------- | --------------------- | ----------------------- |
+| **Semi-Monthly Pay** | Monthly or Bi-Weekly Pay | Confuses standard wage-period screens. |
+| **Variable Flight Credit** | Fixed Salary / Set Hours | Standard "regular pay" rate is hard to define. |
+| **Non-Taxable Per Diem** | Included in Gross Income | Distorts calculations if per diem is misreported as wages. |
+| **Trips, Overrides, Premiums** | Standard Hourly Rate | Multiple line items cause entry errors. |
+| **Sick Pay Labeled as Regular** | Distinct Sick Leave Category | Auditors assume the pilot is still working. |
+| **Irregular Schedules (non-M–F)** | Five-Day Work Week | Finding the exact "last day worked" is tricky. |
 
-## Pilot-Specific Pay Mapping
-
-| Pilot Reality                   | EDD Assumption       | Friction                               |
-| ------------------------------- | -------------------- | -------------------------------------- |
-| Semi-monthly pay                | Monthly or bi-weekly | Calculation confusion                  |
-| Variable hours per month        | Consistent schedule  | "Regular" pay undefined                |
-| Per diem (non-taxable)          | All pay is wages     | Confuses total income figures          |
-| Trip pay, override, premium     | Simple hourly/salary | Multiple line items confuse processors |
-| Sick pay looks like regular pay | Clear distinction    | Hard to prove work stopped             |
-| Schedule varies (not M-F)       | Daily work expected  | "Last day worked" can be ambiguous     |
-
-## Monthly Equivalent Calculation
-
-EDD often needs monthly income figures. FedEx pays semi-monthly (twice per month), so:
-
+## Calculating Monthly and Quarterly Income
+Because pilots are paid semi-monthly (on the 15th and the last day of the month), converting wages to a monthly format for EDD requires adding both pay cycles:
 ```
 Monthly Income = (Semi-Monthly Pay Period 1) + (Semi-Monthly Pay Period 2)
 ```
-
-For the "highest quarter" calculation:
-
+For the highest quarter calculation, combine three calendar months:
 ```
 Quarterly Income = Month 1 + Month 2 + Month 3
 ```
 
-## Your Base Period
+## Determining the Base Period
+The lookback period determines the weekly benefit level based on the quarter in which the claim is filed:
 
-SDI benefits are calculated based on your "base period"—a specific 12-month window:
+| Filing Quarter | Lookback Base Period |
+| -------------- | -------------------- |
+| **Jan – Mar** | October (2 years prior) through September (1 year prior) |
+| **Apr – Jun** | January through December (previous calendar year) |
+| **Jul – Sep** | April (1 year prior) through March (current year) |
+| **Oct – Dec** | July (1 year prior) through June (current year) |
 
-| If You File In | Your Base Period Used            |
-| -------------- | -------------------------------- |
-| Jan - Mar      | Oct (2 yrs ago) - Sep (1 yr ago) |
-| Apr - Jun      | Jan - Dec (previous year)        |
-| Jul - Sep      | Apr (last yr) - Mar (this yr)    |
-| Oct - Dec      | Jul (last yr) - Jun (this yr)    |
-
-::callout{type="tip" title="Timing Matters"}
-If you're close to a quarter boundary and can control your filing date, calculate which base period gives you a higher benefit. Even a few days difference in filing can change your base period.
+::callout{type="tip" title="Filing Date Strategy"}
+If the disability onset falls near a calendar quarter boundary and the pilot has flexibility in the filing date, they should calculate which lookback period includes their highest-earning quarters. Moving the filing date by just a few days can shift the base period, potentially increasing the benefit level.
 ::
 
-## Recommended Action: Pay Explanation Letter
+## Submitting the Pay Explanation Letter
+Because pilot pay is highly complex, it is strongly recommended to attach a **Pilot Pay Explanation Letter** to the claim submission. This letter (available in the [Templates directory](/templates)) provides the EDD claims processor with a guide on how to read pilot pay stubs, explains per diem exclusions, and helps them understand why the pilot continued to receive payouts from sick banks after physical work stopped.
 
-Because pilots have such complex pay, we strongly suggest submitting a **Pilot Pay Explanation Letter** (see our [Templates](/templates) section). This explains to the EDD processor exactly how to read your stubs and why your last day worked might not result in an immediate drop in "pay" (due to sick bank usage).
+## What FedEx Reports to the State
+FedEx reports payroll data to the state of California, but the formatting often creates a mismatch:
+* The reported earn codes do not align with standard EDD entry categories.
+* Aggregate wage figures do not separate active flight duty pay from paid sick leave.
+* Data is reported on a calendar basis, while pilot lines operate on bid months.
 
-## What FedEx Reports to EDD
+### The Format Mismatch (What FedEx Submits)
+During a previous Pilot Benefit Review Board (PBRB) appeal, a pilot obtained a copy of the exact earnings data spreadsheet that FedEx payroll submits to EDD. It uses these primary internal codes:
 
-FedEx payroll reports wage data to EDD, but:
-
-- Categories may not match your pay stub detail
-- "Regular pay" might include sick pay
-- The data FedEx sends may be confusing to EDD
-- Some pilots have experienced incorrect or zero reporting
-
-### What We Know: The Format Mismatch
-
-One pilot, after going through the Pilots Benefit Review Board, obtained a copy of what FedEx sent to CA EDD. It was a spreadsheet with these columns:
-
-| Earn Code | Description |
-|-----------|-------------|
+| Earn Code | Internal FedEx Description |
+|-----------|---------------------------|
 | `POV` | Pilot Regular |
-| `PRH` | Pilot BLG |
+| `PRH` | Pilot BLG (Guaranteed Minimum) |
 | `PRT` | Pilot Required Training |
-| `PDN` | Pilot--Non Taxable Per Diem |
-| `PIP` | Pilot--International Pay |
-| `PVB` | Pilot--Vacation Buyback |
+| `PDN` | Pilot Non-Taxable Per Diem |
+| `PIP` | Pilot International Pay |
+| `PVB` | Pilot Vacation Buyback |
 | `POH` | Pilot Overpayment |
-| `KLT` | Disability--Long Term Update |
-| `RCT` | Bonus--Recruitment/Signing |
-| `ZUU` | Expat Sub Yr |
+| `KLT` | Disability Long Term Update |
+| `RCT` | Signing/Retention Bonus |
+| `ZUU` | Expat Supplement |
 
-The pilot's feedback: **CA EDD did not understand the information given to them by FedEx.** EDD staff are trained on standard weekly pay jobs, not BLG formulas, per diem, overages, and bid-month boundaries. When EDD sees codes they do not recognize, they default to their own interpretation—which may result in a denial.
+**The Friction:** EDD claims processors are trained to evaluate standard weekly or hourly jobs. They do not understand BLG formulas, per diem exclusions, or bid-month boundaries. When they see codes like `POV` or `PRH` during a period a pilot claims to be disabled, they often assume active work and deny or freeze the claim.
 
-**You have no way of knowing what information FedEx passed to EDD or in what form unless you request it.**
-
-### What You Can Do (Action Steps)
-
-**If your claim is denied or stalled due to wage/pay-date confusion:**
-
-1. **Identify the FedEx contact.** As of this writing, the only FedEx contact identified who handles EDD pay verification is **Jennifer Crisp, FedEx Senior Benefits Advisor** ([see contacts](/contacts)). It was nearly impossible for the reporting pilot to find anyone else at FedEx who knew who handled these requests.
-
-2. **Request the data.** Ask Jennifer Crisp (or whoever is currently in this role) for a copy of the spreadsheet or data FedEx submitted to CA EDD on your behalf. You need to see exactly what EDD received before you can fix the confusion.
-
-3. **Compare against your records.** Once you have the FedEx data, compare it to your ADP pay stubs and your schedule. Look for:
-   - Dates that do not match your actual last day worked
-   - Pay codes EDD may misread (e.g., "Pilot Regular" when it was actually sick pay)
-   - Bid-month boundary dates being treated as calendar-month work dates
-
-4. **Go in person.** The pilot who reported this found that resolving the mismatch over the phone was not effective. **To solve the problem with CA EDD will probably take an in-person visit.** Someone needs to resolve this with FedEx, not just CA EDD.
+### Resolution Steps
+If a claim is stalled or denied due to wage reporting issues, the pilot can take the following path:
+1. **Contact FedEx Benefits Support:** The designated point of contact for correcting and verifying FedEx payroll data with EDD is **Jennifer Crisp, FedEx Senior Benefits Advisor** ([see contacts](/contacts)). 
+2. **Request the Submitted Spreadsheet:** Ask FedEx payroll or the benefits department for the exact wage spreadsheet submitted to EDD. The pilot must see what the state received to locate the error.
+3. **Audit Against ADP Pay Stubs:** Cross-reference the FedEx spreadsheet with the ADP statements and flying schedule. Look for discrepancies in the last day worked, or sick pay that was misreported as regular wages.
+4. **Present the Findings In Person:** Resolving these complex data mismatches over the phone is rarely successful. It is far more effective to bring pay stubs, the flying schedule, and the FedEx payroll spreadsheet to an in-person EDD office visit.
 
 ### The Bid Month vs. Calendar Month Trap
-
-This is a documented case where the format mismatch cost a pilot money:
-
-- Pilot started receiving LTD on **April 28, 2025** (beginning of the May '25 bid month)
-- ADP pay statement showed pay through **April 30, 2025**
-- CA EDD denied disability pay for **April 28-30** (~$800)
-- Reason: EDD's system saw "paid through April 30" and treated the pilot as still working on those days
-
-**Action step:** When filing, explicitly clarify your **last day physically on duty** and note that your ADP "pay through" date reflects the bid-month cutoff, not your disability start date. If this specific issue caused your denial, bring your ADP stubs, schedule, and the FedEx data to an in-person EDD visit.
-
-Before filing, consider:
-
-1. Reviewing what data EDD already has about you
-2. Gathering your own pay stubs as backup
-3. Being prepared to explain pilot compensation
-4. Requesting a copy of what FedEx submits to EDD if a problem arises
-
-## Tools to Help
-
-### Use the Calculator
-
-Our [Benefit Calculator](/calculator) helps you:
-
-- Input your quarterly income
-- See your estimated SDI benefit
-- Understand how income translates to benefits
-
-### Gather Documentation
-
-For the [preparation checklist](/checklist):
-
-- Save at least 18 months of pay stubs
-- Calculate your highest quarter
-- Document which pay represents actual work vs. sick time
-
-## Explaining to EDD
-
-If you need to explain your pay to an EDD representative:
-
-**Key Points:**
-
-1. "I am an airline pilot paid per flight hour, not hourly wages"
-2. "My schedule and pay vary month to month"
-3. "A full month of work is typically 75-85 flight hours"
-4. "Sick pay appears the same as regular pay on my statements"
-
-See the [Pay Stub Translator](/templates) section for tools to create EDD-friendly summaries.
+Because schedules run on bid months rather than calendar months, pay cutoff dates can cause issues:
+* **The Case:** A pilot transitioned to LTD on **April 28, 2025** (the start of the May bid month). Because the ADP statement showed pay through **April 30**, EDD denied disability benefits for those final three days of April, assuming the pilot was still working.
+* **The Solution:** When filing, a pilot must explicitly state their **last day physically on duty** and clarify that the "paid through" date on the pay stub represents a bid-month administration boundary, not active work. If denied for this reason, they must bring flight schedule logs to an EDD office to prove when they stepped off the aircraft.
 
 ## Next Steps
-
-- [Documenting Your Income](/guide/preparation/documenting-income) - What records to gather
-- [Calculator](/calculator) - Calculate your benefits
-- [Checklist](/checklist) - Start tracking preparation steps
+* Read about [Documenting Income](/guide/preparation/documenting-income) to prepare backup files.
+* Estimate potential benefits and deductions with the [Calculator](/calculator).
+* View the interactive [Checklist](/checklist) to track preparation milestones.

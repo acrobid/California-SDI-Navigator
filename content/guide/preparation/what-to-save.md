@@ -3,7 +3,6 @@ title: "What to Save Now"
 description: "Documents to collect before you need them"
 icon: "i-lucide-folder-archive"
 order: 4
-lastUpdated: "2026-01-11"
 ---
 
 # What to Save Now

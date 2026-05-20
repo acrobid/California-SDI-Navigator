@@ -3,7 +3,6 @@ title: "Appealing Hartford Decisions"
 description: "How to appeal Hartford LTD denials or calculation disputes"
 icon: "i-lucide-scale"
 order: 3
-lastUpdated: "2026-01-11"
 ---
 
 # Appealing Hartford LTD Decisions

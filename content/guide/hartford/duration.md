@@ -3,7 +3,6 @@ title: "LTD Duration Limits"
 description: "How long LTD benefits last based on condition type"
 icon: "i-lucide-clock"
 order: 6
-lastUpdated: "2026-01-11"
 ---
 
 # LTD Duration Limits

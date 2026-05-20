@@ -3,7 +3,6 @@ title: "If Your Claim Is Denied"
 description: "Understanding denials and your appeal options"
 icon: "i-lucide-alert-circle"
 order: 4
-lastUpdated: "2026-01-11"
 ---
 
 # If Your SDI Claim Is Denied

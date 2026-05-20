@@ -3,7 +3,6 @@ title: "When LTD Begins"
 description: "Understanding when Long-Term Disability coverage starts"
 icon: "i-lucide-calendar-check"
 order: 10
-lastUpdated: "2026-01-11"
 ---
 
 # When LTD Begins
@@ -132,20 +131,21 @@ You might qualify during the "own occupation" period but not the "any occupation
 - Treatment plan
 - Work restrictions
 
-## Your LTD Policy Details
+## LTD Policy Details
 
 ### Benefit Amount
 
-Hartford LTD pays:
+Under the contract, LTD benefits pay:
 
-- **66.67%** of your pre-disability earnings
-- Subject to IRS 401(a)(17) limit ($350,000 for 2026)
-- Reduced by other income (SDI, other disability payments)
+- **60%** of pre-disability earnings for the first 24 months of disability.
+- **50%** of pre-disability earnings after the first 24 months.
+- These benefits are subject to the IRS 401(a)(17) annual compensation limit ($350,000 for 2026).
+- Payments are reduced by other coordinate incomes, such as state SDI.
 
-**Maximum Monthly Benefit Calculation:**
+**Maximum Monthly Benefit Calculation (First 24 Months):**
 
 ```
-$350,000 × 66.67% ÷ 12 = $19,446/month (before offsets)
+$350,000 × 60% ÷ 12 = $17,500/month (before offsets)
 ```
 
 ### Taxability

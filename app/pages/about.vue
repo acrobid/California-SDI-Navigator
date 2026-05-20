@@ -11,6 +11,15 @@ useSeoMeta({
   twitterCard: "summary_large_image",
   twitterImage: "/og-image.svg",
 });
+
+// Fetch a guide page to get the dynamic lastUpdated date from the schema
+const { data: guidePage } = await useAsyncData("about-last-updated", () => {
+  return queryCollection("guide").select("lastUpdated").order("updatedAt", "DESC").first();
+});
+
+const lastUpdated = computed(() => {
+  return guidePage.value?.lastUpdated || new Date().toLocaleDateString("en-US", { month: "long", year: "numeric" });
+});
 </script>
 
 <template>
@@ -158,7 +167,7 @@ useSeoMeta({
 
         <h2>Version Information</h2>
         <p>
-          <strong>Last Updated:</strong> January 2026<br />
+          <strong>Last Updated:</strong> {{ lastUpdated }}<br />
           <strong>SDI Rates Current Through:</strong> 2026
         </p>
       </div>

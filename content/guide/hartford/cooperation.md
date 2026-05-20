@@ -3,7 +3,6 @@ title: "LTD Cooperation Requirements"
 description: "What you must do to maintain your Long-Term Disability benefits"
 icon: "i-lucide-handshake"
 order: 5
-lastUpdated: "2026-01-11"
 ---
 
 # LTD Cooperation Requirements

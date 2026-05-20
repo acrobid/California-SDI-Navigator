@@ -3,7 +3,6 @@ title: "Document Requests"
 description: "How to respond to EDD requests for additional documentation"
 icon: "i-lucide-file-question"
 order: 3
-lastUpdated: "2026-01-11"
 ---
 
 # Responding to EDD Document Requests

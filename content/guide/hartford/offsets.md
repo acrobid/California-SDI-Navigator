@@ -3,7 +3,6 @@ title: "LTD Benefit Offsets"
 description: "Understanding how CA SDI, SSDI, and outside income affect your LTD benefits"
 icon: "i-lucide-minus-circle"
 order: 3
-lastUpdated: "2026-01-11"
 ---
 
 # LTD Benefit Offsets

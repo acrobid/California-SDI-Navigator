@@ -3,7 +3,6 @@ title: "VA Disability"
 description: "How VA disability benefits interact with SDI and LTD"
 icon: "i-lucide-medal"
 order: 2
-lastUpdated: "2026-01-11"
 ---
 
 # VA Disability and SDI/LTD

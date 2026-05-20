@@ -3,7 +3,6 @@ title: "Filing Methods"
 description: "Choosing between online, mail, and in-person SDI filing"
 icon: "i-lucide-send"
 order: 2
-lastUpdated: "2026-01-11"
 ---
 
 # Filing Methods: Online vs. Mail vs. In-Person

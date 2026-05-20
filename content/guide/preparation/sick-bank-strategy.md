@@ -3,210 +3,135 @@ title: "Sick Bank Strategy"
 description: "Managing your sick and DSA banks strategically"
 icon: "i-lucide-piggy-bank"
 order: 3
-lastUpdated: "2026-01-11"
 ---
 
 # Sick Bank Strategy
 
-Understanding how to manage your sick banks is crucial for both short-term protection and long-term disability planning.
+Managing sick and disability banks strategically is critical for maintaining short-term cash flow and coordinating with long-term disability coverage under the contract.
 
-## Understanding Your Banks
+## Understanding the Leave Banks
 
 ### Regular Sick Bank
-
-- Accrues continuously during employment
-- Used for short-term illness
-- May have maximum accrual limits
+The regular sick bank accrues continuously during active service and is the primary resource for short-term illnesses. Contractual limits apply to total accruals, making it important to monitor balances.
 
 ::callout{type="info" title="California 'Kin Care' Law"}
 Under California Labor Code Section 233, California-based pilots (LAX/OAK) can use up to **half of their annual sick leave accrual** to care for an ill family member (parent, child, spouse, domestic partner, grandparent, grandchild, or sibling). This is a statutory right for pilots paying CA SDI taxes, regardless of where they live.
 ::
 
 ### Disability Sick Absence (DSA) Bank
-
-- Specifically for extended disability periods
-- May have different accrual rules
-- Often used before LTD kicks in
+The Disability Sick Absence (DSA) bank is designed specifically to cover extended absences. It has distinct accrual rules under the contract and serves as the final buffer of paid company leave before a pilot transitions to Long-Term Disability (LTD) benefits.
 
 ## The Transition Timeline
 
 ```
-Phase 1: Sick Bank
+Phase 1: Regular Sick Bank
 ↓ (when exhausted)
 Phase 2: DSA Bank
 ↓ (when exhausted)
-Phase 3: LTD Benefits (with SDI offset)
+Phase 3: LTD Benefits (with SDI offset applied)
 ```
 
 ::callout{type="info" title="When to File SDI"}
-You can file for CA SDI during any phase when you're unable to work. You don't have to wait until sick banks are exhausted. In fact, filing early is recommended.
+A pilot can file for CA SDI during any phase of their absence. There is no need to wait until company sick banks are exhausted. In fact, filing early is highly recommended to establish the claim.
 ::
 
-## SDI Filing Timing
+## SDI Filing Strategy
+Filing the SDI claim immediately after stepping off the line offers significant benefits. It starts the processing timeline early, gives the pilot more time to resolve wage verification disputes with EDD, and ensures that the state's 49-day filing deadline is met. 
 
-### Early Filing Benefits
+Under California law, SDI requires a **7-day waiting period** where no benefits are payable. Once this waiting period is served, benefit payments can begin. Depending on how sick bank payouts are structured, these state benefits may overlap with or supplement company pay, subject to EDD coordination rules.
 
-- Claim processing starts sooner
-- Payments may begin when you need them
-- 49-day deadline doesn't become a crisis
-- More time to resolve any issues
+## Coordinating with the LTD Offset
 
-### When SDI Payments Actually Start
-
-SDI has a **7-day waiting period** (no benefits paid for first 7 days of disability). After that:
-
-- If approved, payments begin for the period after the waiting period
-- Payments may overlap with or replace sick bank pay
-- Coordination depends on timing
-
-## The Hartford Offset Consideration
-
-::callout{type="warning" title="Key Decision Point"}
-The Hartford offset only applies to LTD benefits. While you're still using sick banks, there's no LTD to offset.
+::callout{type="warning" title="Key Coordination Rule"}
+The LTD plan's offset only applies once the pilot transitions to active LTD benefits. While the pilot is drawing pay from regular sick or DSA banks, there is no LTD payment to offset.
 ::
 
-### Optimal Timing Strategy
+### Optimal Step-by-Step Flow
+To minimize cash flow disruptions, pilots should follow this timeline:
+1. **File SDI Immediately:** Submit the state claim during the first week of disability.
+2. **Utilize Company Banks:** Draw from regular sick and DSA banks while the state processes the claim.
+3. **Establish SDI Payments:** Secure state benefit approval while still on company payroll.
+4. **Transition to LTD:** When company banks are fully exhausted, transition to LTD.
+5. **Coordinate the Offset:** The LTD administrator will deduct the expected SDI offset, but because the state benefits are already active, the pilot faces no cash flow gap.
 
-1. **File SDI early** in your disability
-2. **Use sick/DSA banks** while SDI processes
-3. **SDI payments begin** (hopefully before LTD starts)
-4. **LTD begins** when sick banks exhausted
-5. **Offset applies** but you're already receiving SDI
+## Auditing Company Balances
+Before filing, a pilot should verify current leave balances in Workday or on the latest pay statements. The pilot needs to document their exact regular sick bank hours, DSA bank hours, monthly accrual rates, and any maximum caps.
 
-The goal is to have SDI approved and paying **before** you transition to LTD, minimizing the gap where Hartford offsets SDI you haven't received.
-
-## Checking Your Balances
-
-### Where to Find Your Balances
-
-1. **Workday:** Check current balances
-2. **Pay stubs:** Often show current accruals
-3. **HR:** Can provide historical information
-
-### What to Document
-
-- Current sick bank balance (hours)
-- Current DSA bank balance (hours)
-- Monthly accrual rate
-- Any caps or limits
-
-## Estimating Duration
-
-Calculate how long your banks will last:
-
+To estimate how long company leave will last, divide total accumulated sick hours by the standard monthly credit hour burn rate:
 ```
 Total Sick Hours ÷ Monthly Usage Rate = Months of Coverage
-
-Example:
-- Sick bank: 480 hours
-- DSA bank: 720 hours
-- Total: 1,200 hours
-- Monthly burn: 168 hours (full month)
-- Duration: ~7 months
 ```
+For example, if a pilot has 480 hours in their regular sick bank and 720 hours in their DSA bank (1,200 total hours), and consumes an average of 168 hours per month on sick leave, their company paid coverage will last approximately 7 months.
 
-## Strategic Considerations
+## Tactical Planning Scenarios
 
-### If You Have Advance Notice
+### Planned Medical Absence
+For scheduled procedures or known upcoming medical leaves, a pilot can prepare in advance:
+* **Maximize Accruals:** Fly the schedule up to the disability date to build banks.
+* **Pre-Draft Filings:** Prepare state and LTD claims paperwork beforehand.
+* **Coordinate Timelines:** Inform the benefits department and the LTD administrator of the planned transition date.
+* **Keep Records:** Document all flying hours, scheduling changes, and benefit confirmations.
 
-For planned surgeries or known upcoming disability:
-
-1. **Maximize your banks:** Work your schedule up to disability
-2. **File SDI immediately:** Don't wait
-3. **Coordinate with Hartford:** Let them know timeline
-4. **Document everything:** Keep meticulous records
-
-### If Unexpected Disability
-
-1. **File SDI as soon as possible**
-2. **Report to FedEx immediately**
-3. **Check your current bank balances**
-4. **Start LTD paperwork early**
+### Sudden Medical Absence
+If sidelined by an unexpected illness or injury, a pilot must act quickly:
+* **Notify Scheduling:** Report the medical status to FedEx immediately.
+* **Verify Leave Balances:** Check Workday to confirm active sick bank hours.
+* **File the SDI Claim:** Submit the state claim as soon as the waiting period begins.
+* **Initiate LTD Process:** Start the LTD application paperwork early to prevent administrative delays.
 
 ### Advanced Income Management
+Because pilot pay and benefits coordinate in complex ways, some crew members look at advanced strategies:
+* **Sick Leave vs. Vacation Leave:** EDD evaluates paid sick leave and vested vacation payouts differently. Vacation pay is often exempt from offsetting state benefits, while sick leave is typically considered active wage replacement.
+* **Sick Bank Burn Rates:** The timing of sick bank usage can affect how quarterly earnings are calculated in the SDI base period.
+* **Benefit Overlaps:** Minimizing the direct overlap of company sick pay and state SDI benefits can sometimes prevent EDD audit flags.
 
-Some pilots have explored strategies to maximize SDI benefits given the complex interaction between sick/vacation pay and SDI income calculations:
-
-- **Using vacation vs. sick time**: Different types of paid time off may be evaluated differently by EDD for income calculation purposes. Confirm current EDD policy before relying on this.
-- **Timing sick bank usage**: Using available sick time earlier in a calendar year (before needing SDI) may affect how your income appears during an SDI claim period.
-- **Minimizing overlap**: Using DSA strategically to reduce your income by approximately the SDI benefit amount might optimize total compensation, though this requires careful calculation.
-
-::callout{type="warning" title="Verify Before Acting"}
-These strategies involve complex interactions between FedEx policies and CA EDD rules. Contact EDD directly to understand current policy before making decisions based on these considerations. What works in one situation may not work in another.
+::callout{type="warning" title="Verify Prior to Action"}
+These advanced strategies involve complex interactions between the collective bargaining agreement (CBA) and CA EDD regulations. Pilots should verify current policies with ALPA R&I and the state before adjusting leave usage, as rules are subject to change.
 ::
 
-## Bank Payouts
+## Leave Bank Payouts Upon Return
+If a pilot recovers and returns to the line, any remaining sick and DSA balances remain in their accounts for future use. State SDI payments must be stopped immediately upon returning to work, and the LTD claim will close. If the pilot does not return to work, remaining leave banks will pay out according to the contract, after which LTD and state benefits will govern their income.
 
-### If You Return to Work
+## Practical Checklists
 
-- Sick banks remain for future use
-- SDI stops when you return
-- No LTD if you return before it starts
+### Pre-Disability Planning
+* [ ] Review active sick and DSA bank balances in Workday.
+* [ ] Calculate leave duration based on average monthly burn.
+* [ ] Understand the transition rules from company paid leave to LTD.
 
-### If You Don't Return
+### Active Disability Period
+* [ ] Track monthly sick bank usage.
+* [ ] File the state SDI claim during the first week of disability.
+* [ ] Initiate LTD paperwork well before leave banks are exhausted.
 
-- Banks may pay out (check your contract)
-- LTD continues per policy
-- SDI continues up to 52 weeks
+### Transition Phase
+* [ ] Pinpoint the exact date leave banks will be exhausted.
+* [ ] Confirm the LTD transition date with the claims administrator.
+* [ ] Verify that monthly SDI benefit payments are active.
 
-## Practical Tips
+## Frequently Asked Questions
 
-### Before Disability
+### Can I draw sick bank pay and receive state SDI at the same time?
+It depends on timing and coordination. The state pays SDI for periods when a pilot is not receiving regular wages. If the sick bank pays full salary, EDD will typically reduce or withhold SDI benefits for that period, though the pilot can still file to establish the claim.
 
-- [ ] Know your current sick bank balance
-- [ ] Know your current DSA balance
-- [ ] Calculate how long they'll last
-- [ ] Understand transition to LTD
+### How does EDD evaluate income during disability?
+EDD evaluates whether earnings during disability are less than normal wages. For pilots, this is complex:
+* **Sick Pay:** EDD generally counts company sick leave pay as wage replacement, which offsets SDI.
+* **Vacation Pay:** Vested vacation pay is often treated as earned benefit payouts rather than active wages, meaning it may not reduce state benefits.
+* **Categorization:** Accurate presentation of pay codes on the forms is critical to ensure processors do not mistake sick leave for active duty pay.
 
-### During Disability
+### Should I exhaust my company sick banks before filing for state SDI?
+**No.** A pilot must file the state SDI claim within **49 days** of the first day they become disabled. This deadline is set by the physical inability to fly, not by when company pay ends. Filing late can result in the permanent forfeiture of benefits.
 
-- [ ] Track your bank usage
-- [ ] Estimate exhaustion date
-- [ ] File SDI early
-- [ ] Start LTD paperwork before banks run out
-
-### Transition Period
-
-- [ ] Know exactly when banks will exhaust
-- [ ] Confirm LTD start date with Hartford
-- [ ] Verify SDI payments are coming
-- [ ] Monitor for gaps in coverage
-
-## Common Questions
-
-### Can I use sick bank and receive SDI?
-
-It depends on timing and how FedEx reports your wages. Generally:
-
-- SDI pays for periods you're not receiving regular wages
-- If sick bank is paying you, SDI may be reduced or delayed
-- Consult EDD for specifics
-
-### How does EDD evaluate my income during disability?
-
-CA EDD evaluates whether you are earning less than you would have if you were not disabled. This can be complex with pilot pay structures. Key considerations:
-
-- **Sick Pay**: According to EDD guidance, sick pay generally counts as income when evaluating your earnings.
-- **Vacation Pay**: Vacation pay may be treated differently than sick pay for SDI purposes. Contact EDD for current policy.
-- **Gap Periods**: If there is a gap between when you called in sick and your first duty period, an EDD representative may suggest categorizing that period in a way that supports your claim (such as "part-time" status even though FedEx doesn't have part-time pilots). This is simply a categorization for benefit purposes.
-
-The way information is presented to EDD can affect your benefit eligibility and amount. Accurate, complete information is essential.
-
-### Should I exhaust banks before filing SDI?
-
-**No.** File SDI as soon as you're disabled. The 49-day deadline runs from disability start, not from when banks run out. Filing late can mean losing weeks of benefits.
-
-### What if my banks run out before SDI is approved?
-
-This is exactly the problem this guide helps you avoid. Strategies:
-
-- File SDI immediately when disabled
-- Follow up proactively on your claim
-- Have emergency savings if possible
-- Contact ALPA if in financial hardship
+### What if my sick banks run out before my SDI claim is approved?
+This is the primary cash flow risk pilots seek to prevent. If you find yourself in this situation:
+* Submit the SDI claim immediately if you have not already done so.
+* Contact the benefits advisor to verify that FedEx has submitted your wage data.
+* Follow up with EDD daily to resolve any system audits.
+* Contact ALPA R&I or the union's benefits representatives for assistance.
 
 ## Next Steps
+* Learn about [What to Save Now](/guide/preparation/what-to-save) to back up your claim.
+* Understand [When to File](/guide/filing/when-to-file) to coordinate benefits.
+* View the expected claim milestones on the [Timeline](/timeline).
 
-- [What to Save Now](/guide/preparation/what-to-save) - Documents to gather
-- [When to File](/guide/filing/when-to-file) - Filing timing decisions
-- [Timeline](/timeline) - Visualize your expected timeline

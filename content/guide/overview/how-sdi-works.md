@@ -3,7 +3,6 @@ title: "How CA SDI Works"
 description: "Understanding California State Disability Insurance for airline pilots"
 icon: "i-lucide-info"
 order: 1
-lastUpdated: "2026-01-11"
 ---
 
 # How CA SDI Works
@@ -14,15 +13,13 @@ California State Disability Insurance (SDI) is a state-mandated program that pro
 
 ### What Is SDI?
 
-As a FedEx pilot domiciled in the state of California, you are covered by the California State Disability Insurance (SDI) program. SDI is a partial wage-replacement insurance plan that is paid for by a monthly deduction from your wages.
+FedEx pilots based in California are covered by the California State Disability Insurance (SDI) program. SDI is a partial wage-replacement insurance plan funded by a monthly deduction from paychecks. This tax is a function of where the pilot is domiciled, not their state of legal residence. Even if a pilot commutes from Nevada, Oregon, or elsewhere, as long as they are based in California (such as at OAK or LAX), they pay into and are covered by the SDI program.
 
-**Note on Residency:** This deduction is a function of working in the state of California, not your state of legal residence. Even if you live in another state, if you are based in California, you pay into and are covered by SDI.
+### Key Benefits
 
-**Key Points:**
-
-- SDI provides approximately 60-70% of your wages (with caps)
-- Benefits can last up to 52 weeks depending on your condition
-- It covers non-work-related disabilities only (work injuries go through Workers' Comp)
+- **Wage Replacement:** SDI provides approximately 60–70% of wages, subject to a state-mandated weekly limit.
+- **Duration:** Benefits can be paid for up to 52 weeks depending on the medical diagnosis.
+- **Coverage Scope:** The program covers only non-work-related illness or injury (on-the-job injuries are handled via Workers' Compensation).
 
 ### 2026 SDI Rates
 
@@ -34,125 +31,87 @@ As a FedEx pilot domiciled in the state of California, you are covered by the Ca
 | Tax Cap                | **None** (uncapped since 2024) |
 
 ::callout{type="warning" title="Important Change in 2024"}
-Prior to 2024, SDI taxes were capped at a maximum taxable wage. Starting January 1, 2024, **there is no cap**. You pay SDI tax on 100% of your California wages, no matter how much you earn.
+Prior to 2024, SDI taxes were capped at a maximum taxable wage. Starting January 1, 2024, **there is no cap**. Pilots pay SDI tax on 100% of their California wages, no matter how much they earn.
 ::
 
-::Callout{variant="warning" title="Disclaimer"}
-This guide provides general information for FedEx pilots but is not legal or official EDD advice. Always verify with official sources.
+::callout{variant="warning" title="Disclaimer"}
+This guide provides general information for FedEx pilots based on the experiences of fellow crew members. It is not legal or official EDD advice. Always verify policies with official sources.
 ::
 
 ### How Benefits Are Calculated
 
-Your weekly benefit is calculated as:
+The weekly benefit is determined by earnings during a 12-month lookback window known as the "base period." The base period is divided into four quarters and is set by the date the claim is filed:
+
+| Claim Filed        | Base Period Lookback                                     |
+| ------------------ | -------------------------------------------------------- |
+| January - March    | October (2 years prior) through September (1 year prior) |
+| April - June       | January through December (previous calendar year)        |
+| July - September   | April (1 year prior) through March (current year)        |
+| October - December | July (1 year prior) through June (current year)          |
+
+The weekly benefit formula is:
 
 ```
 Weekly Benefit = (Highest Quarter Wages in Base Period ÷ 13) × 70%
 ```
 
-The "base period" is a 12-month period determined by when you file your claim:
-
-| Claim Filed        | Base Period                                    |
-| ------------------ | ---------------------------------------------- |
-| January - March    | Oct (2 years prior) through Sep (1 year prior) |
-| April - June       | Jan through Dec (1 year prior)                 |
-| July - September   | Apr (1 year prior) through Mar (current year)  |
-| October - December | Jul (1 year prior) through Jun (current year)  |
-
-**Example:**
-
-- Filing claim in February 2026
-- Base period: October 2023 through September 2024
-- Highest quarter: $95,000
-- Weekly benefit: ($95,000 ÷ 13) × 0.70 = $5,115... capped at $1,765/week
+For example, if a claim is filed in February 2026, the EDD looks at wages from October 2024 through September 2025. Because pilot wages are typically high, even if a pilot only flies partial lines during their highest quarter (e.g. earning $95,000), the calculated weekly benefit would far exceed the state cap. Thus, pilots will almost always receive the maximum weekly SDI benefit, which is **$1,765** for 2026.
 
 ### Who Qualifies?
 
-To be eligible for CA SDI, you must:
+To be eligible for CA SDI benefits, a pilot must meet these standard state criteria:
 
-1. **Employment Status**: Be employed or actively looking for work at the time your disability began.
-2. **Medical Certification**: Be unable to do your regular or customary work for at least 8 consecutive days.
-3. **Earnings**: Have earned at least $300 during your base period (from which SDI deductions were withheld).
-4. **Under Care**: Be under the care and treatment of a licensed physician/practitioner during the first 8 days of disability.
-5. **Filing Deadline**: File your claim within **49 days** of the date your disability began.
+1. **Employment Status:** Be employed or actively seeking work at the time the disability began.
+2. **Medical Certification:** Be unable to perform customary duties for at least 8 consecutive days.
+3. **Earnings:** Have earned at least $300 in wages subject to SDI tax during the base period.
+4. **Physician Care:** Be under the care of a licensed physician or practitioner during the first 8 days of the disability.
+5. **Filing Deadline:** Submit the formal claim within **49 days** of the first day of disability.
 
-::callout{type="tip" title="For Pilots"}
-As an airline pilot, you cannot perform "modified duty." If you have ANY restriction that prevents you from flying, you are fully disabled for SDI purposes. There is no partial disability in our profession.
+::callout{type="tip" title="FAA Medical & Disability"}
+As airline pilots, job requirements are binary. Because pilots cannot perform "modified duty" or fly with restrictions, any FAA medical disqualification that prevents flying means the pilot is fully disabled under the state's definition.
 ::
 
 ## The EDD Connection
 
-### What is EDD?
-
-The Employment Development Department (EDD) is the California state agency that administers the SDI program (among other programs like unemployment insurance).
-
 ### The Challenge for Pilots
 
-The EDD system was designed for traditional employees with:
+The Employment Development Department (EDD) is the state agency administering SDI. Because their systems are designed for typical W-2 employees with fixed monthly salaries and standard Monday-to-Friday hours, pilot claims frequently run into friction.
 
-- Regular monthly paychecks
-- Consistent work schedules
-- Simple pay structures
+Monthly schedules vary, paychecks contain complex components (such as flight pay, per diem, and overrides), and sick pay looks identical to flight pay on standard ADP pay statements. This misalignment is the primary source of confusion and processing delays for pilot claims.
 
-Airline pilots have:
+## The Processing Timeline
 
-- Variable schedules month to month
-- Complex pay (flight pay, per diem, premium pay, etc.)
-- Sick pay that looks identical to regular pay on statements
+While the state publishes standard processing times, pilot claims often require extra verification. Below is the typical sequence to expect:
 
-This mismatch creates confusion and delays when processing pilot claims.
-
-## How Long Does It Take?
-
-Typical timeline for SDI claims:
-
-Day 0: Last day worked / Disability begins
-Days 1-7: Waiting period (generally not payable)
-Day 8+: File claim as soon as you are eligible
-Days 1-14: Physician certifies claim (critical step)
-Days 14-21: EDD reviews claim, may request additional info
-Days 21-28: Eligibility determination
-~Day 28+: First payment issued (if approved)
-Every 2 weeks: Continued claim certification required
-
-### Eligibility Base Period Definition
-
-The base period is a specific 12-month period that determines both eligibility and benefit amount. EDD looks at wages reported during those quarters.
-
-| Claim Filed        | Base Period Used                                  |
-| ------------------ | ------------------------------------------------- |
-| January - March    | October through September (15-18 months prior)    |
-| April - June       | January through December (previous calendar year) |
-| July - September   | April through March (4-15 months prior)           |
-| October - December | July through June (4-15 months prior)             |
-
-**Example for a pilot filing in January 2026:**
-
-- Base period = October 1, 2024 - September 30, 2025
-- EDD calculates benefit based on the highest-earning quarter in this window.
-  | Doctor license verification | 7-10 business days |
-  | Additional document requests | Variable |
-  | First payment | 2-6 weeks from filing (if no issues) |
+- **Day 1 to 7 (Waiting Period):** The initial 7 days of disability serve as a non-payable waiting period.
+- **Day 8+:** The earliest date a pilot can submit the claim to EDD.
+- **Days 1 to 14:** The treating physician must submit their medical certification (Part B). The claim cannot proceed without this.
+- **Days 14 to 21:** EDD reviews the submitted wage and medical data, which may include verifying the physician's license.
+- **Days 21 to 28:** EDD makes the eligibility determination.
+- **Day 28+:** First payment is issued if the claim is approved without audit flags.
+- **Ongoing (Bi-weekly):** The pilot must submit continued claim certifications every two weeks to maintain benefit payments.
 
 ::callout{type="warning" title="Delays Are Common"}
 Many pilots experience significant delays due to EDD's difficulty understanding pilot pay structures. Plan accordingly and file as early as possible.
 ::
 
-## SDI vs. Other Benefits
+## Benefit Coordination Overview
 
-| Benefit       | Source               | Purpose               | Duration        |
-| ------------- | -------------------- | --------------------- | --------------- |
-| SDI           | California           | Short-term disability | Up to 52 weeks  |
-| LTD           | The Hartford (FedEx) | Long-term disability  | Years           |
-| Sick Bank     | FedEx                | Short-term absence    | Until exhausted |
-| Workers' Comp | Employer             | Work-related injury   | As needed       |
+To see how SDI coordinates with other contractual benefits, review this overview:
 
-## More Information
+| Benefit            | Source                 | Primary Purpose             | Maximum Duration         |
+| ------------------ | ---------------------- | --------------------------- | ------------------------ |
+| **CA SDI**         | State of California    | Short-term wage replacement | Up to 52 weeks           |
+| **Sick/DSA Banks** | FedEx Contract         | Paid sick leave             | Until bank is exhausted  |
+| **LTD Plan**       | FedEx (Aetna/Hartford) | Long-term disability income | Until recovery or age 65 |
+| **Workers' Comp**  | Federal Express        | Job-related injury coverage | As medically required    |
 
-More information about this program can be found on the State of California Employment Development Department (EDD) website:
-[About the State Disability Insurance (SDI) Program](https://edd.ca.gov/en/disability/About_the_State_Disability_Insurance_SDI_Program/)
+## Additional Resources
+
+For official rules and state updates, refer to the [California Employment Development Department (EDD) SDI Portal](https://edd.ca.gov/en/disability/About_the_State_Disability_Insurance_SDI_Program/).
 
 ## Next Steps
 
-- [Understanding FedEx LTD](/guide/overview/how-ltd-works) - How Hartford LTD works
-- [The Offset Problem](/guide/overview/offset-problem) - Why this matters
-- [Benefit Calculator](/calculator) - Estimate your benefits
+- Learn how the [LTD Plan Works](/guide/overview/how-ltd-works) under the contract.
+- Understand the financial impact of [The Offset Problem](/guide/overview/offset-problem).
+- Estimate benefits and tax obligations with the [Benefit Calculator](/calculator).

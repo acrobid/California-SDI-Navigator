@@ -3,7 +3,6 @@ title: "Documenting Your Income"
 description: "What records to gather before filing a CA SDI claim"
 icon: "i-lucide-file-stack"
 order: 2
-lastUpdated: "2026-01-11"
 ---
 
 # Documenting Your Income

@@ -3,7 +3,6 @@ title: "Company System Access While Disabled"
 description: "Your rights to access FedEx systems during disability leave"
 icon: "i-lucide-monitor"
 order: 7
-lastUpdated: "2026-01-11"
 ---
 
 # Company System Access While Disabled

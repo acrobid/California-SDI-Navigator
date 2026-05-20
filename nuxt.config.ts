@@ -1,4 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+import { execSync } from "node:child_process";
+import { statSync } from "node:fs";
+
 export default defineNuxtConfig({
   modules: ["@nuxt/content", "@nuxt/ui", "@nuxt/image", "@nuxt/eslint", "@vueuse/nuxt"],
   css: ["~/assets/css/main.css"],
@@ -73,4 +76,39 @@ export default defineNuxtConfig({
   typescript: {
     strict: true,
   },
+  hooks: {
+    'content:file:afterParse'(ctx: any) {
+      if (ctx && ctx.file && ctx.file.path && ctx.file.path.endsWith('.md')) {
+        const filePath = ctx.file.path;
+        let lastUpdated: string | undefined;
+        let updatedAt: number | undefined;
+
+        try {
+          const gitTime = execSync(`git log -1 --format=%ct "${filePath}"`, { encoding: 'utf8' }).trim();
+          if (gitTime) {
+            const timestamp = parseInt(gitTime, 10) * 1000;
+            const date = new Date(timestamp);
+            lastUpdated = date.toLocaleDateString("en-US", { month: "long", year: "numeric" });
+            updatedAt = timestamp;
+          }
+        } catch (e) {
+          try {
+            const stats = statSync(filePath);
+            lastUpdated = stats.mtime.toLocaleDateString("en-US", { month: "long", year: "numeric" });
+            updatedAt = stats.mtime.getTime();
+          } catch (fsErr) {
+            const now = new Date();
+            lastUpdated = now.toLocaleDateString("en-US", { month: "long", year: "numeric" });
+            updatedAt = now.getTime();
+          }
+        }
+
+        if (ctx.content) {
+          if (lastUpdated) ctx.content.lastUpdated = lastUpdated;
+          if (updatedAt) ctx.content.updatedAt = updatedAt;
+        }
+      }
+    }
+  }
 });
+

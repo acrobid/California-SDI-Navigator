@@ -3,7 +3,6 @@ title: "ALPA Supplemental Disability Plan"
 description: "Coordinating FedEx LTD with ALPA-sponsored disability insurance"
 icon: "i-lucide-shield-plus"
 order: 1
-lastUpdated: "2026-01-11"
 ---
 
 # ALPA Supplemental Disability Plan

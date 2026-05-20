@@ -3,7 +3,6 @@ title: "What to Bring"
 description: "Complete checklist for your EDD office visit"
 icon: "i-lucide-clipboard-list"
 order: 3
-lastUpdated: "2026-01-11"
 ---
 
 # What to Bring to the EDD Office

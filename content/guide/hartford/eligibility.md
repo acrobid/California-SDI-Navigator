@@ -3,7 +3,6 @@ title: "LTD Eligibility Triggers"
 description: "Understanding when Long-Term Disability benefits begin under the FedEx/ALPA CBA"
 icon: "i-lucide-calendar-clock"
 order: 1
-lastUpdated: "2026-01-11"
 ---
 
 # When LTD Benefits Begin

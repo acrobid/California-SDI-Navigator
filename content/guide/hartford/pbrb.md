@@ -3,7 +3,6 @@ title: "PBRB Process"
 description: "Using the Pilot Benefit Review Board for disputes"
 icon: "i-lucide-users"
 order: 4
-lastUpdated: "2026-01-11"
 ---
 
 # The PBRB Process

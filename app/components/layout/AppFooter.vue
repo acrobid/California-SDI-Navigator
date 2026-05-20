@@ -1,5 +1,14 @@
 <script setup lang="ts">
 const currentYear = new Date().getFullYear();
+
+// Fetch a guide page to get the default lastUpdated date
+const { data: guidePage } = await useAsyncData("footer-last-updated", () => {
+  return queryCollection("guide").select("lastUpdated").order("updatedAt", "DESC").first();
+});
+
+const lastUpdated = computed(() => {
+  return guidePage.value?.lastUpdated || `January ${currentYear}`;
+});
 </script>
 
 <template>
@@ -55,7 +64,7 @@ const currentYear = new Date().getFullYear();
             About
           </UButton>
           <span class="opacity-75"
-            >Last Updated: January {{ currentYear }}</span
+            >Last Updated: {{ lastUpdated }}</span
           >
         </div>
       </div>

@@ -3,7 +3,6 @@ title: "LTD Benefit Calculation"
 description: "How LTD benefits are calculated under the FedEx/ALPA CBA"
 icon: "i-lucide-calculator"
 order: 2
-lastUpdated: "2026-01-11"
 ---
 
 # LTD Benefit Calculation

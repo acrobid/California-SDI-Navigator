@@ -3,7 +3,6 @@ title: "When to File"
 description: "Timing your CA SDI claim for optimal results"
 icon: "i-lucide-clock"
 order: 1
-lastUpdated: "2026-01-11"
 ---
 
 # When to File Your SDI Claim
