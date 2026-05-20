@@ -69,16 +69,23 @@ const accordionItems = computed(() => {
   });
 });
 
-// Find previous and next pages
+// Find previous and next pages using section-then-page order
 const navigation = computed(() => {
   if (!allPages.value || !page.value) return { prev: null, next: null };
 
-  const pages = allPages.value.filter((p) => p.path !== "/guide");
-  const currentIndex = pages.findIndex((p) => p.path === page.value?.path);
+  const orderedPages = sections.value.flatMap((section) =>
+    [...section.pages].sort((a, b) => a.order - b.order),
+  );
+  const currentIndex = orderedPages.findIndex(
+    (p) => p.path === page.value?.path,
+  );
 
   return {
-    prev: currentIndex > 0 ? pages[currentIndex - 1] : null,
-    next: currentIndex < pages.length - 1 ? pages[currentIndex + 1] : null,
+    prev: currentIndex > 0 ? orderedPages[currentIndex - 1] : null,
+    next:
+      currentIndex < orderedPages.length - 1
+        ? orderedPages[currentIndex + 1]
+        : null,
   };
 });
 
